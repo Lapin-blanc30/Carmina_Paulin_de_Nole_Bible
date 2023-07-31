@@ -1,4 +1,4 @@
-# Carmina_Paulin_Bible
+# Carmina_Paulin_de_Nole_Bible
 
 ## Projet
 Ce projet sur les _Carmina_ de Paulin de Nole et la Bible contient deux volets :
