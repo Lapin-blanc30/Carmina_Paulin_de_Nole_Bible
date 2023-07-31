@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="/home/alice/Documents/Humanités_numériques/Paulin_de_Nole_XML/Paulin_Carmina_XML/ODD_poexegese_Paulinus_Nolanus(1).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="/home/alice/Documents/Humanités_numériques/Paulin_de_Nole_XML/Paulin_Carmina_XML/ODD_poexegese_Paulinus_Nolanus(1).rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Réminiscences bibliques Vulgate</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Sauf mention contraire, le texte, tombé dans le domaine public, est celui de la Vulgate, pris sur le site https&#160;://www.biblegateway.com/versions/Biblia-Sacra-Vulgata-VULGATE/#booklist.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p> <!--A compléter-->
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+       
+         <head>Réminiscences bibliques dans les poèmes</head>
+         
+         <div xml:id="Gn">
+            <head>Genesis</head>
+            <span xml:id="Gn_1_26"><title>Genesis 1, 26&#160;:</title> Et ait&#160;: Faciamus hominem ad imaginem et similitudinem nostram&#160;: et praesit piscibus maris, et uolatilibus caeli, et bestiis, uniuersaeque terrae, omnique reptili, quod mouetur in terra.</span>       
+            <span xml:id="Gn_1_27"><title>Genesis 1, 27&#160;:</title> Et creauit Deus hominem ad imaginem suam&#160;: ad imaginem Dei creauit illum, masculum et feminam creauit eos.</span>
+            <span xml:id="Gn_2_7"><title>Genesis 2, 7&#160;:</title> Formauit igitur Dominus Deus hominem de limo terrae, et inspirauit in faciem eius spiraculum uitae, et factus est homo in animam uiuentem.</span>
+            <span xml:id="Gn_12_1"><title>Genesis 12, 1&#160;:</title> Dixit autem Dominus ad Abram&#160;: Egredere de terra tua, et de cognatione tua, et de domo patris tui, et ueni in terram quam monstrabo tibi.</span>
+            <span xml:id="Gn_12_2"><title>Genesis 12, 2&#160;:</title> Faciamque te in gentem magnam, et benedicam tibi, et magnificabo nomen tuum, erisque benedictus.</span>
+            <span xml:id="Gn_12_3"><title>Genesis 12, 3&#160;:</title> Benedicam benedicentibus tibi, et maledicam maledicentibus tibi, atque in te benedicentur uniuersae cognationes terrae.</span>
+            <span xml:id="Gn_12_4"><title>Genesis 12, 4&#160;:</title> Egressus est itaque Abram sicut praeceperat ei Dominus, et iuit cum eo Lot&#160;: septuaginta quinque annorum erat Abram cum egrederetur de Haran.</span>
+            <span xml:id="Gn_12_5"><title>Genesis 12, 5&#160;:</title> Tulitque Sarai uxorem suam, et Lot filium fratris sui, uniuersamque substantiam quam possederant, et animas quas fecerant in Haran&#160;: et egressi sunt ut irent in terram Chanaan. Cumque uenissent in eam</span>
+            <span xml:id="Gn_12_6"><title>Genesis 12, 6&#160;:</title> Pertransiuit Abram terram usque ad locum Sichem, usque ad conuallem illustrem&#160;: Chananaeus autem tunc erat in terra.</span>
+            <span xml:id="Gn_12_7"><title>Genesis 12, 7&#160;:</title> Apparuit autem Dominus Abram, et dixit ei&#160;: Semini tuo dabo terram hanc. Qui aedificauit ibi altare Domino, qui apparuerat ei.</span>
+            <span xml:id="Gn_13_16"><title>Genesis 13, 16&#160;:</title> Faciamque semen tuum sicut puluerem terrae&#160;: si quis potest hominum numerare puluerem terrae, semen quoque tuum numerare poterit.</span>
+            <span xml:id="Gn_19_1"><title>Genesis 19, 1&#160;:</title> Veneruntque duo angeli Sodomam uespere, et sedente Lot in foribus ciuitatis. Qui cum uidisset eos, surrexit, et iuit obuiam eis&#160;: adorauitque pronus in terram</span>
+            <span xml:id="Gn_19_2"><title>Genesis 19, 2&#160;:</title> Et dixit&#160;: Obsecro, domini, declinate in domum pueri uestri, et manete ibi&#160;: lauate pedes uestros, et mane proficiscemini in uiam uestram. Qui dixerunt&#160;: Minime, sed in platea manebimus.</span>
+            <span xml:id="Gn_19_3"><title>Genesis 19, 3&#160;:</title> Compulit illos oppido ut diuerterent ad eum&#160;: ingressisque domum illius fecit conuiuium, et coxit azyma, et comederunt.</span>
+            <span xml:id="Gn_19_18"><title>Genesis 19, 18&#160;:</title> Dixitque Lot ad eos&#160;: Quaeso, domine mi</span>
+            <span xml:id="Gn_19_19"><title>Genesis 19, 19&#160;:</title> Quia inuenit seruus tuus gratiam coram te, et magnificasti misericordiam tuam quam fecisti mecum, ut saluares animam meam, nec possum in monte saluari, ne forte apprehendat me malum, et moriar</span>
+            <span xml:id="Gn_19_20"><title>Genesis 19, 20&#160;:</title> Est ciuitas haec juxta, ad quam possum fugere, parua, et saluabor in ea&#160;: numquid non modica est, et uiuet anima mea&#160;?</span>
+            <span xml:id="Gn_19_21"><title>Genesis 19, 21&#160;:</title> Dixitque ad eum&#160;: Ecce etiam in hoc suscepi preces tuas, ut non subuertam urbem pro qua locutus es.</span>
+            <span xml:id="Gn_19_22"><title>Genesis 19, 22&#160;:</title> Festina, et saluare ibi&#160;: quia non potero facere quidquam donec ingrediaris illuc. Idcirco uocatum est nomen urbis illius Segor.</span>
+            <span xml:id="Gn_19_23"><title>Genesis 19, 23&#160;:</title> Sol egressus est super terram, et Lot ingressus est Segor.</span>
+            <span xml:id="Gn_19_24"><title>Genesis 19, 24&#160;:</title> Igitur Dominus pluit super Sodomam et Gomorrham sulphur et ignem a Domino de caelo</span>
+            <span xml:id="Gn_19_25"><title>Genesis 19, 25&#160;:</title> Et subuertit ciuitates has, et omnem circa regionem, uniuersos habitatores urbium, et cuncta terrae uirentia.</span>
+            <span xml:id="Gn_19_26"><title>Genesis 19, 26&#160;:</title> Respiciensque uxor eius post se, uersa est in statuam salis.</span>
+            <span xml:id="Gn_22_1"><title>Genesis 22, 1&#160;:</title> Quae postquam gesta sunt, tentauit Deus Abraham, et dixit ad eum&#160;: Abraham, Abraham. At ille respondit&#160;: Adsum.</span>
+            <span xml:id="Gn_22_2"><title>Genesis 22, 2&#160;:</title> Ait illi&#160;: Tolle filium tuum unigenitum, quem diligis, Isaac, et uade in terram uisionis, atque ibi offeres eum in holocaustum super unum montium quem monstrauero tibi.</span>
+            <span xml:id="Gn_22_3"><title>Genesis 22, 3&#160;:</title> Igitur Abraham de nocte consurgens, strauit asinum suum, ducens secum duos iuuenes, et Isaac filium suum&#160;: cumque concidisset ligna in holocaustum, abiit ad locum quem praeceperat ei Deus.</span>
+            <span xml:id="Gn_22_4"><title>Genesis 22, 4&#160;:</title> Die autem tertio, eleuatis oculis, uidit locum procul</span>
+            <span xml:id="Gn_22_5"><title>Genesis 22, 5&#160;:</title> Dixitque ad pueros suos&#160;: Expectate hic cum asino&#160;: ego et puer illuc usque properantes, postquam adorauerimus, reuertemur ad uos.</span>
+            <span xml:id="Gn_22_6"><title>Genesis 22, 6&#160;:</title> Tulit quoque ligna holocausti, et imposuit super Isaac filium suum&#160;: ipse uero portabat in manibus ignem et gladium. Cumque duo pergerent simul</span>
+            <span xml:id="Gn_22_7"><title>Genesis 22, 7&#160;:</title> Dixit Isaac patri suo&#160;: Pater mi. At ille respondit&#160;: Quid uis, fili&#160;? Ecce, inquit, ignis et ligna&#160;: ubi est uictima holocausti&#160;?</span>
+            <span xml:id="Gn_22_8"><title>Genesis 22, 8&#160;:</title> Dixit autem Abraham&#160;: Deus prouidebit sibi uictimam holocausti, fili mi. Pergebant ergo pariter.</span>
+            <span xml:id="Gn_22_9"><title>Genesis 22, 9&#160;:</title> Et uenerunt ad locum quem ostenderat ei Deus, in quo aedificauit altare, et desuper ligna composuit; cumque alligasset Isaac filium suum, posuit eum in altare super struem lignorum.</span>
+            <span xml:id="Gn_22_10"><title>Genesis 22, 10&#160;:</title> Extenditque manum, et arripuit gladium, ut immolaret filium suum.</span>
+            <span xml:id="Gn_22_11"><title>Genesis 22, 11&#160;:</title> Et ecce angelus Domini de caelo clamauit, dicens&#160;: Abraham, Abraham. Qui respondit&#160;: Adsum.</span>
+            <span xml:id="Gn_22_12"><title>Genesis 22, 12&#160;:</title>  Dixitque ei&#160;: Non extendas manum tuam super puerum, neque facias illi quidquam&#160;: nunc cognoui quod times Deum, et non pepercisti unigenito filio tuo propter me.</span>
+            <span xml:id="Gn_22_13"><title>Genesis 22, 13&#160;:</title> Leuauit Abraham oculos suos, uiditque post tergum arietem inter uepres haerentem cornibus, quem assumens obtulit holocaustum pro filio.</span>
+            <span xml:id="Gn_22_14"><title>Genesis 22, 14&#160;:</title> Appellauitque nomen loci illius, Dominus uidet. Vnde usque hodie dicitur&#160;: In monte Dominus uidebit.</span>
+            <span xml:id="Gn_22_17"><title>Genesis 22, 17&#160;:</title> Benedicam tibi, et multiplicabo semen tuum sicut stellas caeli, et uelut arenam quae est in littore maris&#160;: possidebit semen tuum portas inimicorum suorum</span>
+            <span xml:id="Gn_25_22"><title>Genesis 25, 22&#160;:</title> Sed collidebantur in utero eius paruuli; quae ait&#160;: Si sic mihi futurum erat, quid necesse fuit concipere&#160;? perrexitque ut consuleret Dominum.</span>
+            <span xml:id="Gn_25_23"><title>Genesis 25, 23&#160;: </title>Qui respondens ait&#160;: Duae gentes sunt in utero tuo, et duo populi ex uentre tuo diuidentur, populusque populum superabit, et maior seruiet minori.</span>
+            <span xml:id="Gn_25_24"><title>Genesis 25, 24&#160;:</title> Iam tempus pariendi aduenerat, et ecce gemini in utero eius reperti sunt.</span>
+            <span xml:id="Gn_25_25"><title>Genesis 25, 25&#160;:</title> Qui prior egressus est, rufus erat, et totus in morem pellis hispidus&#160;: uocatumque est nomen eius Esau. Protinus alter egrediens, plantam fratris tenebat manu&#160;: et idcirco appellauit eum Iacob.</span>
+            <span xml:id="Gn_25_30"><title>Genesis 25, 30&#160;:</title> Ait&#160;: Da mihi de coctione hac rufa, quia oppido lassus sum. Quam ob causam uocatum est nomen eius Edom.</span>
+            <span xml:id="Gn_26_18"><title>Genesis 26, 18&#160;:</title> Rursum fodit alios puteos, quos foderant serui patris sui Abraham, et quos, illo mortuo, olim obstruxerant Philisthiim&#160;: appellauitque eos eisdem nominibus quibus ante pater uocauerat.</span>
+            <span xml:id="Gn_26_19"><title>Genesis 26, 19&#160;:</title> Foderuntque in torrente, et repererunt aquam uiuam.</span>
+            <span xml:id="Gn_26_20"><title>Genesis 26, 20&#160;:</title> Sed et ibi iurgium fuit pastorum Gerarae aduersus pastores Isaac, dicentium&#160;: Nostra est aqua, quam ob rem nomen putei ex eo, quod acciderat, uocauit Calumniam.</span>
+            <span xml:id="Gn_26_21"><title>Genesis 26, 21&#160;:</title> Foderunt autem et alium&#160;: et pro illo quoque rixati sunt, appellauitque eum Inimicitias.</span>
+            <span xml:id="Gn_26_22"><title>Genesis 26, 22&#160;:</title> Profectus inde fodit alium puteum, pro quo non contenderunt&#160;: itaque uocauit nomen eius Latitudo, dicens&#160;: Nunc dilatauit nos Dominus, et fecit crescere super terram.</span>
+            <span xml:id="Gn_27_1"><title>Genesis 27, 1&#160;:</title> Senuit autem Isaac, et caligauerunt oculi eius, et uidere non poterat&#160;: uocauitque Esau filium suum maiorem, et dixit ei&#160;: Fili mi&#160;? Qui respondit&#160;: Adsum.</span>
+            <span xml:id="Gn_27_2"><title>Genesis 27, 2&#160;:</title> Cui pater&#160;: Vides, inquit, quod senuerim, et ignorem diem mortis meae.</span>
+            <span xml:id="Gn_27_3"><title>Genesis 27, 3&#160;:</title> Sume arma tua, pharetram, et arcum, et egredere foras&#160;: cumque uenatu aliquid apprehenderis</span>
+            <span xml:id="Gn_27_4"><title>Genesis 27, 4&#160;:</title> Fac mihi inde pulmentum sicut uelle me nosti, et affer ut comedam&#160;: et benedicat tibi anima mea antequam moriar.</span>
+            <span xml:id="Gn_27_5"><title>Genesis 27, 5&#160;:</title> Quod cum audisset Rebecca, et ille abiisset in agrum ut iussionem patris impleret</span>
+            <span xml:id="Gn_27_6"><title>Genesis 27, 6&#160;:</title> Dixit filio suo Iacob&#160;: Audiui patrem tuum loquentem cum Esau fratre tuo, et dicentem ei</span>
+            <span xml:id="Gn_27_7"><title>Genesis 27, 7&#160;:</title> Affer mihi de uenatione tua, et fac cibos ut comedam, et benedicam tibi coram Domino antequam moriar.</span>
+            <span xml:id="Gn_27_8"><title>Genesis 27, 8&#160;:</title> Nunc ergo, fili mi, acquiesce consiliis meis</span>
+            <span xml:id="Gn_27_9"><title>Genesis 27, 9&#160;:</title> Et pergens ad gregem, affer mihi duos haedos optimos, ut faciam ex eis escas patri tuo, quibus libenter uescitur</span>
+            <span xml:id="Gn_27_10"><title>Genesis 27, 10&#160;:</title> Quas cum intuleris, et comederit, benedicat tibi priusquam moriatur.</span>
+            <span xml:id="Gn_27_11"><title>Genesis 27, 11&#160;:</title> Cui ille respondit&#160;: Nosti quod Esau frater meus homo pilosus sit, et ego lenis</span>
+            <span xml:id="Gn_27_12"><title>Genesis 27, 12&#160;:</title> Si attrectauerit me pater meus, et senserit, timeo ne putet me sibi uoluisse illudere, et inducam super me maledictionem pro benedictione.</span>
+            <span xml:id="Gn_27_13"><title>Genesis 27, 13&#160;:</title> Ad quem mater&#160;: In me sit, ait, ista maledictio, fili mi&#160;: tantum audi uocem meam, et pergens, affer quae dixi.</span>
+            <span xml:id="Gn_27_14"><title>Genesis 27, 14&#160;:</title> Abiit, et attulit, deditque matri. Parauit illa cibos, sicut uelle nouerat patrem illius.</span>
+            <span xml:id="Gn_27_15"><title>Genesis 27, 15&#160;:</title> Et uestibus Esau ualde bonis, quas apud se habebat domi, induit eum</span>
+            <span xml:id="Gn_27_16"><title>Genesis 27, 16&#160;:</title> Pelliculasque haedorum circumdedit manibus, et colli nuda protexit</span>
+            <span xml:id="Gn_27_17"><title>Genesis 27, 17&#160;:</title> Deditque pulmentum, et panes, quos coxerat, tradidit.</span>
+            <span xml:id="Gn_27_18"><title>Genesis 27, 18&#160;:</title> Quibus illatis, dixit&#160;: Pater mi&#160;? At ille respondit&#160;: Audio. Quis es tu, fili mi&#160;?</span>
+            <span xml:id="Gn_27_19"><title>Genesis 27, 19&#160;:</title> Dixitque Iacob&#160;: Ego sum primogenitus tuus Esau&#160;: feci sicut praecepisti mihi&#160;: surge, sede, et comede de uenatione mea, ut benedicat mihi anima tua.</span>
+            <span xml:id="Gn_27_20"><title>Genesis 27, 20&#160;:</title> Rursumque Isaac ad filium suum&#160;: Quomodo, inquit, tam cito inuenire potuisti, fili mi&#160;? Qui respondit&#160;: Voluntas Dei fuit ut cito occurreret mihi quod uolebam.</span>
+            <span xml:id="Gn_27_21"><title>Genesis 27, 21&#160;:</title> Dixitque Isaac&#160;: Accede huc, ut tangam te, fili mi, et probem utrum tu sis filius meus Esau, an non.</span>
+            <span xml:id="Gn_27_22"><title>Genesis 27, 22&#160;:</title> Accessit ille ad patrem, et palpato eo, dixit Isaac&#160;: Vox quidem, uox Iacob est&#160;: sed manus, manus sunt Esau.</span>
+            <span xml:id="Gn_27_23"><title>Genesis 27, 23&#160;:</title> Et non cognouit eum, quia pilosae manus similitudinem maioris expresserant. Benedicens ergo illi</span>
+            <span xml:id="Gn_27_24"><title>Genesis 27, 24&#160;:</title> Ait&#160;: Tu es filius meus Esau&#160;? Respondit&#160;: Ego sum.</span>
+            <span xml:id="Gn_27_25"><title>Genesis 27, 25&#160;:</title> At ille&#160;: Affer mihi, inquit, cibos de uenatione tua, fili mi, ut benedicat tibi anima mea. Quos cum oblatos comedisset, obtulit ei etiam uinum. Quo hausto</span>
+            <span xml:id="Gn_27_26"><title>Genesis 27, 26&#160;:</title> Dixit ad eum&#160;: Accede ad me, et da mihi osculum, fili mi.</span>
+            <span xml:id="Gn_27_27"><title>Genesis 27, 27&#160;:</title> Accessit, et osculatus est eum. Statimque ut sensit uestimentorum illius fragrantiam, benedicens illi, ait&#160;: Ecce odor filii mei sicut odor agri pleni, cui benedixit Dominus.</span>
+            <span xml:id="Gn_27_28"><title>Genesis 27, 28&#160;:</title> Det tibi Deus de rore caeli et de pinguedine terrae abundantiam frumenti et uini.</span>
+            <span xml:id="Gn_27_29"><title>Genesis 27, 29&#160;:</title> Et seruiant tibi populi, et adorent te tribus&#160;: esto dominus fratrum tuorum, et incuruentur ante te filii matris tuae&#160;: qui maledixerit tibi, sit ille maledictus, et qui benedixerit tibi, benedictionibus repleatur.</span>
+            <span xml:id="Gn_27_30"><title>Genesis 27, 30&#160;:</title> Vix Isaac sermonem impleuerat, et egresso Iacob foras, uenit Esau</span>
+            <span xml:id="Gn_27_31"><title>Genesis 27, 31&#160;:</title> Coctosque de uenatione cibos intulit patri, dicens&#160;: Surge, pater mi, et comede de uenatione filii tui, ut benedicat mihi anima tua.</span>
+            <span xml:id="Gn_27_32"><title>Genesis 27, 32&#160;:</title> Dixitque illi Isaac&#160;: Quis enim es tu&#160;? Qui respondit&#160;: Ego sum filius tuus primogenitus Esau.</span>
+            <span xml:id="Gn_27_33"><title>Genesis 27, 33&#160;:</title> Expauit Isaac stupore uehementi&#160;: et ultra quam credi potest admirans, ait&#160;: Quis igitur ille est qui dudum captam uenationem attulit mihi, et comedi ex omnibus priusquam tu uenires; benedixique ei, et erit benedictus&#160;?</span>
+            <span xml:id="Gn_27_34"><title>Genesis 27, 34&#160;:</title> Auditis Esau sermonibus patris, irrugiit clamore magno&#160;: et consternatus, ait&#160;: Benedic etiam et mihi, pater mi.</span>
+            <span xml:id="Gn_27_35"><title>Genesis 27, 35&#160;:</title> Qui ait&#160;: Venit germanus tuus fraudulenter, et accepit benedictionem tuam.</span>
+            <span xml:id="Gn_27_36"><title>Genesis 27, 36&#160;:</title> At ille subiunxit&#160;: Iuste uocatum est nomen eius Iacob&#160;: supplantauit enim me en altera uice&#160;: primogenita mea ante tulit, et nunc secundo surripuit benedictionem meam. Rursumque ad patrem&#160;: Numquid non reseruasti, ait, et mihi benedictionem&#160;?</span>
+            <span xml:id="Gn_27_37"><title>Genesis 27, 37&#160;:</title> Respondit Isaac&#160;: Dominum tuum illum constitui, et omnes fratres eius seruituti illius subiugaui; frumento et uino stabiliui eum&#160;: et tibi post haec, fili mi, ultra quid faciam&#160;?</span>
+            <span xml:id="Gn_27_38"><title>Genesis 27, 38&#160;:</title> Cui Esau&#160;: Num unam, inquit, tantum benedictionem habes, pater&#160;? mihi quoque obsecro ut benedicas. Cumque eiulatu magno fleret</span>
+            <span xml:id="Gn_27_39"><title>Genesis 27, 39&#160;:</title> Motus Isaac, dixit ad eum&#160;: In pinguedine terrae, et in rore caeli desuper</span>
+            <span xml:id="Gn_27_40"><title>Genesis 27, 40&#160;:</title> Erit benedictio tua. Viues in gladio, et fratri tuo seruies&#160;: tempusque ueniet, cum excutias et soluas iugum eius de ceruicibus tuis.</span>
+            <span xml:id="Gn_27_41"><title>Genesis 27, 41&#160;:</title> Oderat ergo semper Esau Iacob pro benedictione qua benedixerat ei pater&#160;: dixitque in corde suo&#160;: Venient dies luctus patris mei, et occidam Iacob fratrem meum.</span>
+            <span xml:id="Gn_27_42"><title>Genesis 27, 42&#160;:</title> Nuntiata sunt haec Rebeccae&#160;: quae mittens et uocans Iacob filium suum, dixit ad eum&#160;: Ecce Esau frater tuus minatur ut occidat te.</span>
+            <span xml:id="Gn_27_43"><title>Genesis 27, 43&#160;:</title> Nunc ergo, fili mi, audi uocem meam, et consurgens fuge ad Laban fratrem meum in Haran</span>
+            <span xml:id="Gn_27_44"><title>Genesis 27, 44&#160;:</title> Habitabisque cum eo dies paucos, donec requiescat furor fratris tui</span>
+            <span xml:id="Gn_27_45"><title>Genesis 27, 45&#160;:</title> Et cesset indignatio eius, obliuiscaturque eorum quae fecisti in eum&#160;: postea mittam, et adducam te inde huc&#160;: cur utroque orbabor filio in uno die&#160;?</span>
+            <span xml:id="Gn_27_46"><title>Genesis 27, 46&#160;:</title> Dixitque Rebecca ad Isaac&#160;: Taedet me uitae meae propter filias Heth&#160;: si acceperit Iacob uxorem de stirpe huius terrae, nolo uiuere.</span>
+            <span xml:id="Gn_28_1"><title>Genesis 28, 1&#160;:</title> Vocauit itaque Isaac Iacob, et benedixit eum, praecepitque ei dicens&#160;: Noli accipere coniugem de genere Chanaan</span>
+            <span xml:id="Gn_28_2"><title>Genesis 28, 2&#160;:</title> Sed uade, et proficiscere in Mesopotamiam Syriae, ad domum Bathuel patris matris tuae, et accipe tibi inde uxorem de filiabus Laban auunculi tui.</span>
+            <span xml:id="Gn_28_3"><title>Genesis 28, 3&#160;:</title> Deus autem omnipotens benedicat tibi, et crescere te faciat, atque multiplicet, ut sis in turbas populorum.</span>
+            <span xml:id="Gn_28_4"><title>Genesis 28, 4&#160;:</title> Et det tibi benedictiones Abrahae, et semini tuo post te&#160;: ut possideas terram peregrinationis tuae, quam pollicitus est auo tuo.</span>
+            <span xml:id="Gn_28_5"><title>Genesis 28, 5&#160;:</title> Cumque dimisisset eum Isaac, profectus uenit in Mesopotamiam Syriae ad Laban filium Bathuel Syri, fratrem Rebeccae matris suae.</span>
+            <span xml:id="Gn_28_6"><title>Genesis 28, 6&#160;:</title> Videns autem Esau quod benedixisset pater suus Iacob, et misisset eum in Mesopotamiam Syriae, ut inde uxorem duceret; et quod post benedictionem praecepisset ei, dicens&#160;: Non accipies uxorem de filiabus Chanaan</span>
+            <span xml:id="Gn_28_7"><title>Genesis 28, 7&#160;:</title> Quodque obediens Iacob parentibus suis isset in Syriam</span>
+            <span xml:id="Gn_28_8"><title>Genesis 28, 8&#160;:</title> Probans quoque quod non libenter aspiceret filias Chanaan pater suus</span>
+            <span xml:id="Gn_28_9"><title>Genesis 28, 9&#160;:</title> Iuit ad Ismaelem, et duxit uxorem absque iis, quas prius habebat, Maheleth filiam Ismael filii Abraham, sororem Nabaioth.</span>
+            <span xml:id="Gn_28_10"><title>Genesis 28, 10&#160;:</title> Igitur egressus Iacob de Bersabee, pergebat Haran.</span>
+            <span xml:id="Gn_28_11"><title>Genesis 28, 11&#160;:</title> Cumque uenisset ad quemdam locum, et uellet in eo requiescere post solis occubitum, tulit de lapidibus qui iacebant, et supponens capiti suo, dormiuit in eodem loco.</span>
+            <span xml:id="Gn_28_12"><title>Genesis 28, 12&#160;:</title> Viditque in somnis scalam stantem super terram, et cacumen illius tangens caelum&#160;: angelos quoque Dei ascendentes et descendentes per eam</span>
+            <span xml:id="Gn_28_13"><title>Genesis 28, 13&#160;:</title> Et Dominum innixum scalae dicentem sibi&#160;: Ego sum Dominus Deus Abraham patris tui, et Deus Isaac&#160;: terram, in qua dormis, tibi dabo et semini tuo.</span>
+            <span xml:id="Gn_28_14"><title>Genesis 28, 14&#160;:</title> Eritque semen tuum quasi puluis terrae&#160;: dilataberis ad occidentem, et orientem, et septentrionem, et meridiem&#160;: et benedicentur in te et in semine tuo cunctae tribus terrae.</span>
+            <span xml:id="Gn_28_15"><title>Genesis 28, 15&#160;:</title> Et ero custos tuus quocumque perrexeris, et reducam te in terram hanc&#160;: nec dimittam nisi compleuero uniuersa quae dixi.</span>
+            <span xml:id="Gn_28_16"><title>Genesis 28, 16&#160;:</title> Cumque euigilasset Iacob de somno, ait&#160;: Vere Dominus est in loco isto, et ego nesciebam.</span>
+            <span xml:id="Gn_28_17"><title>Genesis 28, 17&#160;:</title> Pauensque, Quam terribilis est, inquit, locus iste&#160;! non est hic aliud nisi domus Dei, et porta caeli.</span>
+            <span xml:id="Gn_28_18"><title>Genesis 28, 18&#160;:</title> Surgens ergo Iacob mane, tulit lapidem quem supposuerat capiti suo, et erexit in titulum, fundens oleum desuper.</span>
+            <span xml:id="Gn_28_19"><title>Genesis 28, 19&#160;:</title> Appellauitque nomen urbis Bethel, quae prius Luza uocabatur.</span>
+            <span xml:id="Gn_28_20"><title>Genesis 28, 20&#160;:</title> Vouit etiam uotum, dicens&#160;: Si fuerit Deus mecum, et custodierit me in uia, per quam ego ambulo, et dederit mihi panem ad uescendum, et uestimentum ad induendum</span>
+            <span xml:id="Gn_28_21"><title>Genesis 28, 21&#160;:</title> Reuersusque fuero prospere ad domum patris mei&#160;: erit mihi Dominus in Deum</span>
+            <span xml:id="Gn_28_22"><title>Genesis 28, 22&#160;:</title> Et lapis iste, quem erexi in titulum, uocabitur Domus Dei&#160;: cunctorumque quae dederis mihi, decimas offeram tibi.</span>
+            <span xml:id="Gn_30_37"><title>Genesis 30, 37&#160;:</title> Tollens ergo Iacob uirgas populeas uirides, et amygdalinas, et ex platanis, ex parte decorticauit eas&#160;: detractisque corticibus, in his, quae spoliata fuerant, candor apparuit&#160;: illa uero quae integra fuerant, uiridia permanserunt&#160;: atque in hunc modum color effectus est uarius.</span>
+            <span xml:id="Gn_30_38"><title>Genesis 30, 38&#160;:</title> Posuitque eas in canalibus, ubi effundebatur aqua&#160;: ut cum uenissent greges ad bibendum, ante oculos haberent uirgas, et in aspectu earum conciperent.</span>
+            <span xml:id="Gn_30_39"><title>Genesis 30, 39&#160;:</title> Factumque est ut in ipso calore coitus, oues intuerentur uirgas, et parerent maculosa, et uaria, et diuerso colore respersa.</span>
+            <span xml:id="Gn_30_40"><title>Genesis 30, 40&#160;:</title> Diuisitque gregem Iacob, et posuit uirgas in canalibus ante oculos arietum&#160;: erant autem alba et nigra quaeque, Laban; cetera uero, Iacob, separatis inter se gregibus.</span>
+            <span xml:id="Gn_30_41"><title>Genesis 30, 41&#160;:</title> Igitur quando primo tempore ascendebantur oues, ponebat Iacob uirgas in canalibus aquarum ante oculos arietum et ouium, ut in earum contemplatione conciperent</span>
+            <span xml:id="Gn_30_42"><title>Genesis 30, 42&#160;:</title> Quando uero serotina admissura erat, et conceptus extremus, non ponebat eas. Factaque sunt ea quae erant serotina, Laban&#160;: et quae primi temporis, Iacob.</span>
+            <span xml:id="Gn_30_43"><title>Genesis 30, 43&#160;:</title> Ditatusque est homo ultra modum, et habuit greges multos, ancillas et seruos, camelos et asinos.</span>
+            <span xml:id="Gn_36_43"><title>Genesis 36, 43&#160;:</title> Dux Magdiel, dux Hiram&#160;: hi duces Edom habitantes in terra imperii sui, ipse est Esau pater Idumaeorum.</span>
+            <span xml:id="Gn_39_7"><title>Genesis 39, 7&#160;:</title> Post multos itaque dies iniecit domina sua oculos suos in Ioseph, et ait&#160;: Dormi mecum.</span>
+            <span xml:id="Gn_39_8"><title>Genesis 39, 8&#160;:</title> Qui nequaquam acquiescens operi nefario, dixit ad eam&#160;: Ecce dominus meus, omnibus mihi traditis, ignorat quid habeat in domo sua</span>
+            <span xml:id="Gn_39_9"><title>Genesis 39, 9&#160;:</title> Nec quidquam est quod non in mea sit potestate, uel non tradiderit mihi, praeter te, quae uxor eius es&#160;: quomodo ergo possum hoc malum facere, et peccare in Deum meum&#160;?</span>
+            <span xml:id="Gn_39_10"><title>Genesis 39, 10&#160;:</title> Huiuscemodi uerbis per singulos dies, et mulier molesta erat adolescenti&#160;: et ille recusabat stuprum.</span>
+            <span xml:id="Gn_39_11"><title>Genesis 39, 11&#160;:</title> Accidit autem quadam die ut intraret Ioseph domum, et operis quippiam absque arbitris faceret</span>
+            <span xml:id="Gn_39_12"><title>Genesis 39, 12&#160;:</title> Et illa, apprehensa lacinia uestimenti eius, diceret&#160;: Dormi mecum. Qui relicto in manu eius pallio fugit, et egressus est foras.</span>
+            <span xml:id="Gn_41_25"><title>Genesis 41, 25&#160;:</title> Respondit Ioseph&#160;: Somnium regis unum est&#160;: quae facturus est Deus, ostendit Pharaoni.</span>
+            <span xml:id="Gn_41_26"><title>Genesis 41, 26&#160;:</title> Septem boues pulchrae, et septem spicae plenae, septem ubertatis anni sunt&#160;: eamdemque uim somnii comprehendunt.</span>
+            <span xml:id="Gn_41_27"><title>Genesis 41, 27&#160;:</title> Septem quoque boues tenues atque macilentae, quae ascenderunt post eas, et septem spicae tenues, et uento urente percussae, septem anni uenturae sunt famis.</span>
+            <span xml:id="Gn_41_28"><title>Genesis 41, 28&#160;:</title> Qui hoc ordine complebuntur</span>
+            <span xml:id="Gn_41_29"><title>Genesis 41, 29&#160;:</title> Ecce septem anni uenient fertilitatis magnae in uniuersa terra AEgypti</span>
+            <span xml:id="Gn_41_30"><title>Genesis 41, 30&#160;:</title> Quos sequentur septem anni alii tantae sterilitatis, ut obliuioni tradatur cuncta retro abundantia&#160;: consumptura est enim fames omnem terram</span>
+            <span xml:id="Gn_41_31"><title>Genesis 41, 31&#160;:</title> Et ubertatis magnitudinem perditura est inopiae magnitudo.</span>
+            <span xml:id="Gn_41_32"><title>Genesis 41, 32&#160;:</title> Quod autem uidisti secundo ad eamdem rem pertinens somnium&#160;: firmitatis indicium est, eo quod fiat sermo Dei, et uelocius impleatur.</span>
+            <span xml:id="Gn_41_33"><title>Genesis 41, 33&#160;:</title> Nunc ergo prouideat rex uirum sapientem et industrium, et praeficiat eum terrae AEgypti</span>
+            <span xml:id="Gn_41_34"><title>Genesis 41, 34&#160;:</title> Qui constituat praepositos per cunctas regiones&#160;: et quintam partem fructuum per septem annos fertilitatis</span>
+            <span xml:id="Gn_41_35"><title>Genesis 41, 35&#160;:</title> Qui iam nunc futuri sunt, congreget in horrea&#160;: et omne frumentum sub Pharaonis potestate condatur, serueturque in urbibus.</span>
+            <span xml:id="Gn_41_36"><title>Genesis 41, 36&#160;:</title> Et praeparetur futurae septem annorum fami, quae oppressura est AEgyptum, et non consumetur terra inopia.</span>
+            <span xml:id="Gn_41_37"><title>Genesis 41, 37&#160;:</title> Placuit Pharaoni consilium et cunctis ministris eius</span>
+            <span xml:id="Gn_41_38"><title>Genesis 41, 38&#160;:</title> Locutusque est ad eos&#160;: Num inuenire poterimus talem uirum, qui spiritu Dei plenus sit&#160;?</span>
+            <span xml:id="Gn_41_39"><title>Genesis 41, 39&#160;:</title> Dixit ergo ad Ioseph&#160;: Quia ostendit tibi Deus omnia quae locutus es, numquid sapientiorem et consimilem tui inuenire potero&#160;?</span>
+            <span xml:id="Gn_41_40"><title>Genesis 41, 40&#160;:</title> Tu eris super domum meam, et ad tui oris imperium cunctus populus obediet&#160;: uno tantum regni solio te praecedam.</span>
+            <span xml:id="Gn_41_41"><title>Genesis 41, 41&#160;:</title> Dixitque rursus Pharao ad Ioseph&#160;: Ecce, constitui te super uniuersam terram AEgypti.</span>
+         </div>
+         
+         <div xml:id="Ex">
+            <head>Exodus</head>
+            <span xml:id="Ex_3_6"><title>Exodus 3, 6&#160;: </title>Et ait&#160;: Ego sum Deus patris tui, Deus Abraham, Deus Isaac et Deus Iacob. Abscondit Moyses faciem suam&#160;: non enim audebat aspicere contra Deum.</span>
+            <span xml:id="Ex_3_8"><title>Exodus 3, 8&#160;:</title> Et sciens dolorem eius, descendi ut liberem eum de manibus AEgyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quae fluit lacte et melle, ad loca Chananaei et Hethaei, et Amorrhaei, et Pherezaei, et Hevaei, et Iebusaei.</span>
+            <span xml:id="Ex_7_12"><title>Exodus 7, 12&#160;:</title> Proieceruntque singuli uirgas suas, quae uersae sunt in dracones&#160;: sed deuorauit uirga Aaron uirgas eorum.</span>
+            <span xml:id="Ex_12_3"><title>Exodus 12, 3&#160;:</title> Loquimini ad uniuersum coetum filiorum Israel, et dicite eis&#160;: Decima die mensis huius tollat unusquisque agnum per familias et domos suas.</span>
+            <span xml:id="Ex_12_4"><title>Exodus 12, 4&#160;:</title> Sin autem minor est numerus ut sufficere possit ad uescendum agnum, assumet uicinum suum qui iunctus est domui suae, iuxta numerum animarum quae sufficere possunt ad esum agni.</span>
+            <span xml:id="Ex_12_5"><title>Exodus 12, 5&#160;:</title> Erit autem agnus absque macula, masculus, anniculus&#160;: iuxta quem ritum tolletis et haedum.</span>
+            <span xml:id="Ex_12_6"><title>Exodus 12, 6&#160;:</title> Et seruabitis eum usque ad quartamdecimam diem mensis huius&#160;: immolabitque eum uniuersa multitudo filiorum Israel ad uesperam.</span>
+            <span xml:id="Ex_12_7"><title>Exodus 12, 7&#160;:</title> Et sument de sanguine eius, ac ponent super utrumque postem, et in superliminaribus domorum, in quibus comedent illum.</span>
+            <span xml:id="Ex_12_8"><title>Exodus 12, 8&#160;:</title> Et edent carnes nocte illa assas igni, et azymos panes cum lactucis agrestibus.</span>
+            <span xml:id="Ex_12_9"><title>Exodus 12, 9&#160;:</title> Non comedetis ex eo crudum quid, nec coctum aqua, sed tantum assum igni&#160;: caput cum pedibus eius et intestinis uorabitis.</span>
+            <span xml:id="Ex_12_10"><title>Exodus 12, 10&#160;:</title> Nec remanebit quidquam ex eo usque mane; si quid residuum fuerit, igne comburetis.</span>
+            <span xml:id="Ex_12_21"><title>Exodus 12, 21&#160;:</title> Vocauit autem Moyses omnes seniores filiorum Israel, et dixit ad eos&#160;: Ite tollentes animal per familias uestras, et immolate Phase.</span>
+            <span xml:id="Ex_12_22"><title>Exodus 12, 22&#160;:</title> Fasciculumque hyssopi tingite in sanguine qui est in limine, et aspergite ex eo superliminare, et utrumque postem&#160;: nullus uestrum egrediatur ostium domus suae usque mane.</span>
+            <span xml:id="Ex_12_23"><title>Exodus 12, 23&#160;:</title> Transibit enim Dominus percutiens AEgyptios&#160;: cumque uiderit sanguinem in superliminari, et in utroque poste, transcendet ostium domus, et non sinet percussorem ingredi domos uestras et laedere.</span>
+            <span xml:id="Ex_12_24"><title>Exodus 12, 24&#160;:</title> Custodi uerbum istud legitimum tibi et filiis tuis usque in aeternum.</span>
+            <span xml:id="Ex_12_25"><title>Exodus 12, 25&#160;:</title> Cumque introieritis terram, quam Dominus daturus est uobis ut pollicitus est, obseruabitis caeremonias istas.</span>
+            <span xml:id="Ex_12_26"><title>Exodus 12, 26&#160;:</title> Et cum dixerint uobis filii uestri&#160;: Quae est ista religio&#160;?</span>
+            <span xml:id="Ex_12_27"><title>Exodus 12, 27&#160;:</title> Dicetis eis&#160;: Victima transitus Domini est, quando transiuit super domos filiorum Israel in AEgypto, percutiens AEgyptios, et domos nostras liberans. Incuruatusque populus adorauit.</span>
+            <span xml:id="Ex_12_39"><title>Exodus 12, 39&#160;:</title> Coxeruntque farinam, quam dudum de AEgypto conspersam tulerant&#160;: et fecerunt subcinericios panes azymos&#160;: neque enim poterant fermentari, cogentibus exire AEgyptiis, et nullam facere sinentibus moram&#160;: nec pulmenti quidquam occurrerat praeparare.</span>
+            <span xml:id="Ex_13_21"><title>Exodus 13, 21&#160;:</title> Dominus autem praecedebat eos ad ostendendam uiam per diem in columna nubis, et per noctem in columna ignis&#160;: ut dux esset itineris utroque tempore.</span>
+            <span xml:id="Ex_13_22"><title>Exodus 13, 22&#160;:</title> Numquam defuit columna nubis per diem, nec columna ignis per noctem, coram populo.</span>
+            <span xml:id="Ex_14_1"><title>Exodus 14, 1&#160;:</title> Locutus est autem Dominus ad Moysen, dicens</span>
+            <span xml:id="Ex_14_2"><title>Exodus 14, 2&#160;:</title> Loquere filiis Israel&#160;: Reuersi castrametentur e regione Phihahiroth, quae est inter Magdalum et mare contra Beelsephon&#160;: in conspectu eius castra ponetis super mare.</span>
+            <span xml:id="Ex_14_3"><title>Exodus 14, 3&#160;:</title> Dicturusque est Pharao super filiis Israel&#160;: Coarctati sunt in terra; conclusit eos desertum.</span>
+            <span xml:id="Ex_14_4"><title>Exodus 14, 4&#160;:</title> Et indurabo cor eius, ac persequetur uos&#160;: et glorificabor in Pharaone, et in omni exercitu eius; scientque AEgyptii quia ego sum Dominus. Feceruntque ita.</span>
+            <span xml:id="Ex_14_5"><title>Exodus 14, 5&#160;:</title> Et nuntiatum est regi AEgyptiorum quod fugisset populus&#160;: immutatumque est cor Pharaonis et seruorum eius super populo, et dixerunt&#160;: Quid uoluimus facere ut dimitteremus Israel, ne seruiret nobis&#160;?</span>
+            <span xml:id="Ex_14_6"><title>Exodus 14, 6&#160;:</title> Iunxit ergo currum, et omnem populum suum assumpsit secum.</span>
+            <span xml:id="Ex_14_7"><title>Exodus 14, 7&#160;:</title> Tulitque sexcentos currus electos, et quidquid in AEgypto curruum fuit&#160;: et duces totius exercitus.</span>
+            <span xml:id="Ex_14_8"><title>Exodus 14, 8&#160;:</title> Indurauitque Dominus cor Pharaonis regis AEgypti, et persecutus est filios Israel&#160;: at illi egressi sunt in manu excelsa.</span>
+            <span xml:id="Ex_14_9"><title>Exodus 14, 9&#160;:</title> Cumque persequerentur AEgyptii uestigia praecedentium, repererunt eos in castris super mare&#160;: omnis equitatus et currus Pharaonis, et uniuersus exercitus, erant in Phihahiroth contra Beelsephon.</span>
+            <span xml:id="Ex_14_10"><title>Exodus 14, 10&#160;:</title> Cumque appropinquasset Pharao, leuantes filii Israel oculos, uiderunt AEgyptios post se, et timuerunt ualde&#160;: clamaueruntque ad Dominum</span>
+            <span xml:id="Ex_14_11"><title>Exodus 14, 11&#160;:</title> Et dixerunt ad Moysen&#160;: Forsitan non erant sepulchra in AEgypto, ideo tulisti nos ut moreremur in solitudine&#160;: quid hoc facere uoluisti, ut educeres nos ex AEgypto&#160;?</span>
+            <span xml:id="Ex_14_12"><title>Exodus 14, 12&#160;:</title> Nonne iste est sermo, quem loquebamur ad te in AEgypto, dicentes&#160;: Recede a nobis, ut seruiamus AEgyptiis&#160;? multo enim melius erat seruire eis, quam mori in solitudine.</span>
+            <span xml:id="Ex_14_13"><title>Exodus 14, 13&#160;:</title> Et ait Moyses ad populum&#160;: Nolite timere&#160;: state, et uidete magnalia Domini quae facturus est hodie&#160;: AEgyptios enim, quos nunc uidetis, nequaquam ultra uidebitis usque in sempiternum.</span>
+            <span xml:id="Ex_14_14"><title>Exodus 14, 14&#160;:</title> Dominus pugnabit pro uobis, et uos tacebitis.</span>
+            <span xml:id="Ex_14_15"><title>Exodus 14, 15&#160;:</title> Dixitque Dominus ad Moysen&#160;: Quid clamas ad me&#160;? loquere filiis Israel ut proficiscantur.</span>
+            <span xml:id="Ex_14_16"><title>Exodus 14, 16&#160;:</title> Tu autem eleua uirgam tuam, et extende manum tuam super mare, et diuide illud&#160;: ut gradiantur filii Israel in medio mari per siccum.</span>
+            <span xml:id="Ex_14_17"><title>Exodus 14, 17&#160;:</title> Ego autem indurabo cor AEgyptiorum ut persequantur uos&#160;: et glorificabor in Pharaone, et in omni exercitu eius, et in curribus et in equitibus illius.</span>
+            <span xml:id="Ex_14_18"><title>Exodus 14, 18&#160;:</title> Et scient AEgyptii quia ego sum Dominus cum glorificatus fuero in Pharaone, et in curribus atque in equitibus eius.</span>
+            <span xml:id="Ex_14_19"><title>Exodus 14, 19&#160;:</title> Tollensque se angelus Dei, qui praecedebat castra Israel, abiit post eos&#160;: et cum eo pariter columna nubis, priora dimittens, post tergum</span>
+            <span xml:id="Ex_14_20"><title>Exodus 14, 20&#160;:</title> Stetit, inter castra AEgyptiorum et castra Israel&#160;: et erat nubes tenebrosa, et illuminans noctem, ita ut ad se inuicem toto noctis tempore accedere non ualerent.</span>
+            <span xml:id="Ex_14_21"><title>Exodus 14, 21&#160;:</title> Cumque extendisset Moyses manum super mare, abstulit illud Dominus flante uento uehementi et urente tota nocte, et uertit in siccum&#160;: diuisaque est aqua.</span>
+            <span xml:id="Ex_14_22"><title>Exodus 14, 22&#160;:</title> Et ingressi sunt filii Israel per medium sicci maris&#160;: erat enim aqua quasi murus a dextra eorum et laeua.</span>
+            <span xml:id="Ex_14_23"><title>Exodus 14, 23&#160;:</title> Persequentesque AEgyptii ingressi sunt post eos, et omnis equitatus Pharaonis, currus ej=ius et equites per medium maris.</span>
+            <span xml:id="Ex_14_24"><title>Exodus 14, 24&#160;:</title> Iamque aduenerat uigilia matutina, et ecce respiciens Dominus super castra AEgyptiorum per columnam ignis et nubis, interfecit exercitum eorum</span>
+            <span xml:id="Ex_14_25"><title>Exodus 14, 25&#160;:</title> Et subuertit rotas curruum, ferebanturque in profundum. Dixerunt ergo AEgyptii&#160;: Fugiamus Israelem&#160;: Dominus enim pugnat pro eis contra nos.</span>
+            <span xml:id="Ex_14_26"><title>Exodus 14, 26&#160;:</title> Et ait Dominus ad Moysen&#160;: Extende manum tuam super mare, ut reuertantur aquae ad AEgyptios super currus et equites eorum.</span>
+            <span xml:id="Ex_14_27"><title>Exodus 14, 27&#160;:</title> Cumque extendisset Moyses manum contra mare, reuersum est primo diluculo ad priorem locum&#160;: fugientibusque AEgyptiis occurrerunt aquae, et inuoluit eos Dominus in mediis fluctibus.</span>
+            <span xml:id="Ex_14_28"><title>Exodus 14, 28&#160;:</title> Reuersaeque sunt aquae, et operuerunt currus et equites cuncti exercitus Pharaonis, qui sequentes ingressi fuerant mare&#160;: nec unus quidem superfuit ex eis.</span>
+            <span xml:id="Ex_14_29"><title>Exodus 14, 29&#160;:</title> Filii autem Israel perrexerunt per medium sicci maris, et aquae eis erant quasi pro muro a dextris et a sinistris</span>
+            <span xml:id="Ex_14_30"><title>Exodus 14, 30&#160;:</title> Liberauitque Dominus in die illa Israel de manu AEgyptiorum.</span>
+            <span xml:id="Ex_14_31"><title>Exodus 14, 31&#160;:</title>  Et uiderunt AEgyptios mortuos super littus maris, et manum magnam quam exercuerat Dominus contra eos&#160;: timuitque populus Dominum, et crediderunt Domino, et Moysi seruo eius.</span>
+            <span xml:id="Ex_15_1"><title>Exodus 15, 1&#160;:</title> Tunc cecinit Moyses et filii Israel carmen hoc Domino, et dixerunt&#160;: Cantemus Domino&#160;: gloriose enim magnificatus est, equum et ascensorem deiecit in mare.</span>
+            <span xml:id="Ex_15_2"><title>Exodus 15, 2&#160;:</title> Fortitudo mea, et laus mea Dominus, et factus est mihi in salutem&#160;: iste Deus meus, et glorificabo eum&#160;: Deus patris mei, et exaltabo eum.</span>
+            <span xml:id="Ex_15_3"><title>Exodus 15, 3&#160;:</title> Dominus quasi uir pugnator, Omnipotens nomen eius</span>
+            <span xml:id="Ex_15_4"><title>Exodus 15, 4&#160;:</title> Currus Pharaonis et exercitum eius proiecit in mare&#160;: electi principes eius submersi sunt in mari Rubro.</span>
+            <span xml:id="Ex_15_5"><title>Exodus 15, 5&#160;:</title> Abyssi operuerunt eos; descenderunt in profundum quasi lapis.</span>
+            <span xml:id="Ex_15_6"><title>Exodus 15, 6&#160;:</title> Dextera tua, Domine, magnificata est in fortitudine&#160;: dextera tua, Domine, percussit inimicum.</span>
+            <span xml:id="Ex_15_7"><title>Exodus 15, 7&#160;:</title> Et in multitudine gloriae tuae deposuisti aduersarios tuos&#160;: misisti iram tuam, quae devorauit eos sicut stipulam.</span>
+            <span xml:id="Ex_15_8"><title>Exodus 15, 8&#160;:</title> Et in spiritu furoris tui congregatae sunt aquae&#160;: stetit unda fluens, congregata sunt abyssi in medio mari.</span>
+            <span xml:id="Ex_15_9"><title>Exodus 15, 9&#160;:</title> Dixit inimicus&#160;: Persequar et comprehendam, diuidam spolia, implebitur anima mea&#160;: euaginabo gladium meum, interficiet eos manus mea.</span>
+            <span xml:id="Ex_15_23"><title>Exodus 15, 23&#160;:</title> Et uenerunt in Mara, nec poterant bibere aquas de Mara, eo quod essent amarae&#160;: unde et congruum loco nomen imposuit, uocans illum Mara, id est, amaritudinem.</span>
+            <span xml:id="Ex_15_24"><title>Exodus 15, 24&#160;:</title> Et murmurauit populus contra Moysen, dicens&#160;: Quid bibemus&#160;?</span>
+            <span xml:id="Ex_15_25"><title>Exodus 15, 25&#160;:</title> At ille clamauit ad Dominum, qui ostendit ei lignum&#160;: quod cum misisset in aquas, in dulcedinem uersae sunt&#160;: ibi constituit ei praecepta, atque iudicia, et ibi tentauit eum</span>
+            <span xml:id="Ex_16_1"><title>Exodus 16, 1&#160;:</title> Profectique sunt de Elim, et uenit omnis multitudo filiorum Israel in desertum Sin, quod est inter Elim et Sinai, quintodecimo die mensis secundi, postquam egressi sunt de terra AEgypti.</span>
+            <span xml:id="Ex_16_2"><title>Exodus 16, 2&#160;:</title> Et murmurauit omnis congregatio filiorum Israel contra Moysen et Aaron in solitudine.</span>
+            <span xml:id="Ex_16_3"><title>Exodus 16, 3&#160;:</title> Dixeruntque filii Israel ad eos&#160;: Vtinam mortui essemus per manum Domini in terra AEgypti, quando sedebamus super ollas carnium, et comedebamus panem in saturitate&#160;: cur eduxistis nos in desertum istud, ut occideretis omnem multitudinem fame&#160;?</span>
+            <span xml:id="Ex_16_4"><title>Exodus 16, 4&#160;:</title> Dixit autem Dominus ad Moysen&#160;: Ecce ego pluam uobis panes de caelo&#160;: egrediatur populus, et colligat quae sufficiunt per singulos dies&#160;: ut tentem eum utrum ambulet in lege mea, an non.</span>
+            <span xml:id="Ex_16_5"><title>Exodus 16, 5&#160;:</title>  Die autem sexto parent quod inferant&#160;: et sit duplum quam colligere solebant per singulos dies.</span>
+            <span xml:id="Ex_16_6"><title>Exodus 16, 6&#160;:</title> Dixeruntque Moyses et Aaron ad omnes filios Israel&#160;: Vespere scietis quod Dominus eduxerit uos de terra AEgypti</span>
+            <span xml:id="Ex_16_7"><title>Exodus 16, 7&#160;:</title> Et mane uidebitis gloriam Domini&#160;: audiuit enim murmur uestrum contra Dominum&#160;: nos uero quid sumus, quia mussitastis contra nos&#160;?</span>
+            <span xml:id="Ex_16_8"><title>Exodus 16, 8&#160;:</title> Et ait Moyses&#160;: Dabit uobis Dominus uespere carnes edere, et mane panes in saturitate&#160;: eo quod audierit murmurationes uestras quibus murmurati estis contra eum&#160;: nos enim quid sumus&#160;? nec contra nos est murmur uestrum, sed contra Dominum.</span>
+            <span xml:id="Ex_16_9"><title>Exodus 16, 9&#160;:</title> Dixit quoque Moyses ad Aaron&#160;: Dic uniuersae congregationi filiorum Israel&#160;: Accedite coram Domino&#160;: audiuit enim murmur uestrum.</span>
+            <span xml:id="Ex_16_10"><title>Exodus 16, 10&#160;:</title> Cumque loqueretur Aaron ad omnem coetum filiorum Israel, respexerunt ad solitudinem&#160;: et ecce gloria Domini apparuit in nube.</span>
+            <span xml:id="Ex_16_11"><title>Exodus 16, 11&#160;:</title> Locutus est autem Dominus ad Moysen, dicens</span>
+            <span xml:id="Ex_16_12"><title>Exodus 16, 12&#160;:</title> Audiui murmurationes filiorum Israel. Loquere ad eos&#160;: Vespere comedetis carnes, et mane saturabimini panibus&#160;: scietisque quod ego sum Dominus Deus uester.</span>
+            <span xml:id="Ex_16_13"><title>Exodus 16, 13&#160;:</title> Factum est ergo uespere, et ascendens coturnix, cooperuit castra&#160;: mane quoque ros iacuit per circuitum castrorum.</span>
+            <span xml:id="Ex_16_14"><title>Exodus 16, 14&#160;:</title> Cumque operuisset superficiem terrae, apparuit in solitudine minutum, et quasi pilo tusum in similitudinem pruinae super terram.</span>
+            <span xml:id="Ex_16_15"><title>Exodus 16, 15&#160;:</title> Quod cum uidissent filii Israel, dixerunt ad inuicem&#160;: Manhu&#160;? quod significat&#160;: Quid est hoc&#160;? ignorabant enim quid esset. Quibus ait Moyses&#160;: Iste est panis quem Dominus dedit uobis ad uescendum.</span>
+            <span xml:id="Ex_16_16"><title>Exodus 16, 16&#160;:</title> Hic est sermo, quem praecepit Dominus&#160;: Colligat unusquisque ex eo quantum sufficit ad uescendum&#160;: gomor per singula capita, iuxta numerum animarum uestrarum quae habitant in tabernaculo sic tolletis.</span>
+            <span xml:id="Ex_16_17"><title>Exodus 16, 17&#160;:</title> Feceruntque ita filii Israel&#160;: et collegerunt, alius plus, alius minus.</span>
+            <span xml:id="Ex_16_18"><title>Exodus 16, 18&#160;:</title> Et mensi sunt ad mensuram gomor&#160;: nec qui plus collegerat, habuit amplius&#160;: nec qui minus parauerat, reperit minus&#160;: sed singuli juxta id quod edere poterant, congregauerunt.</span>
+            <span xml:id="Ex_16_19"><title>Exodus 16, 19&#160;:</title> Dixitque Moyses ad eos&#160;: Nullus relinquat ex eo in mane.</span>
+            <span xml:id="Ex_16_20"><title>Exodus 16, 20&#160;:</title> Qui non audierunt eum, sed dimiserunt quidam ex eis usque mane, et scatere coepit uermibus, atque computruit&#160;: et iratus est contra eos Moyses.</span>
+            <span xml:id="Ex_16_21"><title>Exodus 16, 21&#160;:</title> Colligebant autem mane singuli, quantum sufficere poterat ad uescendum&#160;: cumque incaluisset sol, liquefiebat.</span>
+            <span xml:id="Ex_16_22"><title>Exodus 16, 22&#160;:</title> In die autem sexta collegerunt cibos duplices, id est, duo gomor per singulos homines&#160;: uenerunt autem omnes principes multitudinis, et narrauerunt Moysi.</span>
+            <span xml:id="Ex_16_23"><title>Exodus 16, 23&#160;:</title> Qui ait eis&#160;: Hoc est quod locutus est Dominus&#160;: Requies sabbati sanctificata est Domino cras&#160;: quodcumque operandum est, facite, et quae coquenda sunt coquite&#160;: quidquid autem reliquum fuerit, reponite usque in mane.</span>
+            <span xml:id="Ex_16_24"><title>Exodus 16, 24&#160;:</title> Feceruntque ita ut praeceperat Moyses, et non computruit, neque uermis inuentus est in eo.</span>
+            <span xml:id="Ex_16_25"><title>Exodus 16, 25&#160;:</title> Dixitque Moyses&#160;: Comedite illud hodie, quia sabbatum est Domini&#160;: non inuenietur hodie in agro.</span>
+            <span xml:id="Ex_16_26"><title>Exodus 16, 26&#160;:</title> Sex diebus colligite&#160;: in die autem septimo sabbatum est Domini, idcirco non inuenietur.</span>
+            <span xml:id="Ex_16_27"><title>Exodus 16, 27&#160;:</title> Venitque septima dies&#160;: et egressi de populo ut colligerent, non inuenerunt.</span>
+            <span xml:id="Ex_16_28"><title>Exodus 16, 28&#160;:</title> Dixit autem Dominus ad Moysen&#160;: Vsquequo non uultis custodire mandata mea et legem meam&#160;?</span>
+            <span xml:id="Ex_16_29"><title>Exodus 16, 29&#160;:</title> Videte quod Dominus dederit uobis sabbatum, et propter hoc die sexta tribuit uobis cibos duplices&#160;: maneat unusquisque apud semetipsum; nullus egrediatur de loco suo die septimo.</span>
+            <span xml:id="Ex_16_30"><title>Exodus 16, 30&#160;:</title> Et sabbatizauit populus die septimo.</span>
+            <span xml:id="Ex_16_31"><title>Exodus 16, 31&#160;:</title> Appellauitque domus Israel nomen eius Man&#160;: quod erat quasi semen coriandri album, gustusque eius quasi similae cum melle.</span>
+            <span xml:id="Ex_16_32"><title>Exodus 16, 32&#160;:</title> Dixit autem Moyses&#160;: Iste est sermo, quem praecepit Dominus&#160;: Imple gomor ex eo, et custodiatur in futuras retro generationes&#160;: ut nouerint panem, quo alui uos in solitudine, quando educti estis de terra AEgypti.</span>
+            <span xml:id="Ex_16_33"><title>Exodus 16, 33&#160;:</title> Dixitque Moyses ad Aaron&#160;: Sume uas unum, et mitte ibi man, quantum potest capere gomor, et repone coram Domino ad seruandum in generationes uestras</span>
+            <span xml:id="Ex_16_34"><title>Exodus 16, 34&#160;:</title> Sicut praecepit Dominus Moysi. Posuitque illud Aaron in tabernaculo reseruandum.</span>
+            <span xml:id="Ex_16_35"><title>Exodus 16, 35&#160;:</title> Filii autem Israel comederunt man quadraginta annis, donec uenirent in terram habitabilem&#160;: hoc cibo aliti sunt, usquequo tangerent fines terrae Chanaan.</span>
+            <span xml:id="Ex_16_36"><title>Exodus 16, 36&#160;:</title> Gomor autem decima pars est ephi.</span>
+            <span xml:id="Ex_17_1"><title>Exodus 17, 1&#160;:</title> Igitur profecta omnis multitudo filiorum Israel de deserto Sin per mansiones suas, iuxta sermonem Domini, castrametati sunt in Raphidim, ubi non erat aqua ad bibendum populo.</span>
+            <span xml:id="Ex_17_2"><title>Exodus 17, 2&#160;:</title> Qui iurgatus contra Moysen, ait&#160;: Da nobis aquam, ut bibamus. Quibus respondit Moyses&#160;: Quid iurgamini contra me&#160;? cur tentatis Dominum&#160;?</span>
+            <span xml:id="Ex_17_3"><title>Exodus 17, 3&#160;:</title> Sitiuit ergo ibi populus prae aquae penuria, et murmurauit contra Moysen, dicens&#160;: Cur fecisti nos exire de AEgypto, ut occideres nos, et liberos nostros, ac iumenta siti&#160;?</span>
+            <span xml:id="Ex_17_4"><title>Exodus 17, 4&#160;:</title> Clamauit autem Moyses ad Dominum, dicens&#160;: Quid faciam populo huic&#160;? adhuc paululum, et lapidabit me.</span>
+            <span xml:id="Ex_17_5"><title>Exodus 17, 5&#160;:</title> Et ait Dominus ad Moysen&#160;: Antecede populum, et sume tecum de senioribus Israel&#160;: et uirgam qua percussisti fluuium, tolle in manu tua, et uade.</span>
+            <span xml:id="Ex_17_6"><title>Exodus 17, 6&#160;:</title> En ego stabo ibi coram te, supra petram Horeb&#160;: percutiesque petram, et exibit ex ea aqua, ut bibat populus. Fecit Moyses ita coram senioribus Israel</span>
+            <span xml:id="Ex_17_7"><title>Exodus 17, 7&#160;:</title> Et vocauit nomen loci illius, Tentatio, propter iurgium filiorum Israel, et quia tentauerunt Dominum, dicentes&#160;: Estne Dominus in nobis, an non&#160;?</span>
+            <span xml:id="Ex_17_8"><title>Exodus 17, 8&#160;:</title> Venit autem Amalec, et pugnabat contra Israel in Raphidim.</span>
+            <span xml:id="Ex_17_9"><title>Exodus 17, 9&#160;:</title> Dixitque Moyses ad Iosue&#160;: Elige uiros&#160;: et egressus, pugna contra Amalec&#160;: cras ego stabo in uertice collis, habens uirgam Dei in manu mea.</span>
+            <span xml:id="Ex_17_10"><title>Exodus 17, 10&#160;:</title> Fecit Iosue ut locutus erat Moyses, et pugnauit contra Amalec&#160;: Moyses autem et Aaron et Hur ascenderunt super uerticem collis.</span>
+            <span xml:id="Ex_17_11"><title>Exodus 17, 11&#160;:</title> Cumque leuaret Moyses manus, uincebat Israel&#160;: sin autem paululum remisisset, superabat Amalec.</span>
+            <span xml:id="Ex_17_12"><title>Exodus 17, 12&#160;:</title> Manus autem Moysi erant graues&#160;: sumentes igitur lapidem, posuerunt subter eum, in quo sedit&#160;: Aaron autem et Hur sustentabant manus eius ex utraque parte. Et factum est ut manus illius non lassarentur usque ad occasum solis.</span>
+            <span xml:id="Ex_17_13"><title>Exodus 17, 13&#160;:</title>  Fugauitque Iosue Amalec, et populum eius in ore gladii.</span>
+            <span xml:id="Ex_32_11"><title>Exodus 32, 11&#160;:</title> Moyses autem orabat Dominum Deum suum, dicens&#160;: Cur, Domine, irascitur furor tuus contra populum tuum, quem eduxisti de terra AEgypti, in fortitudine magna, et in manu robusta&#160;?</span>
+            <span xml:id="Ex_32_12"><title>Exodus 32, 12&#160;:</title> Ne quaeso dicant AEgyptii&#160;: Callide eduxit eos, ut interficeret in montibus, et deleret e terra&#160;: quiescat ira tua, et esto placabilis super nequitia populi tui.</span>
+            <span xml:id="Ex_32_13"><title>Exodus 32, 13&#160;:</title> Recordare Abraham, Isaac, et Israel seruorum tuorum, quibus iurasti per temetipsum, dicens&#160;: Multiplicabo semen uestrum sicut stellas caeli; et uniuersam terram hanc, de qua locutus sum, dabo semini uestro, et possidebitis eam semper.</span>
+            <span xml:id="Ex_32_14"><title>Exodus 32, 14&#160;:</title> Placatusque est Dominus ne faceret malum quod locutus fuerat aduersus populum suum.</span>
+         </div>
+         
+         <div xml:id="Nb">
+            <head>Numeri</head>
+            <span xml:id="Nb_13_17"><title>Numeri 13, 17&#160;:</title> Haec sunt nomina uirorum, quos misit Moyses ad considerandam terram&#160;: uocauitque Osee filium Nun, Josue.</span>
+            <span xml:id="Nb_20_7"><title>Numeri 20, 7&#160;:</title> Locutusque est Dominus ad Moysen, dicens&#160;:</span>
+            <span xml:id="Nb_20_8"><title>Numeri 20, 8&#160;:</title> Tolle uirgam, et congrega populum, tu et Aaron frater tuus, et loquimini ad petram coram eis, et illa dabit aquas. Cumque eduxeris aquam de petra, bibet omnis multitudo et iumenta eius.</span>
+            <span xml:id="Nb_20_9"><title>Numeri 20, 9&#160;:</title> Tulit igitur Moyses uirgam, quae erat in conspectu Domini, sicut praeceperat ei,</span>
+            <span xml:id="Nb_20_10"><title>Numeri 20, 10&#160;:</title> Congregata multitudine ante petram&#160;: dixitque eis&#160;: Audite, rebelles et increduli&#160;: num de petra hac uobis aquam poterimus eiicere&#160;?</span>
+            <span xml:id="Nb_20_11"><title>Numeri 20, 11&#160;:</title> Cumque eleuasset Moyses manum, percutiens uirga bis silicem, egressae sunt aquae largissimae, ita ut populus biberet et iumenta. </span>
+            <span xml:id="Nb_22_28"><title>Numeri 22, 28&#160;:</title> Aperuitque Dominus os asinae, et locuta est&#160;: Quid feci tibi&#160;? cur percutis me ecce iam tertio&#160;?</span>
+            <span xml:id="Nb_22_29"><title>Numeri 22, 29&#160;:</title> Respondit Balaam&#160;: Quia commeruisti, et illusisti mihi&#160;: utinam haberem gladium, ut te percuterem&#160;!</span>
+            <span xml:id="Nb_22_30"><title>Numeri 22, 30&#160;:</title> Dixit asina&#160;: Nonne animal tuum sum, cui semper sedere consueuisti usque in praesentem diem&#160;? dic quid simile umquam fecerim tibi. At ille ait&#160;: Numquam.</span>
+            <span xml:id="Nb_22_31"><title>Numeri 22, 31&#160;:</title> Protinus aperuit Dominus oculos Balaam, et uidit angelum stantem in uia, euaginato gladio, adorauitque eum pronus in terram.</span>
+         </div>
+         
+         <div xml:id="Dt">
+            <head>Deuteronomium</head>
+            <span xml:id="Dt_34_6"><title>Deuteronomium 34, 6&#160;:</title> Et sepeliuit eum in ualle terrae Moab contra Phogor&#160;: et non cognouit homo sepulchrum eius usque in praesentem diem.</span>
+         </div>
+         
+         <div xml:id="Js">
+            <head>Iosue</head>
+            <span xml:id="Js_2_18"><title>Iosue 2, 18&#160;:</title> Si ingredientibus nobis terram, signum fuerit funiculus iste coccineus, et ligaueris eum in fenestra, per quam demisisti nos&#160;: et patrem tuum ac matrem, fratresque et omnem cognationem tuam congregaueris in domum tuam.</span>
+            <span xml:id="Js_2_21"><title>Iosue 2, 21&#160;:</title>  Et illa respondit&#160;: Sicut locuti estis, ita fiat&#160;: dimittensque eos ut pergerent, appendit funiculum coccineum in fenestra.</span>
+            <span xml:id="Js_3_1"><title>Iosue 3, 1&#160;:</title> Igitur Iosue de nocte consurgens mouit castra&#160;: egredientesque de Setim, uenerunt ad Iordanem ipse et omnes filii Israel, et morati sunt ibi tres dies.</span>
+            <span xml:id="Js_3_2"><title>Iosue 3, 2&#160;:</title> Quibus euolutis transierunt praecones per castrorum medium</span>
+            <span xml:id="Js_3_3"><title>Iosue 3, 3&#160;:</title> Et clamare coeperunt&#160;: Quando uideritis arcam foederis Domini Dei uestri, et sacerdotes stirpis Leuiticae portantes eam, uos quoque consurgite, et sequimini praecedentes</span>
+            <span xml:id="Js_3_4"><title>Iosue 3, 4&#160;:</title> Sitque inter uos et arcam spatium cubitorum duum millium&#160;: ut procul uidere possitis, et nosse per quam uiam ingrediamini&#160;: quia prius non ambulastis per eam&#160;: et cauete ne appropinquetis ad arcam.</span>
+            <span xml:id="Js_3_5"><title>Iosue 3, 5&#160;:</title> Dixitque Iosue ad populum&#160;: Sanctificamini&#160;: cras enim faciet Dominus inter uos mirabilia.</span>
+            <span xml:id="Js_3_6"><title>Iosue 3, 6&#160;:</title> Et ait ad sacerdotes&#160;: Tollite arcam foederis, et praecedite populum. Qui iussa complentes, tulerunt, et ambulauerunt ante eos.</span>
+            <span xml:id="Js_3_7"><title>Iosue 3, 7&#160;:</title> Dixitque Dominus ad Iosue&#160;: Hodie incipiam exaltare te coram omni Israel&#160;: ut sciant quod sicut cum Moyse fui, ita et tecum sim.</span>
+            <span xml:id="Js_3_8"><title>Iosue 3, 8&#160;:</title> Tu autem praecipe sacerdotibus, qui portant arcam foederis, et dic eis&#160;: Cum ingressi fueritis partem aquae Iordanis, state in ea.</span>
+            <span xml:id="Js_3_9"><title>Iosue 3, 9&#160;:</title> Dixitque Iosue ad filios Israel&#160;: Accedite huc, et audite uerbum Domini Dei uestri.</span>
+            <span xml:id="Js_3_10"><title>Iosue 3, 10&#160;:</title> Et rursum&#160;: In hoc, inquit, scietis quod Dominus Deus uiuens in medio uestri est, et disperdet in conspectu uestro Chananaeum et Hethaeum, Heuaeum et Pherezaeum, Gergesaeum quoque et Iebusaeum, et Amorrhaeum.</span>
+            <span xml:id="Js_3_11"><title>Iosue 3, 11&#160;:</title> Ecce arca foederis Domini omnis terrae antecedet uos per Iordanem.</span>
+            <span xml:id="Js_3_12"><title>Iosue 3, 12&#160;:</title> Parate duodecim uiros de tribubus Israel, singulos per singulas tribus.</span>
+            <span xml:id="Js_3_13"><title>Iosue 3, 13&#160;:</title> Et cum posuerint uestigia pedum suorum sacerdotes qui portant arcam Domini Dei uniuersae terrae in aquis Iordanis, aquae quae inferiores sunt, decurrent atque deficient&#160;: quae autem desuper ueniunt, in una mole consistent.</span>
+            <span xml:id="Js_3_14"><title>Iosue 3, 14&#160;:</title> Igitur egressus est populus de tabernaculis suis, ut transiret Iordanem&#160;: et sacerdotes, qui portabant arcam foederis, pergebant ante eum.</span>
+            <span xml:id="Js_3_15"><title>Iosue 3, 15&#160;:</title> Ingressisque eis Iordanem, et pedibus eorum in parte aquae tinctis (Iordanis autem ripas aluei sui tempore messis impleuerat)</span>
+            <span xml:id="Js_3_16"><title>Iosue 3, 16&#160;:</title> Steterunt aquae descendentes in loco uno, et ad instar montis intumescentes apparebant procul, ab urbe quae uocatur Adom usque ad locum Sarthan&#160;: quae autem inferiores erant, in mare Solitudinis (quod nunc uocatur Mortuum) descenderunt, usquequo omnino deficerent.</span>
+            <span xml:id="Js_3_17"><title>Iosue 3, 17&#160;:</title> Populus autem incedebat contra Iericho&#160;: et sacerdotes qui portabant arcam foederis Domini, stabant super siccam humum in medio Iordanis accincti, omnisque populus per arentem alueum transibat.</span>
+            <span xml:id="Js_6_1"><title>Iosue 6, 1&#160;:</title> Iericho autem clausa erat atque munita, timore filiorum Israel, et nullus egredi audebat aut ingredi.</span>
+            <span xml:id="Js_6_2"><title>Iosue 6, 2&#160;:</title> Dixitque Dominus ad Iosue&#160;: Ecce dedi in manu tua Iericho, et regem eius, omnesque fortes uiros.</span>
+            <span xml:id="Js_6_3"><title>Iosue 6, 3&#160;:</title> Circuite urbem cuncti bellatores semel per diem&#160;: sic facietis sex diebus.</span>
+            <span xml:id="Js_6_4"><title>Iosue 6, 4&#160;:</title> Septimo autem die, sacerdotes tollant septem buccinas, quarum usus est in iubilaeo, et praecedant arcam foederis&#160;: septiesque circuibitis ciuitatem, et sacerdotes clangent buccinis.</span>
+            <span xml:id="Js_6_5"><title>Iosue 6, 5&#160;:</title> Cumque insonuerit uox tubae longior atque concisior, et in auribus uestris increpuerit, conclamabit omnis populus uociferatione maxima, et muri funditus corruent ciuitatis, ingredienturque singuli per locum contra quem steterint.</span>
+            <span xml:id="Js_6_6"><title>Iosue 6, 6&#160;:</title> Vocauit ergo Iosue filius Nun sacerdotes, et dixit ad eos&#160;: Tollite arcam foederis&#160;: et septem alii sacerdotes tollant septem iubilaeorum buccinas, et incedant ante arcam Domini.</span>
+            <span xml:id="Js_6_7"><title>Iosue 6, 7&#160;:</title> Ad populum quoque ait&#160;: Ite, et circuite ciuitatem, armati, praecedentes arcam Domini.</span>
+            <span xml:id="Js_6_8"><title>Iosue 6, 8&#160;:</title> Cumque Iosue uerba finisset, et septem sacerdotes septem buccinis clangerent ante arcam foederis Domini</span>
+            <span xml:id="Js_6_9"><title>Iosue 6, 9&#160;:</title> Omnisque praecederet armatus exercitus, reliquum uulgus arcam sequebatur, ac buccinis omnia concrepabant.</span>
+            <span xml:id="Js_6_10"><title>Iosue 6, 10&#160;:</title> Praeceperat autem Iosue populo, dicens&#160;: Non clamabitis, nec audietur uox uestra, neque ullus sermo ex ore uestro egredietur, donec ueniat dies in quo dicam uobis&#160;: Clamate, et uociferamini.</span>
+            <span xml:id="Js_6_11"><title>Iosue 6, 11&#160;:</title> Circuiuit ergo arca Domini ciuitatem semel per diem, et reuersa in castra mansit ibi.</span>
+            <span xml:id="Js_6_12"><title>Iosue 6, 12&#160;:</title> Igitur Iosue de nocte consurgente, tulerunt sacerdotes arcam Domini</span>
+            <span xml:id="Js_6_13"><title>Iosue 6, 13&#160;:</title> Et septem ex eis septem buccinas, quarum in iubilaeo usus est&#160;: praecedebantque arcam Domini ambulantes atque clangentes&#160;: et armatus populus ibat ante eos, uulgus autem reliquum sequebatur arcam, et buccinis personabat.</span>
+            <span xml:id="Js_6_14"><title>Iosue 6, 14&#160;:</title> Circuieruntque ciuitatem secundo die semel, et reuersi sunt in castra. Sic fecerunt sex diebus.</span>
+            <span xml:id="Js_6_15"><title>Iosue 6, 15&#160;:</title> Dies autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies.</span>
+            <span xml:id="Js_6_16"><title>Iosue 6, 16&#160;:</title> Cumque septimo circuitu clangerent buccinis sacerdotes, dixit Josue ad omnem Israel&#160;: Vociferamini&#160;: tradidit enim uobis Dominus ciuitatem.</span>
+            <span xml:id="Js_6_17"><title>Iosue 6, 17&#160;:</title> Sitque ciuitas haec anathema, et omnia quae in ea sunt, Domino&#160;: sola Rahab meretrix uiuat, cum uniuersis qui cum ea in domo sunt&#160;: abscondit enim nuntios quos direximus.</span>
+            <span xml:id="Js_6_18"><title>Iosue 6, 18&#160;:</title> Vos autem cauete ne de his, quae praecepta sunt, quippiam contingatis, et sitis praeuaricationis rei, et omnia castra Israel sub peccato sint atque turbentur.</span>
+            <span xml:id="Js_6_19"><title>Iosue 6, 19&#160;:</title> Quidquid autem auri et argenti fuerit, et uasorum aeneorum ac ferri, Domino consecretur, repositum in thesauris eius.</span>
+            <span xml:id="Js_6_20"><title>Iosue 6, 20&#160;:</title> Igitur omni populo uociferante, et clangentibus tubis, postquam in aures multitudinis uox sonitusque increpuit, muri illico corruerunt&#160;: et ascendit unusquisque per locum qui contra se erat&#160;: ceperuntque ciuitatem</span>
+            <span xml:id="Js_6_21"><title>Iosue 6, 21&#160;:</title> Et interfecerunt omnia quae erant in ea, a uiro usque ad mulierem, ab infante usque ad senem. Boues quoque et oues et asinos in ore gladii percusserunt.</span>
+            <span xml:id="Js_6_22"><title>Iosue 6, 22&#160;:</title> Duobus autem uiris, qui exploratores missi fuerant, dixit Iosue&#160;: Ingredimini domum mulieris meretricis, et producite eam, et omnia quae illius sunt, sicut illi iuramento firmastis.</span>
+            <span xml:id="Js_6_23"><title>Iosue 6, 23&#160;:</title> Ingressique iuuenes eduxerunt Rahab, et parentes eius, fratres quoque, et cunctam supellectilem ac cognationem illius, et extra castra Israel manere fecerunt.</span>
+            <span xml:id="Js_6_24"><title>Iosue 6, 24&#160;:</title> Vrbem autem, et omnia quae erant in ea, succenderunt, absque auro et argento, et uasis aeneis, ac ferro, quae in aerarium Domini consecrarunt.</span>
+            <span xml:id="Js_6_25"><title>Iosue 6, 25&#160;:</title> Rahab uero meretricem, et domum patris eius, et omnia quae habebat, fecit Iosue uiuere, et habitauerunt in medio Israel, usque in praesentem diem&#160;: eo quod absconderit nuntios, quos miserat ut explorarent Iericho. In tempore illo, imprecatus est Iosue, dicens</span>
+            <span xml:id="Js_6_26"><title>Iosue 6, 26&#160;:</title> Maledictus uir coram Domino, qui suscitauerit et aedificauerit ciuitatem Iericho. In primogenito suo fundamenta illius iaciat, et in nouissimo liberorum ponat portas eius.</span>
+            <span xml:id="Js_6_27"><title>Iosue 6, 27&#160;:</title> Fuit ergo Dominus cum Iosue, et nomen eius uulgatum est in omni terra.</span>
+            <span xml:id="Js_10_12"><title>Iosue 10, 12&#160;:</title> Tunc locutus est Iosue Domino, in die qua tradidit Amorrhaeum in conspectu filiorum Israel, dixitque coram eis&#160;: Sol, contra Gabaon ne mouearis, et luna contra vallem Aialon.</span>
+            <span xml:id="Js_10_13"><title>Iosue 10, 13&#160;:</title> Steteruntque sol et luna, donec ulcisceretur se gens de inimicis suis. Nonne scriptum est hoc in libro iustorum&#160;? Stetit itaque sol in medio caeli, et non festinauit occumbere spatio unius diei.</span>
+         </div>
+         
+         <div xml:id="Jg">
+            <head>Iudicum</head>
+            <span xml:id="Jg_4_21"><title>Iudicum 4, 21&#160;:</title> Tulit itaque Iahel uxor Haber clauum tabernaculi, assumens pariter et malleum&#160;: et ingressa abscondite et cum silentio, posuit supra tempus capitis eius clauum, percussumque malleo defixit in cerebrum usque ad terram&#160;: qui soporem morti consocians defecit, et mortuus est.</span>
+            <span xml:id="Jg_6_36"><title>Iudicum 6, 36&#160;:</title> Dixitque Gedeon ad Deum&#160;: Si saluum facis per manum meam Israel, sicut locutus es</span>
+            <span xml:id="Jg_6_37"><title>Iudicum 6, 37&#160;:</title> Ponam hoc uellus lanae in area&#160;: si ros in solo uellere fuerit, et in omni terra siccitas, sciam quod per manum meam, sicut locutus es, liberabis Israel.</span>
+            <span xml:id="Jg_6_38"><title>Iudicum 6, 38&#160;:</title> Factumque est ita. Et de nocte consurgens expresso uellere, concham rore impleuit.</span>
+            <span xml:id="Jg_6_39"><title>Iudicum 6, 39&#160;:</title> Dixitque rursus ad Deum&#160;: Ne irascatur furor tuus contra me si adhuc semel tentauero, signum quaerens in uellere. Oro ut solum uellus siccum sit, et omnis terra rore madens.</span>
+            <span xml:id="Jg_6_40"><title>Iudicum 6, 40&#160;:</title> Fecitque Deus nocte illa ut postulauerat&#160;: et fuit siccitas in solo uellere, et ros in omni terra.</span>
+         </div>
+         
+         <div xml:id="Rt">
+            <head>Ruth</head>
+            <span xml:id="Rt_1_14"><title>Ruth 1, 14&#160;:</title> Eleuata igitur uoce, rursum flere coeperunt&#160;: Orpha osculata est socrum, ac reuersa est; Ruth adhaesit socrui suae</span>
+            <span xml:id="Rt_1_16"><title>Ruth 1, 16&#160;:</title> Quae respondit&#160;: Ne aduerseris mihi ut relinquam te et abeam&#160;: quocumque enim perrexeris, pergam, et ubi morata fueris, et ego pariter morabor. Populus tuus populus meus, et Deus tuus Deus meus.</span>
+         </div>
+         
+         <div xml:id="S1">
+            <head>I Regum</head>
+            <span xml:id="S1_2_5"><title>1 Regum 2, 5 (<foreign>Itala</foreign>)&#160;:</title> Pleni panibus minorati sunt, et esurientes habitauerunt terram&#160;: quia sterilis peperit septem , et feta in filiis infirmata est</span>
+            <span xml:id="S1_2_7"><title>1 Regum 2, 7&#160;:</title> Dominus pauperem facit et ditat, humiliat et subleuat.</span>
+            <span xml:id="S1_2_8"><title>1 Regum 2, 8&#160;:</title> Suscitat de puluere egenum, et de stercore eleuat pauperem&#160;: ut sedeat cum principibus, et solium gloriae teneat. Domini enim sunt cardines terrae, et posuit super eos orbem.</span>
+            <span xml:id="S1_2_21"><title>1 Regum 2, 21&#160;:</title> Visitauit ergo Dominus Annam, et concepit, et peperit tres filios, et duas filias&#160;: et magnificatus est puer Samuel apud Dominum.</span>
+            <span xml:id="S1_2_22"><title>1 Regum 2, 22&#160;:</title> Heli autem erat senex ualde, et audiuit omnia quae faciebant filii sui uniuerso Israeli, et quomodo dormiebant cum mulieribus quae obseruabant ad ostium tabernaculi</span>
+            <span xml:id="S1_2_23"><title>1 Regum 2, 23&#160;:</title> Et dixit eis&#160;: Quare facitis res huiuscemodi quas ego audio, res pessimas, ab omni populo&#160;?</span>
+            <span xml:id="S1_2_24"><title>1 Regum 2, 24&#160;:</title> Nolite, filii mei&#160;: non enim est bona fama quam ego audio, ut transgredi faciatis populum Domini.</span>
+            <span xml:id="S1_2_25"><title>1 Regum 2, 25&#160;:</title> Si peccauerit uir in uirum, placari ei potest Deus&#160;: si autem in Dominum peccauerit uir, quis orabit pro eo&#160;? Et non audierunt uocem patris sui&#160;: quia uoluit Dominus occidere eos.</span>
+            <span xml:id="S1_2_26"><title>1 Regum 2, 26&#160;:</title> Puer autem Samuel proficiebat atque crescebat, et placebat tam Domino quam hominibus.</span>
+            <span xml:id="S1_17_1"><title>1 Regum 17, 1&#160;:</title> Congregantes autem Philisthiim agmina sua in praelium, conuenerunt in Socho Judae&#160;: et castrametati sunt inter Socho et Azeca in finibus Dommim.</span>
+            <span xml:id="S1_17_2"><title>1 Regum 17, 2&#160;:</title> Porro Saul et filii Israel congregati uenerunt in Vallem terebinthi, et direxerunt aciem ad pugnandum contra Philisthiim.</span>
+            <span xml:id="S1_17_3"><title>1 Regum 17, 3&#160;:</title> Et Philisthiim stabant super montem ex parte hac, et Israel stabat supra montem ex altera parte&#160;: uallisque erat inter eos.</span>
+            <span xml:id="S1_17_4"><title>1 Regum 17, 4&#160;:</title> Et egressus est uir spurius de castris Philisthinorum nomine Goliath, de Geth, altitudinis sex cubitorum et palmi</span>
+            <span xml:id="S1_17_5"><title>1 Regum 17, 5&#160;:</title> Et cassis aerea super caput eius, et lorica squamata induebatur. Porro pondus loricae eius, quinque millia siclorum aeris erat</span>
+            <span xml:id="S1_17_6"><title>1 Regum 17, 6&#160;:</title> Et ocreas aereas habebat in cruribus, et clypeus aereus tegebat humeros eius.</span>
+            <span xml:id="S1_17_7"><title>1 Regum 17, 7&#160;:</title> Hastile autem hastae eius erat quasi liciatorium texentium&#160;: ipsum autem ferrum hastae eius sexcentos siclos habebat ferri&#160;: et armiger eius antecedebat eum.</span>
+            <span xml:id="S1_17_8"><title>1 Regum 17, 8&#160;:</title> Stansque clamabat aduersum phalangas Israel, et dicebat eis&#160;: Quare uenistis parati ad praelium&#160;? numquid ego non sum Philisthaeus, et uos serui Saul&#160;? eligite ex uobis uirum, et descendat ad singulare certamen.</span>
+            <span xml:id="S1_17_9"><title>1 Regum 17, 9&#160;:</title> Si quiuerit pugnare mecum, et percusserit me, erimus uobis serui&#160;: si autem ego praeualuero, et percussero eum, uos serui eritis, et seruietis nobis.</span>
+            <span xml:id="S1_17_10"><title>1 Regum 17, 10&#160;:</title> Et aiebat Philisthaeus&#160;: Ego exprobraui agminibus Israel hodie&#160;: date mihi uirum, et ineat mecum singulare certamen.</span>
+            <span xml:id="S1_17_11"><title>1 Regum 17, 11&#160;:</title> Audiens autem Saul et omnes Israelitae sermones Philisthaei huiuscemodi, stupebant, et metuebant nimis.</span>
+            <span xml:id="S1_17_12"><title>1 Regum 17, 12&#160;:</title> Dauid autem erat filius uiri Ephrathaei, de quo supra dictum est, de Bethlehem Juda, cui nomen erat Isai, qui habebat octo filios, et erat uir in diebus Saul senex, et grandaeuus inter uiros.</span>
+            <span xml:id="S1_17_13"><title>1 Regum 17, 13&#160;:</title> Abierunt autem tres filii eius maiores post Saul in praelium&#160;: et nomina trium filiorum eius qui perrexerunt ad bellum, Eliab primogenitus, et secundus Abinadab, tertiusque Samma.</span>
+            <span xml:id="S1_17_14"><title>1 Regum 17, 14&#160;:</title> Dauid autem erat minimus. Tribus ergo maioribus secutis Saulem</span>
+            <span xml:id="S1_17_15"><title>1 Regum 17, 15&#160;:</title> Abiit Dauid, et reuersus est a Saul ut pasceret gregem patris sui in Bethlehem.</span>
+            <span xml:id="S1_17_16"><title>1 Regum 17, 16&#160;:</title> Procedebat uero Philisthaeus mane et uespere, et stabat quadraginta diebus</span>
+            <span xml:id="S1_17_17"><title>1 Regum 17, 17&#160;:</title> Dixit autem Isai ad Dauid filium suum&#160;: Accipe fratribus tuis ephi polentae, et decem panes istos, et curre in castra ad fratres tuos</span>
+            <span xml:id="S1_17_18"><title>1 Regum 17, 18&#160;:</title> Et decem formellas casei has deferes ad tribunum&#160;: et fratres tuos uisitabis, si recte agant&#160;: et cum quibus ordinati sunt, disce.</span>
+            <span xml:id="S1_17_19"><title>1 Regum 17, 19&#160;:</title> Saul autem, et illi, et omnes filii Israel, in Valle terebinthi pugnabant aduersum Philisthiim.</span>
+            <span xml:id="S1_17_20"><title>1 Regum 17, 20&#160;:</title> Surrexit itaque Dauid mane, et commendauit gregem custodi&#160;: et onustus abiit, sicut praeceperat ei Isai. Et uenit ad locum Magala, et ad exercitum, qui egressus ad pugnam uociferatus erat in certamine.</span>
+            <span xml:id="S1_17_21"><title>1 Regum 17, 21&#160;:</title> Direxerat enim aciem Israel, sed et Philisthiim ex aduerso fuerant praeparati.</span>
+            <span xml:id="S1_17_22"><title>1 Regum 17, 22&#160;:</title> Derelinquens ergo Dauid uasa quae attulerat sub manu custodis ad sarcinas, cucurrit ad locum certaminis, et interrogabat si omnia recte agerentur erga fratres suos.</span>
+            <span xml:id="S1_17_23"><title>1 Regum 17, 23&#160;:</title> Cumque adhuc ille loqueretur eis, apparuit uir ille spurius ascendens, Goliath nomine, Philisthaeus de Geth, de castris Philisthinorum&#160;: et loquente eo haec eadem uerba audiuit Dauid.</span>
+            <span xml:id="S1_17_24"><title>1 Regum 17, 24&#160;:</title> Omnes autem Israelitae, cum uidissent uirum, fugerunt a facie eius, timentes eum ualde.</span>
+            <span xml:id="S1_17_25"><title>1 Regum 17, 25&#160;:</title> Et dixit unus quispiam de Israel&#160;: Num uidistis uirum hunc, qui ascendit&#160;? ad exprobrandum enim Israeli ascendit. Virum ergo qui percusserit eum, ditabit rex diuitiis magnis, et filiam suam dabit ei, et domum patris eius faciet absque tributo in Israel.</span>
+            <span xml:id="S1_17_26"><title>1 Regum 17, 26&#160;:</title> Et ait Dauid ad uiros qui stabant secum, dicens&#160;: Quid dabitur uiro qui percusserit Philisthaeum hunc, et tulerit opprobrium de Israel&#160;? quis enim est hic Philisthaeus incircumcisus, qui exprobrauit acies Dei uiuentis&#160;?</span>
+            <span xml:id="S1_17_27"><title>1 Regum 17, 27&#160;:</title> Referebat autem ei populus eumdem sermonem, dicens&#160;: Haec dabuntur uiro qui percusserit eum.</span>
+            <span xml:id="S1_17_28"><title>1 Regum 17, 28&#160;:</title> Quod cum audisset Eliab frater eius maior, loquente eo cum aliis, iratus est contra Dauid, et ait&#160;: Quare uenisti, et quare dereliquisti pauculas oues illas in deserto&#160;? Ego noui superbiam tuam, et nequitiam cordis tui&#160;: quia ut uideres praelium, descendisti.</span>
+            <span xml:id="S1_17_29"><title>1 Regum 17, 29&#160;:</title> Et dixit Dauid&#160;: Quid feci&#160;? numquid non uerbum est&#160;?</span>
+            <span xml:id="S1_17_30"><title>1 Regum 17, 30&#160;:</title> Et declinauit paululum ab eo ad alium&#160;: dixitque eumdem sermonem. Et respondit ei populus uerbum sicut prius.</span>
+            <span xml:id="S1_17_31"><title>1 Regum 17, 31&#160;:</title> Audita sunt autem uerba quae locutus est Dauid, et annuntiata in conspectu Saul.</span>
+            <span xml:id="S1_17_32"><title>1 Regum 17, 32&#160;:</title> Ad quem cum fuisset adductus, locutus est ei&#160;: Non concidat cor cuiusquam in eo&#160;: ego seruus tuus uadam, et pugnabo aduersus Philisthaeum.</span>
+            <span xml:id="S1_17_33"><title>1 Regum 17, 33&#160;:</title> Et ait Saul ad Dauid&#160;: Non uales resistere Philisthaeo isti, nec pugnare aduersus eum, quia puer es&#160;: hic autem uir bellator est ab adolescentia sua.</span>
+            <span xml:id="S1_17_34"><title>1 Regum 17, 34&#160;:</title> Dixitque Dauid ad Saul&#160;: Pascebat seruus tuus patris sui gregem, et ueniebat leo uel ursus, et tollebat arietem de medio gregis</span>
+            <span xml:id="S1_17_35"><title>1 Regum 17, 35&#160;:</title> Et persequebar eos, et percutiebam, eruebamque de ore eorum&#160;: et illi consurgebant aduersum me, et apprehendebam mentum eorum, et suffocabam, interficiebamque eos.</span>
+            <span xml:id="S1_17_36"><title>1 Regum 17, 36&#160;:</title> Nam et leonem et ursum interfeci ego seruus tuus&#160;: erit igitur et Philisthaeus hic incircumcisus quasi unus ex eis. Nunc uadam, et auferam opprobrium populi&#160;: quoniam quis est iste Philisthaeus incircumcisus, qui ausus est maledicere exercitui Dei uiuentis&#160;?</span>
+            <span xml:id="S1_17_37"><title>1 Regum 17, 37&#160;:</title> Et ait Dauid&#160;: Dominus qui eripuit me de manu leonis, et de manu ursi, ipse me liberabit de manu Philisthaei huius. Dixit autem Saul ad Dauid&#160;: Vade, et Dominus tecum sit.</span>
+            <span xml:id="S1_17_38"><title>1 Regum 17, 38&#160;:</title> Et induit Saul Dauid uestimentis suis, et imposuit galeam aeream super caput eius, et uestiuit eum lorica.</span>
+            <span xml:id="S1_17_39"><title>1 Regum 17, 39&#160;:</title> Accinctus ergo Dauid gladio eius super uestem suam, coepit tentare si armatus posset incedere&#160;: non enim habebat consuetudinem. Dixitque Dauid ad Saul&#160;: Non possum sic incedere, quia non usum habeo. Et deposuit ea</span>
+            <span xml:id="S1_17_40"><title>1 Regum 17, 40&#160;:</title> Et tulit baculum suum, quem semper habebat in manibus&#160;: et elegit sibi quinque limpidissimos lapides de torrente, et misit eos in peram pastoralem quam habebat secum, et fundam manu tulit&#160;: et processit aduersum Philisthaeum.</span>
+            <span xml:id="S1_17_41"><title>1 Regum 17, 41&#160;:</title> Ibat autem Philisthaeus incedens, et appropinquans aduersum Dauid, et armiger eius ante eum.</span>
+            <span xml:id="S1_17_42"><title>1 Regum 17, 42&#160;:</title> Cumque inspexisset Philisthaeus, et uidisset Dauid, despexit eum. Erat enim adolescens, rufus, et pulcher aspectu.</span>
+            <span xml:id="S1_17_43"><title>1 Regum 17, 43&#160;:</title> Et dixit Philisthaeus ad Dauid&#160;: Numquid ego canis sum, quod tu uenis ad me cum baculo&#160;? Et maledixit Philisthaeus Dauid in diis suis</span>
+            <span xml:id="S1_17_44"><title>1 Regum 17, 44&#160;:</title> Dixitque ad Dauid&#160;: Veni ad me, et dabo carnes tuas uolatilibus caeli et bestiis terrae.</span>
+            <span xml:id="S1_17_45"><title>1 Regum 17, 45&#160;:</title> Dixit autem Dauid ad Philisthaeum&#160;: Tu uenis ad me cum gladio, et hasta, et clypeo&#160;: ego autem uenio ad te in nomine Domini exercituum, Dei agminum Israel quibus exprobrasti</span>
+            <span xml:id="S1_17_46"><title>1 Regum 17, 46&#160;:</title> Hodie, et dabit te Dominus in manu mea, et percutiam te, et auferam caput tuum a te&#160;: et dabo cadauera castrorum Philisthiim hodie uolatilibus caeli, et bestiis terrae, ut sciat omnis terra quia est Deus in Israel</span>
+            <span xml:id="S1_17_47"><title>1 Regum 17, 47&#160;:</title> Et nouerit uniuersa ecclesia haec, quia non in gladio nec in hasta saluat Dominus&#160;: ipsius enim est bellum, et tradet uos in manus nostras.</span>
+            <span xml:id="S1_17_48"><title>1 Regum 17, 48&#160;:</title> Cum ergo surrexisset Philisthaeus, et ueniret, et appropinquaret contra Dauid, festinauit Dauid et cucurrit ad pugnam ex aduerso Philisthaei.</span>
+            <span xml:id="S1_17_49"><title>1 Regum 17, 49&#160;:</title> Et misit manum suam in peram, tulitque unum lapidem, et funda iecit, et circumducens percussit Philisthaeum in fronte&#160;: et infixus est lapis in fronte eius, et cecidit in faciem suam super terram.</span>
+            <span xml:id="S1_17_50"><title>1 Regum 17, 50&#160;:</title> Praeualuitque Dauid aduersum Philisthaeum in funda et lapide, percussumque Philisthaeum interfecit. Cumque gladium non haberet in manu Dauid</span>
+            <span xml:id="S1_17_51"><title>1 Regum 17, 51&#160;:</title> Cucurrit, et stetit super Philisthaeum, et tulit gladium eius, et eduxit eum de uagina sua&#160;: et interfecit eum, praeciditque caput eius. Videntes autem Philisthiim quod mortuus esset fortissimus eorum, fugerunt.</span>
+            <span xml:id="S1_17_52"><title>1 Regum 17, 52&#160;:</title> Et consurgentes uiri Israel et Iuda uociferati sunt, et persecuti sunt Philisthaeos usque dum uenirent in uallem, et usque ad portas Accaron&#160;: cecideruntque uulnerati de Philisthiim in uia Saraim, et usque ad Geth, et usque ad Accaron.</span>
+            <span xml:id="S1_17_53"><title>1 Regum 17, 53&#160;:</title> Et reuertentes filii Israel postquam persecuti fuerant Philisthaeos, inuaserunt castra eorum.</span>
+            <span xml:id="S1_17_54"><title>1 Regum 17, 54&#160;:</title> Assumens autem Dauid caput Philisthaei, attulit illud in Ierusalem&#160;: arma uero eius posuit in tabernaculo suo.</span>
+            <span xml:id="S1_17_55"><title>1 Regum 17, 55&#160;:</title> Eo autem tempore quo uiderat Saul Dauid egredientem contra Philisthaeum, ait ad Abner principem militiae&#160;: De qua stirpe descendit hic adolescens, Abner&#160;? Dixitque Abner&#160;: Viuit anima tua, rex, si noui.</span>
+            <span xml:id="S1_17_56"><title>1 Regum 17, 56&#160;:</title> Et ait rex&#160;: Interroga tu, cuius filius sit iste puer.</span>
+            <span xml:id="S1_17_57"><title>1 Regum 17, 57&#160;:</title> Cumque regressus esset Dauid, percusso Philisthaeo, tulit eum Abner, et introduxit coram Saule, caput Philisthaei habentem in manu.</span>
+            <span xml:id="S1_17_58"><title>1 Regum 17, 58&#160;:</title> Et ait ad eum Saul&#160;: De qua progenie es, o adolescens&#160;? Dixitque Dauid&#160;: Filius serui tui Isai Bethlehemitae ego sum.</span>
+         </div>
+         
+         <div xml:id="R3">
+            <head>III Regum</head>
+            <span xml:id="R3_2_30"><title>3 Regum 2, 30&#160;:</title> Et uenit Banaias ad tabernaculum Domini, et dixit ei&#160;: Haec dicit rex&#160;: Egredere. Qui ait&#160;: Non egrediar, sed hic moriar. Renuntiauit Banaias regi sermonem, dicens&#160;: Haec locutus est Ioab, et haec respondit mihi.</span>
+            <span xml:id="R3_7_23"><title>3 Regum 7, 23&#160;:</title> Fecit quoque mare fusile decem cubitorum a labio usque ad labium, rotundum in circuitu&#160;: quinque cubitorum altitudo eius, et resticula triginta cubitorum cingebat illud per circuitum.</span>
+            <span xml:id="R3_7_24"><title>3 Regum 7, 24&#160;:</title> Et sculptura subter labium circuibat illud decem cubitis ambiens mare&#160;: duo ordines sculpturarum striatarum erant fusiles.</span>
+            <span xml:id="R3_7_25"><title>3 Regum 7, 25&#160;:</title> Et stabat super duodecim boues, e quibus tres respiciebant ad aquilonem, et tres ad occidentem, et tres ad meridiem, et tres ad orientem&#160;: et mare super eos desuper erat&#160;: quorum posteriora uniuersa intrinsecus latitabant.</span>
+            <span xml:id="R3_7_26"><title>3 Regum 7, 26&#160;:</title> Grossitudo autem luteris, trium unciarum erat&#160;: labiumque eius quasi labium calicis, et folium repandi lilii&#160;: duo millia batos capiebat.</span>
+            <span xml:id="R3_17_1"><title>3 Regum 17, 1&#160;:</title> Et dixit Elias Thesbites de habitatoribus Galaad ad Achab&#160;: Viuit Dominus Deus Israel, in cuius conspectu sto, si erit annis his ros et pluuia, nisi iuxta oris mei uerba.</span>
+            <span xml:id="R3_17_6"><title>3 Regum 17, 6&#160;:</title> Corui quoque deferebant ei panem et carnes mane, similiter panem et carnes uesperi, et bibebat de torrente.</span>
+            <span xml:id="R3_18_41"><title>3 Regum 18, 41&#160;:</title> Et ait Elias ad Achab&#160;: Ascende, comede, et bibe, quia sonus multae pluuiae est.</span>
+            <span xml:id="R3_18_42"><title>3 Regum 18, 42&#160;:</title> Ascendit Achab ut comederet et biberet&#160;: Elias autem ascendit in uerticem Carmeli, et pronus in terram posuit faciem suam inter genua sua</span>
+            <span xml:id="R3_18_43"><title>3 Regum 18, 43&#160;:</title> Et dixit ad puerum suum&#160;: Ascende, et prospice contra mare. Qui cum ascendisset, et contemplatus esset, ait&#160;: Non est quidquam. Et rursum ait illi&#160;: Reuertere septem uicibus.</span>
+            <span xml:id="R3_18_44"><title>3 Regum 18, 44&#160;:</title> In septima autem uice, ecce nubecula parua quasi uestigium hominis ascendebat de mari. Qui ait&#160;: Ascende, et dic Achab&#160;:Iunge currum tuum et descende, ne occupet te pluuia.</span>
+            <span xml:id="R3_18_45"><title>3 Regum 18, 45&#160;:</title> Cumque se uerteret huc atque illuc, ecce caeli contenebrati sunt, et nubes, et uentus, et facta est pluuia grandis. Ascendens itaque Achab, abiit in Iezrahel</span>
+         </div>
+         
+         <div xml:id="R4">
+            <head>IV Regum</head>
+            <span xml:id="R4_6_18"><title>4 Regum 6, 18&#160;:</title> Hostes uero descenderunt ad eum&#160;: porro Eliseus orauit ad Dominum, dicens&#160;: Percute, obsecro, gentem hanc caecitate. Percussitque eos Dominus ne uiderent, iuxta uerbum Elisei.</span>
+            <span xml:id="R4_6_19"><title>4 Regum 6, 19&#160;:</title> Dixit autem ad eos Eliseus&#160;: Non est haec uia, neque ista est ciuitas&#160;: sequimini me, et ostendam uobis uirum quem quaeritis. Duxit ergo eos in Samariam</span>
+            <span xml:id="R4_6_20"><title>4 Regum 6, 20&#160;:</title> cumque ingressi fuissent in Samariam, dixit Eliseus&#160;: Domine, aperi oculos istorum, ut uideant. Aperuitque Dominus oculos eorum, et uiderunt se esse in medio Samariae.</span>
+            <span xml:id="R4_18_13"><title>4 Regum 18, 13&#160;:</title> Anno quartodecimo regis Ezechiae, ascendit Sennacherib rex Assyriorum ad uniuersas ciuitates Iuda munitas, et cepit eas.</span>
+            <span xml:id="R4_19_1"><title>4 Regum 19, 1&#160;:</title> Quae cum audisset Ezechias rex, scidit uestimenta sua, et opertus est sacco, ingressusque est domum Domini.</span>
+            <span xml:id="R4_19_2"><title>4 Regum 19, 2&#160;:</title> Et misit Eliacim praepositum domus, et Sobnam scribam, et senes de sacerdotibus, opertos saccis, ad Isaiam prophetam filium Amos.</span>
+            <span xml:id="R4_19_3"><title>4 Regum 19, 3&#160;:</title> Qui dixerunt&#160;: Haec dicit Ezechias&#160;: Dies tribulationis, et increpationis, et blasphemiae dies iste&#160;: uenerunt filii usque ad partum, et uires non habet parturiens.</span>
+            <span xml:id="R4_19_4"><title>4 Regum 19, 4&#160;:</title> Si forte audiat Dominus Deus tuus uniuersa uerba Rabsacis, quem misit rex Assyriorum dominus suus ut exprobraret Deum uiuentem et argueret uerbis, quae audiuit Dominus Deus tuus&#160;: et fac orationem pro reliquiis quae repertae sunt.</span>
+            <span xml:id="R4_19_5"><title>4 Regum 19, 5&#160;:</title> Venerunt ergo serui regis Ezechiae ad Isaiam.</span>
+            <span xml:id="R4_19_6"><title>4 Regum 19, 6&#160;:</title> Dixitque eis Isaias&#160;: Haec dicetis domino uestro&#160;: Haec dicit Dominus&#160;: Noli timere a facie sermonum quos audisti, quibus blasphemauerunt pueri regis Assyriorum me.</span>
+            <span xml:id="R4_19_7"><title>4 Regum 19, 7&#160;:</title> Ecce ego immittam ei spiritum, et audiet nuntium, et reuertetur in terram suam, et deiiciam eum gladio in terra sua.</span>
+            <span xml:id="R4_19_8"><title>4 Regum 19, 8&#160;:</title> Reuersus est ergo Rabsaces, et inuenit regem Assyriorum expugnantem Lobnam&#160;: audierat enim quod recessisset de Lachis.</span>
+            <span xml:id="R4_19_9"><title>4 Regum 19, 9&#160;:</title> Cumque audisset de Tharaca rege AEthiopiae, dicentes&#160;: Ecce egressus est ut pugnet aduersum te&#160;: et iret contra eum, misit nuntios ad Ezechiam, dicens</span>
+            <span xml:id="R4_19_10"><title>4 Regum 19, 10&#160;:</title> Haec dicite Ezechiae regi Iuda&#160;: Non te seducat Deus tuus in quo habes fiduciam, neque dicas&#160;: Non tradetur Ierusalem in manus regis Assyriorum.</span>
+            <span xml:id="R4_19_11"><title>4 Regum 19, 11&#160;:</title> Tu enim ipse audisti quae fecerunt reges Assyriorum uniuersis terris, quomodo uastauerunt eas&#160;: num ergo solus poteris liberari&#160;?</span>
+            <span xml:id="R4_19_12"><title>4 Regum 19, 12&#160;:</title> Numquid liberauerunt dii gentium singulos quos uastauerunt patres mei, Gozan uidelicet, et Haran, et Reseph, et filios Eden qui erant in Thelassar&#160;?</span>
+            <span xml:id="R4_19_13"><title>4 Regum 19, 13&#160;:</title> Vbi est rex Emath, et rex Arphad, et rex ciuitatis Sepharuaim, Ana, et Aua&#160;?</span>
+            <span xml:id="R4_19_14"><title>4 Regum 19, 14&#160;:</title> Itaque cum accepisset Ezechias litteras de manu nuntiorum, et legisset eas, ascendit in domum Domini, et expandit eas coram Domino</span>
+            <span xml:id="R4_19_15"><title>4 Regum 19, 15&#160;:</title> Et orauit in conspectu eius, dicens&#160;: Domine Deus Israel, qui sedes super cherubim, tu es Deus solus regum omnium terrae&#160;: tu fecisti caelum et terram.</span>
+            <span xml:id="R4_19_16"><title>4 Regum 19, 16&#160;:</title> Inclina aurem tuam, et audi&#160;: aperi, Domine, oculos tuos, et uide&#160;: audi omnia uerba Sennacherib, qui misit ut exprobraret nobis Deum uiuentem.</span>
+            <span xml:id="R4_19_17"><title>4 Regum 19, 17&#160;:</title> Vere, Domine, dissipauerunt reges Assyriorum gentes, et terras omnium.</span>
+            <span xml:id="R4_19_18"><title>4 Regum 19, 18&#160;:</title> Et miserunt deos eorum in ignem&#160;: non enim erant dii, sed opera manuum hominum, ex ligno et lapide&#160;: et perdiderunt eos.</span>
+            <span xml:id="R4_19_19"><title>4 Regum 19, 19&#160;:</title> Nunc igitur Domine Deus noster, saluos nos fac de manu eius, ut sciant omnia regna terrae quia tu es Dominus Deus solus.</span>
+            <span xml:id="R4_19_20"><title>4 Regum 19, 20&#160;:</title> Misit autem Isaias filius Amos ad Ezechiam, dicens&#160;: Haec dicit Dominus Deus Israel&#160;: Quae deprecatus es me super Sennacherib rege Assyriorum, audiui.</span>
+            <span xml:id="R4_19_21"><title>4 Regum 19, 21&#160;:</title> Iste est sermo, quem locutus est Dominus de eo&#160;: Spreuit te, et subsannauit te, uirgo filia Sion&#160;: post tergum tuum caput mouit, filia Ierusalem.</span>
+            <span xml:id="R4_19_22"><title>4 Regum 19, 22&#160;:</title> Cui exprobrasti, et quem blasphemasti&#160;? contra quem exaltasti uocem tuam, et eleuasti in excelsum oculos tuos&#160;? Contra Sanctum Israel.</span>
+            <span xml:id="R4_19_23"><title>4 Regum 19, 23&#160;:</title> Per manum seruorum tuorum exprobrasti Domino, et dixisti&#160;: In multitudine curruum meorum ascendi excelsa montium in summitate Libani, et succidi sublimes cedros eius, et electas abietes illius. Et ingressus sum usque ad terminos eius, et saltum Carmeli eius</span>
+            <span xml:id="R4_19_24"><title>4 Regum 19, 24&#160;:</title> Ego succidi. Et bibi aquas alienas, et siccaui uestigiis pedum meorum omnes aquas clausas.</span>
+            <span xml:id="R4_19_25"><title>4 Regum 19, 25&#160;:</title> Numquid non audisti quid ab initio fecerim&#160;? ex diebus antiquis plasmaui illud, et nunc adduxi&#160;: eruntque in ruinam collium pugnantium ciuitates munitae.</span>
+            <span xml:id="R4_19_26"><title>4 Regum 19, 26&#160;:</title> Et qui sedent in eis, humiles manu, contremuerunt et confusi sunt&#160;: facti sunt velut foenum agri, et virens herba tectorum, quae arefacta est antequam veniret ad maturitatem.</span>
+            <span xml:id="R4_19_27"><title>4 Regum 19, 27&#160;:</title> Habitaculum tuum, et egressum tuum, et introitum tuum, et uiam tuam ego praesciui, et furorem tuum contra me.</span>
+            <span xml:id="R4_19_28"><title>4 Regum 19, 28&#160;:</title> Insanisti in me, et superbia tua ascendit in aures meas&#160;: ponam itaque circulum in naribus tuis, et camum in labiis tuis, et reducam te in uiam per quam uenisti.</span>
+            <span xml:id="R4_19_29"><title>4 Regum 19, 29&#160;:</title> Tibi autem, Ezechia, hoc erit signum&#160;: comede hoc anno quae repereris&#160;: in secundo autem anno, quae sponte nascuntur&#160;: porro in tertio anno seminate et metite&#160;: plantate uineas, et comedite fructum earum.</span>
+            <span xml:id="R4_19_30"><title>4 Regum 19, 30&#160;:</title> Et quodcumque reliquum fuerit de domo Iuda, mittet radicem deorsum, et faciet fructum sursum.</span>
+            <span xml:id="R4_19_31"><title>4 Regum 19, 31 </title>&#160;: De Ierusalem quippe egredientur reliquiae, et quod saluetur de monte Sion&#160;: zelus Domini exercituum faciet hoc.</span>
+            <span xml:id="R4_19_32"><title>4 Regum 19, 32&#160;:</title> Quam ob rem haec dicit Dominus de rege Assyriorum&#160;: Non ingredietur urbem hanc, nec mittet in eam sagittam, nec occupabit eam clypeus, nec circumdabit eam munitio.</span>
+            <span xml:id="R4_19_33"><title>4 Regum 19, 33&#160;:</title> Per uiam qua uenit, reuertetur&#160;: et ciuitatem hanc non ingredietur, dicit Dominus.</span>
+            <span xml:id="R4_19_34"><title>4 Regum 19, 34&#160;:</title> Protegamque urbem hanc, et saluabo eam propter me, et propter Dauid seruum meum.</span>
+            <span xml:id="R4_19_35"><title>4 Regum 19, 35&#160;:</title> Factum est igitur in nocte illa, uenit angelus Domini, et percussit in castris Assyriorum centum octoginta quinque millia. Cumque diluculo surrexisset, uidit omnia corpora mortuorum&#160;: et recedens abiit</span>
+            <span xml:id="R4_19_36"><title>4 Regum 19, 36&#160;:</title> Et reuersus est Sennacherib rex Assyriorum, et mansit in Niniue.</span>
+         </div>
+         
+         <div xml:id="Ch1">
+            <head>I Paralipomenon</head>
+            <span xml:id="Ch1_16_33"><title>1 Paralipomenon 16, 33&#160;:</title> Tunc laudabunt ligna saltus coram Domino&#160;: quia uenit iudicare terram.</span>
+            <span xml:id="Ch1_18_8"><title>1 Paralipomenon 18, 8&#160;:</title> Necnon de Thebath et Chun urbibus Adarezer aeris plurimum, de quo fecit Salomon mare aeneum, et columnas, et uasa aenea.</span>
+         </div>
+         
+         <div xml:id="Ch2">
+            <head>II Paralipomenon</head>
+            <span xml:id="Ch2_4_2"><title>2 Paralipomenon 4, 2&#160;:</title> Mare etiam fusile decem cubitis a labio usque ad labium, rotundum per circuitum&#160;: quinque cubitos habebat altitudinis, et funiculus triginta cubitorum ambiebat gyrum eius.</span>
+            <span xml:id="Ch2_4_3"><title>2 Paralipomenon 4, 3&#160;:</title> Similitudo quoque boum erat subter illud, et decem cubitis quaedam extrinsecus caelaturae, quasi duobus uersibus aluum maris circuibant. Boues autem erant fusiles</span>
+            <span xml:id="Ch2_4_4"><title>2 Paralipomenon 4, 4&#160;:</title> Et ipsum mare super duodecim boues impositum erat, quorum tres respiciebant ad aquilonem, et alii tres ad occidentem&#160;: porro tres alii meridiem, et tres qui reliqui erant, orientem, habentes mare superpositum&#160;: posteriora autem boum erant intrinsecus sub mari.</span>
+            <span xml:id="Ch2_6_18"><title>2 Paralipomenon 6, 18&#160;:</title> Ergone credibile est ut habitet Deus cum hominibus super terram&#160;? si caelum et caeli caelorum non te capiunt, quanto magis domus ista quam aedificaui&#160;?</span>
+         </div>
+         
+         <div xml:id="Tb">
+            <head>Tobias</head>
+            <span xml:id="Tb_2_10"><title>Tobias 2, 10&#160;:</title> Contigit autem ut quadam die fatigatus a sepultura, ueniens in domum suam, iactasset se iuxta parietem, et obdormisset</span>
+            <span xml:id="Tb_3_21"><title>Tobias 3, 21&#160;:</title> Hoc autem pro certo habet omnis qui te colit&#160;: quod uita eius, si in probatione fuerit, coronabitur; si autem in tribulatione fuerit, liberabitur; et si in correptione fuerit, ad misericordiam tuam uenire licebit.</span>
+         </div>
+         
+         <div xml:id="Jdt">
+            <head>Iudith</head>
+            <span xml:id="Jdt_13_1"><title>Iudith 13, 1&#160;:</title> Vt autem sero factum est, festinauerunt serui illius ad hospitia sua, et conclusit Vagao ostia cubiculi, et abiit.</span>
+            <span xml:id="Jdt_13_2"><title>Iudith 13, 2&#160;:</title> Erant autem omnes fatigati a uino</span>
+            <span xml:id="Jdt_13_3"><title>Iudith 13, 3&#160;:</title> Eratque Iudith sola in cubiculo.</span>
+            <span xml:id="Jdt_13_4"><title>Iudith 13, 4&#160;:</title> Porro Holofernes iacebat in lecto, nimia ebrietate sopitus.</span>
+            <span xml:id="Jdt_13_5"><title>Iudith 13, 5&#160;:</title> Dixitque Iudith puellae suae ut staret foris ante cubiculum, et obseruaret.</span>
+            <span xml:id="Jdt_13_6"><title>Iudith 13, 6&#160;:</title> Stetitque Iudith ante lectum, orans cum lacrimis, et labiorum motu in silentio</span>
+            <span xml:id="Jdt_13_7"><title>Iudith 13, 7&#160;:</title> Dicens&#160;: Confirma me, Domine Deus Israel, et respice in hac hora ad opera manuum mearum, ut, sicut promisisti, Ierusalem ciuitatem tuam erigas&#160;: et hoc quod credens per te posse fieri cogitaui, perficiam.</span>
+            <span xml:id="Jdt_13_8"><title>Iudith 13, 8&#160;:</title> Et cum haec dixisset, accessit ad columnam quae erat ad caput lectuli eius, et pugionem eius, qui in ea ligatus pendebat, exsoluit.</span>
+            <span xml:id="Jdt_13_9"><title>Iudith 13, 9&#160;:</title> Cumque euaginasset illum, apprehendit comam capitis eius, et ait&#160;: Confirma me, Domine Deus, in hac hora.</span>
+            <span xml:id="Jdt_13_10"><title>Iudith 13, 10&#160;:</title> Et percussit bis in ceruicem ejus, et abscidit caput eius, et abstulit conopeum eius a columnis, et euoluit corpus eius truncum.</span>
+            <span xml:id="Jdt_13_11"><title>Iudith 13, 11&#160;:</title> Et post pusillum exiuit, et tradidit caput Holofernis ancillae suae, et iussit ut mitteret illud in peram suam.</span>
+         </div>
+         
+         <div xml:id="Est">
+            <head>Esther</head>
+            <span xml:id="Est_7_1"><title>Esther 7, 1&#160;:</title> Intrauit itaque rex et Aman, ut biberent cum regina.</span>
+            <span xml:id="Est_7_2"><title>Esther 7, 2&#160;:</title> Dixitque ei rex etiam secunda die, postquam uino incaluerat&#160;: Quae est petitio tua, Esther, ut detur tibi&#160;? et quid uis fieri&#160;? etiam si dimidiam partem regni mei petieris, impetrabis.</span>
+            <span xml:id="Est_7_3"><title>Esther 7, 3&#160;:</title> Ad quem illa respondit&#160;: Si inueni gratiam in oculis tuis o rex, et si tibi placet, dona mihi animam meam pro qua rogo, et populum meum pro quo obsecro.</span>
+            <span xml:id="Est_7_4"><title>Esther 7, 4&#160;:</title> Traditi enim sumus ego et populus meus, ut conteramur, iugulemur, et pereamus. Atque utinam in seruos et famulas uenderemur&#160;: esset tolerabile malum, et gemens tacerem&#160;: nunc autem hostis noster est, cuius crudelitas redundat in regem.</span>
+            <span xml:id="Est_7_5"><title>Esther 7, 5&#160;:</title> Respondensque rex Assuerus, ait&#160;: Quis est iste, et cuius potentiae, ut haec audeat facere&#160;?</span>
+            <span xml:id="Est_7_6"><title>Esther 7, 6&#160;:</title> Dixitque Esther&#160;: Hostis et inimicus noster pessimus iste est Aman. Quod ille audiens, illico obstupuit, uultum regis ac reginae ferre non sustinens.</span>
+            <span xml:id="Est_7_7"><title>Esther 7, 7&#160;:</title> Rex autem iratus surrexit, et de loco conuiuii intrauit in hortum arboribus consitum. Aman quoque surrexit ut rogaret Esther reginam pro anima sua&#160;: intellexit enim a rege sibi paratum malum.</span>
+            <span xml:id="Est_7_8"><title>Esther 7, 8&#160;:</title> Qui cum reuersus esset de horto nemoribus consito, et intrasset conuiuii locum, reperit Aman super lectulum corruisse in quo iacebat Esther, et ait&#160;: Etiam reginam uult opprimere, me praesente, in domo mea. Necdum uerbum de ore regis exierat, et statim operuerunt faciem eius.</span>
+            <span xml:id="Est_7_9"><title>Esther 7, 9&#160;:</title> Dixitque Harbona, unus de eunuchis, qui stabant in ministerio regis&#160;: En lignum quod parauerat Mardochaeo, qui locutus est pro rege, stat in domo Aman, habens altitudinis quinquaginta cubitos. Cui dixit rex&#160;: Appendite eum in eo.</span>
+            <span xml:id="Est_7_10"><title>Esther 7, 10&#160;:</title> Suspensus est itaque Aman in patibulo quod parauerat Mardochaeo&#160;: et regis ira quieuit.</span>
+         </div>
+         
+         <div xml:id="Jb">
+            <head>Iob</head>
+            <span xml:id="Jb_2_7"><title>Iob 2, 7&#160;:</title> Egressus igitur Satan a facie Domini, percussit Iob ulcere pessimo, a planta pedis usque ad uerticem eius</span>
+            <span xml:id="Jb_5_18"><title>Iob 5, 18&#160;:</title> Quia ipse uulnerat, et medetur; percutit, et manus eius sanabunt.</span>
+         </div>
+         
+         <div xml:id="Ps">
+            <head>Psalmi</head>
+            <span xml:id="Ps_2_1"><title>Psalmus 2, 1&#160;:</title> Quare fremuerunt gentes, et populi meditati sunt inania&#160;?</span>
+            <span xml:id="Ps_2_4"><title>Psalmus 2, 4&#160;:</title> Qui habitat in caelis irridebit eos, et Dominus subsannabit eos.</span>
+            <span xml:id="Ps_3_4"><title>Psalmus 3, 4&#160;:</title> Tu autem Domine, susceptor meus es, gloria mea, et exaltans caput meum.</span>
+            <span xml:id="Ps_4_7"><title>Psalmus 4, 7&#160;:</title> Signatum est super nos lumen uultus tui, Domine&#160;: dedisti laetitiam in corde meo.</span>
+            <span xml:id="Ps_7_10"><title>Psalmus 7, 10&#160;:</title> Consumetur nequitia peccatorum, et diriges iustum, scrutans corda et renes, Deus.</span>
+            <span xml:id="Ps_8_3"><title>Psalmus 8, 3&#160;:</title> Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos, ut destruas inimicum et ultorem.</span>
+            <span xml:id="Ps_17_33"><title>Psalmus 17, 33&#160;:</title> Deus qui praecinxit me uirtute, et posuit immaculatam uiam meam</span>
+            <span xml:id="Ps_18_5"><title>Psalmus 18, 5&#160;:</title> In omnem terram exiuit sonus eorum, et in fines orbis terrae uerba eorum. </span>
+            <span xml:id="Ps_22_4"><title>Psalmus 22, 4&#160;:</title> Nam etsi ambulauero in medio umbrae mortis, non timebo mala, quoniam tu mecum es. Virga tua, et baculus tuus, ipsa me consolata sunt.</span>
+            <span xml:id="Ps_23_3"><title>Psalmus 23, 3&#160;:</title> Quis ascendet in montem Domini&#160;? aut quis stabit in loco sancto eius&#160;?</span>
+            <span xml:id="Ps_25_12"><title>Psalmus 25, 12&#160;:</title> Pes meus stetit in directo; in ecclesiis benedicam te, Domine.</span>
+            <span xml:id="Ps_32_2"><title>Psalmus 32, 2&#160;:</title> Confitemini Domino in cithara; in psalterio decem chordarum psallite illi.</span>
+            <span xml:id="Ps_33_4"><title>Psalmus 33, 4&#160;:</title> Magnificate Dominum mecum, et exaltemus nomen eius in idipsum.</span>
+            <span xml:id="Ps_34_9"><title>Psalmus 34, 9&#160;:</title> Anima autem mea exsultabit in Domino, et delectabitur super salutari suo.</span>
+            <span xml:id="Ps_46_8"><title>Psalmus 46, 8&#160;:</title> Quoniam rex omnis terrae Deus, psallite sapienter.</span>
+            <span xml:id="Ps_49_14"><title>Psalmus 49, 14&#160;:</title> Immola Deo sacrificium laudis, et redde Altissimo uota tua.</span>
+            <span xml:id="Ps_50_7"><title>Psalmus 50, 7&#160;:</title> Ecce enim in iniquitatibus conceptus sum, et in peccatis concepit me mater mea.</span>
+            <span xml:id="Ps_54_23"><title>Psalmus 54, 23&#160;:</title> Iacta super Dominum curam tuam, et ipse te enutriet; non dabit in aeternum fluctuationem iusto.</span>
+            <span xml:id="Ps_56_9"><title>Psalmus 56, 9&#160;:</title> Exsurge, gloria mea; exsurge, psalterium et cithara&#160;: exsurgam diluculo.</span>
+            <span xml:id="Ps_70_22"><title>Psalmus 70, 22&#160;:</title> Nam et ego confitebor tibi in uasis psalmi ueritatem tuam, Deus; psallam tibi in cithara, sanctus Israel.</span>
+            <span xml:id="Ps_73_14"><title>Psalmus 73, 14&#160;:</title> Tu confregisti capita draconis; dedisti eum escam populis AEthiopum.</span>
+            <span xml:id="Ps_77_24"><title>Psalmus 77, 24&#160;:</title> Et pluit illis manna ad manducandum, et panem caeli dedit eis.</span>
+            <span xml:id="Ps_77_25"><title>Psalmus 77, 25&#160;:</title> Panem angelorum manducauit homo; cibaria misit eis in abundantia.</span>
+            <span xml:id="Ps_86_1"><title>Psalmus 86, 1&#160;:</title> Filiis Core. Psalmus cantici. Fundamenta eius in montibus sanctis</span>
+            <span xml:id="Ps_95_13"><title>Psalmus 95, 13&#160;:</title> A facie Domini, quia uenit, quoniam uenit iudicare terram. Iudicabit orbem terrae in aequitate, et populos in ueritate sua.</span>
+            <span xml:id="Ps_97_9"><title>Psalmus 97, 9&#160;:</title> A conspectu Domini&#160;: quoniam uenit iudicare terram. Iudicabit orbem terrarum in iustitia, et populos in aequitate.</span>
+            <span xml:id="Ps_107_3"><title>Psalmus 107, 3&#160;:</title> Exsurge, gloria mea; exsurge, psalterium et cithara; exsurgam diluculo.</span>
+            <span xml:id="Ps_112_1"><title>Psalmus 112, 1&#160;:</title> Alleluia. Laudate, pueri, Dominum; laudate nomen Domini.</span>
+            <span xml:id="Ps_113_8"><title>Psalmus 113, 8&#160;:</title> Qui conuertit petram in stagna aquarum, et rupem in fontes aquarum.</span>
+            <span xml:id="Ps_115_3"><title>Psalmus 115, 3&#160;:</title> Quid retribuam Domino pro omnibus quae retribuit mihi&#160;?</span>
+            <span xml:id="Ps_115_4"><title>Psalmus 115, 4&#160;:</title> Calicem salutaris accipiam, et nomen Domini inuocabo.</span>
+            <span xml:id="Ps_115_6"><title>Psalmus 115, 6&#160;:</title> Pretiosa in conspectu Domini mors sanctorum eius.</span>
+            <span xml:id="Ps_115_8"><title>Psalmus 115, 8&#160;:</title> Tibi sacrificabo hostiam laudis, et nomen Domini inuocabo.</span>
+            <span xml:id="Ps_127_3"><title>Psalmus 127, 3&#160;:</title> Vxor tua sicut uitis abundans in lateribus domus tuae; filii tui sicut nouellae oliuarum in circuitu mensae tuae.</span>
+            <span xml:id="Ps_136_2"><title>Psalmus 136, 2&#160;:</title> In salicibus in medio eius suspendimus organa nostra</span>
+         </div>
+         
+         <div xml:id="Ec">
+            <head>Ecclesiastes</head>
+            <span xml:id="Ec_2_13"><title>Ecclesiastes 2, 13&#160;:</title> Et uidi quod tantum praecederet sapientia stultitiam, quantum differt lux a tenebris.</span>
+            <span xml:id="Ec_3_5"><title>Ecclesiastes 3, 5&#160;:</title> Tempus spargendi lapides, et tempus colligendi, tempus amplexandi, et tempus longe fieri ab amplexibus.</span>
+         </div>
+         
+         <div xml:id="Ct">
+            <head>Canticum canticorum</head>
+            <span xml:id="Ct_1_2"><title>Canticum canticorum 1, 2&#160;:</title> Fragrantia unguentis optimis. Oleum effusum nomen tuum; ideo adolescentulae dilexerunt te.</span>
+            <span xml:id="Ct_2_11"><title>Canticum canticorum 2, 11&#160;:</title> Iam enim hiems transiit; imber abiit, et recessit.</span>
+            <span xml:id="Ct_2_12"><title>Canticum canticorum 2, 12&#160;:</title> Flores apparuerunt in terra nostra; tempus putationis aduenit&#160;: uox turturis audita est in terra nostra</span>
+            <span xml:id="Ct_2_13"><title>Canticum canticorum 2, 13&#160;:</title> Ficus protulit grossos suos; uineae florentes dederunt odorem suum. Surge, amica mea, speciosa mea, et ueni</span>
+            <span xml:id="Ct_2_16"><title>Canticum canticorum 2, 16&#160;:</title> Dilectus meus mihi, et ego illi, qui pascitur inter lilia</span>
+            <span xml:id="Ct_6_2"><title>Canticum canticorum 6, 2&#160;:</title> Ego dilecto meo, et dilectus meus mihi, qui pascitur inter lilia.</span>
+         </div>
+         
+         <div xml:id="Sg">
+            <head>Sapientia</head>
+            <span xml:id="Sg_1_6"><title>Sapientia 1, 6&#160;:</title> Benignus est enim spiritus sapientiae, et non liberabit maledicum a labiis suis&#160;: quoniam renum illius testis est Deus, et cordis illius scrutator est uerus, et linguae eius auditor.</span>
+            <span xml:id="Sg_2_24"><title>Sapientia 2, 24&#160;:</title> Inuidia autem diaboli mors introiuit in orbem terrarum</span>
+            <span xml:id="Sg_10_6"><title>Sapientia 10, 6&#160;:</title> Haec iustum a pereuntibus impiis liberauit fugientem, descendente igne in Pentapolim</span>
+            <span xml:id="Sg_16_20"><title>Sapientia 16, 20&#160;:</title> Pro quibus angelorum esca nutriuisti populum tuum, et paratum panem de caelo praestitisti illis sine labore, omne delectamentum in se habentem, et omnis saporis suauitatem.</span>
+         </div>
+         
+         <div xml:id="Si">
+            <head>Ecclesiasticus / Sirach</head>
+            <span xml:id="Si_11_30"><title>Ecclesiasticus 11, 30&#160;:</title> Ante mortem ne laudes hominem quemquam&#160;: quoniam in filiis suis agnoscitur uir.</span>
+            <span xml:id="Si_21_2"><title>Ecclesiasticus 21, 2&#160;:</title> Quasi a facie colubri fuge peccata&#160;: et si accesseris ad illa, suscipient te.</span>
+            <span xml:id="Si_21_3"><title>Ecclesiasticus 21, 3&#160;:</title> Dentes leonis dentes eius, interficientes animas hominum.</span>
+         </div>
+         
+         <div xml:id="Es">
+            <head>Isaias</head>
+            <span xml:id="Es_6_6"><title>Isaias 6, 6&#160;:</title> Et uolauit ad me unus de seraphim, et in manu eius calculus, quem forcipe tulerat de altari</span>
+            <span xml:id="Es_6_7"><title>Isaias 6, 7&#160;:</title> Et tetigit os meum, et dixit&#160;: Ecce tetigit hoc labia tua, et auferetur iniquitas tua, et peccatum tuum mundabitur.</span>
+            <span xml:id="Es_11_1"><title>Isaias 11, 1&#160;:</title> Et egredietur uirga de radice Iesse, et flos de radice eius ascendet.</span>
+            <span xml:id="Es_35_6"><title>Isaias 35, 6&#160;:</title> Tunc saliet sicut ceruus claudus, et aperta erit lingua mutorum&#160;: quia scissae sunt in deserto aquae, et torrentes in solitudine</span>
+            <span xml:id="Es_35_7"><title>Isaias 35, 7&#160;:</title> Et quae erat arida, erit in stagnum, et sitiens in fontes aquarum. In cubilibus, in quibus prius dracones habitabant, orietur uiror calami et iunci. </span>
+            <span xml:id="Es_49_8"><title>Isaias 49, 8&#160;:</title> Haec dicit Dominus&#160;: In tempore placito exaudiui te, et in die salutis auxiliatus sum tui&#160;: et seruaui te, et dedi te in foedus populi, ut suscitares terram, et possideres haereditates dissipatas</span>
+            <span xml:id="Es_53_4"><title>Isaias 53, 4&#160;:</title> Vere languores nostros ipse tulit, et dolores nostros ipse portauit; et nos putauimus eum quasi leprosum, et percussum a Deo, et humiliatum.</span>
+            <span xml:id="Es_53_5"><title>Isaias 53, 5&#160;:</title> Ipse autem uulneratus est propter iniquitates nostras; attritus est propter scelera nostra&#160;: disciplina pacis nostrae super eum, et liuore eius sanati sumus.</span>
+            <span xml:id="Es_53_6"><title>Isaias 53, 6&#160;:</title> Omnes nos quasi oues errauimus, unusquisque in uiam suam declinauit&#160;: et posuit Dominus in eo iniquitatem omnium nostrum.</span>
+            <span xml:id="Es_53_7"><title>Isaias 53, 7&#160;:</title> Oblatus est quia ipse uoluit, et non aperuit os suum; sicut ouis ad occisionem ducetur, et quasi agnus coram tondente se obmutescet, et non aperiet os suum.</span>
+            <span xml:id="Es_53_8"><title>Isaias 53, 8&#160;:</title> De angustia, et de iudicio sublatus est. Generationem eius quis enarrabit&#160;? quia abscissus est de terra uiuentium&#160;: propter scelus populi mei percussi eum.</span>
+            <span xml:id="Es_53_9"><title>Isaias 53, 9&#160;:</title> Et dabit impios pro sepultura, et diuitem pro morte sua, eo quod iniquitatem non fecerit, neque dolus fuerit in ore eius.</span>
+            <span xml:id="Es_53_10"><title>Isaias 53, 10&#160;:</title> Et Dominus uoluit conterere eum in infirmitate. Si posuerit pro peccato animam suam, uidebit semen longaeuum, et uoluntas Domini in manu eius dirigetur.</span>
+            <span xml:id="Es_61_10"><title>Isaias 61, 10&#160;:</title> Gaudens gaudebo in Domino, et exsultabit anima mea in Deo meo, quia induit me uestimentis salutis, et indumento iustitiae circumdedit me, quasi sponsum decoratum corona, et quasi sponsam ornatam monilibus suis.</span>
+            <span xml:id="Es_66_24"><title>Isaias 66, 24&#160;:</title> Et egredientur, et uidebunt cadauera uirorum qui praeuaricati sunt in me; uermis eorum non morietur, et ignis eorum non extinguetur&#160;: et erunt usque ad satietatem uisionis omni carni.</span>
+         </div>
+         
+         <div xml:id="Jr">
+            <head>Ieremias</head>
+            <span xml:id="Jr_20_14"><title>Ieremias 20, 14&#160;:</title> Maledicta dies in qua natus sum&#160;! dies in qua peperit me mater mea non sit benedicta&#160;!</span>
+            <span xml:id="Jr_23_24"><title>Ieremias 23, 24&#160;:</title> Si occultabitur uir in absconditis, et ego non uidebo eum&#160;? dicit Dominus. Numquid non caelum et terram ego impleo&#160;? dicit Dominus.</span>
+         </div>
+         
+         <div xml:id="Ez">
+            <head>Ezechiel</head>
+            <span xml:id="Ez_11_19"><title>Ezechiel 11, 19&#160;:</title> Et dabo eis cor unum, et spiritum nouum tribuam in uisceribus eorum&#160;: et auferam cor lapideum de carne eorum, et dabo eis cor carneum</span>
+            <span xml:id="Ez_31_4"><title>Ezechiel 31, 4&#160;:</title> Aquae nutrierunt illum; abyssus exaltauit illum&#160;: flumina eius manabant in circuitu radicum eius, et riuos suos emisit ad uniuersa ligna regionis.</span>
+            <span xml:id="Ez_36_26"><title>Ezechiel 36, 26&#160;:</title> Et dabo uobis cor nouum, et spiritum nouum ponam in medio uestri&#160;: et auferam cor lapideum de carne uestra, et dabo uobis cor carneum.</span>
+         </div>
+         
+         <div xml:id="Da">
+            <head>Daniel</head>
+            <span xml:id="Da_3_17"><title>Daniel 3, 17&#160;:</title> Ecce enim Deus noster, quem colimus, potest eripere nos de camino ignis ardentis, et de manibus tuis, o rex, liberare.</span>
+            <span xml:id="Da_3_20"><title>Daniel 3, 20&#160;:</title> Et uiris fortissimis de exercitu suo iussit ut ligatis pedibus Sidrach, Misach, et Abdenago, mitterent eos in fornacem ignis ardentis.</span>
+            <span xml:id="Da_3_21"><title>Daniel 3, 21&#160;:</title> Et confestim uiri illi uincti, cum braccis suis, et tiaris, et calceamentis, et uestibus, missi sunt in medium fornacis ignis ardentis</span>
+            <span xml:id="Da_3_22"><title>Daniel 3, 22&#160;:</title> Nam iussio regis urgebat. Fornax autem succensa erat nimis&#160;: porro uiros illos, qui miserant Sidrach, Misach, et Abdenago, interfecit flamma ignis.</span>
+            <span xml:id="Da_3_23"><title>Daniel 3, 23&#160;:</title> Viri autem hi tres, id est, Sidrach, Misach, et Abdenago, ceciderunt in medio camino ignis ardentis, colligati.</span>
+            <span xml:id="Da_3_24"><title>Daniel 3, 24&#160;:</title> Et ambulabant in medio flammae, laudantes Deum, et benedicentes Domino.</span>
+            <span xml:id="Da_3_25"><title>Daniel 3, 25&#160;:</title> Stans autem Azarias orauit sic, aperiensque os suum in medio ignis, ait</span>
+            <span xml:id="Da_3_26"><title>Daniel 3, 26&#160;:</title> Benedictus es, Domine Deus patrum nostrorum, et laudabile, et gloriosum nomen tuum in saecula</span>
+            <span xml:id="Da_3_50"><title>Daniel 3, 50&#160;:</title> Et fecit medium fornacis quasi uentum roris flantem, et non tetigit eos omnino ignis, neque contristauit, nec quidquam molestiae intulit.</span>
+            <span xml:id="Da_6_23"><title>Daniel 6, 23&#160;:</title> Tunc uehementer rex gauisus est super eo, et Danielem praecepit educi de lacu&#160;: eductusque est Daniel de lacu, et nulla laesio inuenta est in eo, quia credidit Deo suo.</span>
+            <span xml:id="Da_14_32"><title>Daniel 14, 32&#160;:</title> Erat autem Habacuc propheta in Iudaea, et ipse coxerat pulmentum, et intriuerat panes in alueolo&#160;: et ibat in campum ut ferret messoribus.</span>
+            <span xml:id="Da_14_33"><title>Daniel 14, 33&#160;:</title> Dixitque angelus Domini ad Habacuc&#160;: Fer prandium quod habes in Babylonem Danieli, qui est in lacu leonum.</span>
+            <span xml:id="Da_14_34"><title>Daniel 14, 34&#160;:</title> Et dixit Habacuc&#160;: Domine, Babylonem non uidi, et lacum nescio.</span>
+            <span xml:id="Da_14_35"><title>Daniel 14, 35&#160;:</title> Et apprehendit eum angelus Domini in uertice eius, et portauit eum capillo capitis sui, posuitque eum in Babylone supra lacum in impetu spiritus sui.</span>
+            <span xml:id="Da_14_36"><title>Daniel 14, 36&#160;:</title> Et clamauit Habacuc, dicens&#160;: Daniel serue Dei, tolle prandium quod misit tibi Deus.</span>
+            <span xml:id="Da_14_37"><title>Daniel 14, 37&#160;:</title> Et ait Daniel&#160;: Recordatus es mei, Deus, et non dereliquisti diligentes te.</span>
+            <span xml:id="Da_14_38"><title>Daniel 14, 38&#160;:</title> Surgensque Daniel comedit. Porro angelus Domini restituit Habacuc confestim in loco suo.</span>
+            <span xml:id="Da_14_39"><title>Daniel 14, 39&#160;:</title> Venit ergo rex die septimo ut lugeret Danielem&#160;: et uenit ad lacum, et introspexit, et ecce Daniel sedens in medio leonum.</span>
+         </div>
+         
+         <div xml:id="Jon">
+            <head>Ionas</head>
+            <span xml:id="Jon_3_5"><title>Ionas 3, 5&#160;:</title> Et crediderunt uiri Niniuitae in Deum, et praedicauerunt ieiunium, et uestiti sunt saccis, a maiore usque ad minorem.</span>
+            <span xml:id="Jon_3_6"><title>Ionas 3, 6&#160;:</title> Et peruenit uerbum ad regem Niniue&#160;: et surrexit de solio suo, et abiecit uestimentum suum a se, et indutus est sacco, et sedit in cinere.</span>
+            <span xml:id="Jon_3_7"><title>Ionas 3, 7&#160;:</title>  Et clamauit, et dixit in Niniue ex ore regis et principum eius, dicens&#160;: Homines, et iumenta, et boues, et pecora non gustent quidquam&#160;: nec pascantur, et aquam non bibant.</span>
+            <span xml:id="Jon_3_8"><title>Ionas 3, 8&#160;:</title> Et operiantur saccis homines et iumenta, et clament ad Dominum in fortitudine&#160;: et conuertatur uir a uia sua mala, et ab iniquitate quae est in manibus eorum.</span>
+            <span xml:id="Jon_3_9"><title>Ionas 3, 9&#160;:</title> Quis scit si conuertatur et ignoscat Deus, et reuertatur a furore irae suae, et non peribimus&#160;?</span>
+            <span xml:id="Jon_3_10"><title>Ionas 3, 10&#160;:</title> Et uidit Deus opera eorum, quia conuersi sunt de uia sua mala&#160;: et misertus est Deus super malitiam quam locutus fuerat ut faceret eis, et non fecit.</span>
+         </div>
+         
+         <div xml:id="Za">
+            <head>Zacharias</head>
+            <span xml:id="Za_12_10"><title>Zacharias 12, 10&#160;:</title> Et effundam super domum Dauid et super habitatores Ierusalem spiritum gratiae et precum&#160;: et aspicient ad me quem confixerunt, et plangent eum planctu quasi super unigenitum, et dolebunt super eum, ut doleri solet in morte primogeniti.</span>
+         </div>
+         
+         <div xml:id="Mt">
+            <head>Matthaeus</head>
+            <span xml:id="Mt_3_7"><title>Matthaeus 3, 7&#160;:</title> Videns autem multos pharisaeorum, et sadducaeorum, uenientes ad baptismum suum, dixit eis&#160;: Progenies uiperarum, quis demonstrauit uobis fugere a uentura ira&#160;?</span>
+            <span xml:id="Mt_3_10"><title>Matthaeus 3, 10&#160;:</title> Iam enim securis ad radicem arborum posita est. Omnis ergo arbor, quae non facit fructum bonum, excidetur, et in ignem mittetur.</span>
+            <span xml:id="Mt_3_13"><title>Matthaeus 3, 13&#160;:</title> Tunc uenit Iesus a Galilaea in Iordanem ad Ioannem, ut baptizaretur ab eo.</span>
+            <span xml:id="Mt_3_14"><title>Matthaeus 3, 14&#160;:</title> Ioannes autem prohibebat eum, dicens&#160;: Ego a te debeo baptizari, et tu uenis ad me&#160;?</span>
+            <span xml:id="Mt_3_15"><title>Matthaeus 3, 15&#160;:</title> Respondens autem Iesus, dixit ei&#160;: Sine modo&#160;: sic enim decet nos implere omnem iustitiam. Tunc dimisit eum.</span>
+            <span xml:id="Mt_3_16"><title>Matthaeus 3, 16&#160;:</title> Baptizatus autem Iesus, confestim ascendit de aqua, et ecce aperti sunt ei caeli&#160;: et uidit Spiritum Dei descendentem sicut columbam, et uenientem super se.</span>
+            <span xml:id="Mt_3_17"><title>Matthaeus 3, 17&#160;:</title> Et ecce uox de caelis dicens&#160;: Hic est Filius meus dilectus, in quo mihi complacui.</span>
+            <span xml:id="Mt_5_13"><title>Matthaeus 5, 13&#160;:</title> Vos estis sal terrae. Quod si sal euanuerit, in quo salietur&#160;? ad nihilum ualet ultra, nisi ut mittatur foras, et conculcetur ab hominibus.</span>
+            <span xml:id="Mt_5_29"><title>Matthaeus 5, 29&#160;:</title> Quod si oculus tuus dexter scandalizat te, erue eum, et proiice abs te&#160;: expedit enim tibi ut pereat unum membrorum tuorum, quam totum corpus tuum mittatur in gehennam.</span>
+            <span xml:id="Mt_5_30"><title>Matthaeus 5, 30&#160;:</title> Et si dextra manus tua scandalizat te, abscide eam, et proiice abs te&#160;: expedit enim tibi ut pereat unum membrorum tuorum, quam totum corpus tuum eat in gehennam.</span>
+            <span xml:id="Mt_6_12"><title>Matthaeus 6, 12&#160;:</title> Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. </span>
+            <span xml:id="Mt_6_20"><title>Matthaeus 6, 20&#160;:</title> Thesaurizate autem uobis thesauros in caelo, ubi neque aerugo, neque tinea demolitur, et ubi fures non effodiunt, nec furantur.</span>
+            <span xml:id="Mt_7_13"><title>Matthaeus 7, 13&#160;:</title> Intrate per angustam portam&#160;: quia lata porta, et spatiosa uia est, quae ducit ad perditionem, et multi sunt qui intrant per eam.</span>
+            <span xml:id="Mt_7_14"><title>Matthaeus 7, 14&#160;:</title> Quam angusta porta, et arcta uia est, quae ducit ad uitam&#160;: et pauci sunt qui inueniunt eam&#160;!</span>
+            <span xml:id="Mt_7_24"><title>Matthaeus 7, 24&#160;:</title> Omnis ergo qui audit uerba mea haec, et facit ea, assimilabitur uiro sapienti, qui aedificauit domum suam supra petram</span>
+            <span xml:id="Mt_7_25"><title>Matthaeus 7, 25&#160;:</title> Et descendit pluuia, et uenerunt flumina, et flauerunt uenti, et irruerunt in domum illam, et non cecidit&#160;: fundata enim erat super petram.</span>
+            <span xml:id="Mt_9_10"><title>Matthaeus 9, 10&#160;:</title> Et factum est, discumbente eo in domo, ecce multi publicani et peccatores uenientes, discumbebant cum Iesu, et discipulis eius.</span>
+            <span xml:id="Mt_9_11"><title>Matthaeus 9, 11&#160;:</title> Et uidentes pharisaei, dicebant discipulis eius&#160;: Quare cum publicanis et peccatoribus manducat magister uester&#160;?</span>
+            <span xml:id="Mt_9_16"><title>Matthaeus 9, 16&#160;:</title> Nemo autem immittit commissuram panni rudis in uestimentum uetus&#160;: tollit enim plenitudinem eius a uestimento, et peior scissura fit.</span>
+            <span xml:id="Mt_9_17"><title>Matthaeus 9, 17&#160;:</title> Neque mittunt uinum nouum in utres ueteres&#160;: alioquin rumpuntur utres, et uinum effunditur, et utres pereunt. Sed uinum nouum in utres nouos mittunt&#160;: et ambo conseruantur.</span>
+            <span xml:id="Mt_10_28"><title>Matthaeus 10, 28&#160;:</title> Et nolite timere eos qui occidunt corpus, animam autem non possunt occidere&#160;: sed potius timete eum, qui potest et animam et corpus perdere in gehennam.</span>
+            <span xml:id="Mt_11_30"><title>Matthaeus 11, 30&#160;:</title> Iugum enim meum suaue est, et onus meum leue.</span>
+            <span xml:id="Mt_13_3"><title>Matthaeus 13, 3&#160;:</title> Et locutus est eis multa in parabolis, dicens&#160;: Ecce exiit qui seminat, seminare.</span>
+            <span xml:id="Mt_13_4"><title>Matthaeus 13, 4&#160;:</title> Et dum seminat, quaedam ceciderunt secus uiam, et uenerunt uolucres caeli, et comederunt ea.</span>
+            <span xml:id="Mt_13_5"><title>Matthaeus 13, 5&#160;:</title> Alia autem ceciderunt in petrosa, ubi non habebant terram multam&#160;: et continuo exorta sunt, quia non habebant altitudinem terrae</span>
+            <span xml:id="Mt_13_6"><title>Matthaeus 13, 6&#160;:</title> Sole autem orto aestuauerunt; et quia non habebant radicem, aruerunt.</span>
+            <span xml:id="Mt_13_7"><title>Matthaeus 13, 7&#160;:</title> Alia autem ceciderunt in spinas&#160;: et creuerunt spinae, et suffocauerunt ea.</span>
+            <span xml:id="Mt_13_8"><title>Matthaeus 13, 8&#160;:</title> Alia autem ceciderunt in terram bonam&#160;: et dabant fructum, aliud centesimum, aliud sexagesimum, aliud trigesimum.</span>
+            <span xml:id="Mt_13_9"><title>Matthaeus 13, 9&#160;:</title> Qui habet aures audiendi, audiat.</span>
+            <span xml:id="Mt_13_24"><title>Matthaeus 13, 24&#160;:</title> Aliam parabolam proposuit illis, dicens&#160;: Simile factum est regnum caelorum homini, qui seminauit bonum semen in agro suo</span>
+            <span xml:id="Mt_13_25"><title>Matthaeus 13, 25&#160;:</title> Cum autem dormirent homines, uenit inimicus eius, et superseminauit zizania in medio tritici, et abiit.</span>
+            <span xml:id="Mt_13_26"><title>Matthaeus 13, 26&#160;:</title> Cum autem creuisset herba, et fructum fecisset, tunc apparuerunt et zizania.</span>
+            <span xml:id="Mt_13_27"><title>Matthaeus 13, 27&#160;:</title> Accedentes autem serui patrisfamilias, dixerunt ei&#160;: Domine, nonne bonum semen seminasti in agro tuo&#160;? unde ergo habet zizania&#160;?</span>
+            <span xml:id="Mt_13_28"><title>Matthaeus 13, 28&#160;:</title> Et ait illis&#160;: Inimicus homo hoc fecit. Serui autem dixerunt ei&#160;: Vis, imus, et colligimus ea&#160;?</span>
+            <span xml:id="Mt_13_29"><title>Matthaeus 13, 29&#160;:</title> Et ait&#160;: Non&#160;: ne forte colligentes zizania, eradicetis simul cum eis et triticum.</span>
+            <span xml:id="Mt_13_30"><title>Matthaeus 13, 30&#160;:</title> Sinite utraque crescere usque ad messem, et in tempore messis dicam messoribus&#160;: Colligite primum zizania, et alligate ea in fasciculos ad comburendum&#160;: triticum autem congregate in horreum meum.</span>
+            <span xml:id="Mt_14_29"><title>Matthaeus 14, 29&#160;:</title> At ipse ait&#160;: Veni. Et descendens Petrus de nauicula, ambulabat super aquam ut ueniret ad Iesum.</span>
+            <span xml:id="Mt_14_36"><title>Matthaeus 14, 36&#160;:</title> Et rogabant eum ut uel fimbriam uestimenti eius tangerent. Et quicumque tetigerunt, salui facti sunt.</span>
+            <span xml:id="Mt_15_13"><title>Matthaeus 15, 13&#160;:</title> At ille respondens ait&#160;: Omnis plantatio, quam non plantauit Pater meus caelestis, eradicabitur.</span>
+            <span xml:id="Mt_15_27"><title>Matthaeus 15, 27&#160;:</title> At illa dixit&#160;: Etiam Domine&#160;: nam et catelli edunt de micis quae cadunt de mensa dominorum suorum.</span>   
+            <span xml:id="Mt_15_28"><title>Matthaeus 15, 28&#160;:</title> Tunc respondens Iesus, ait illi&#160;: O mulier, magna est fides tua&#160;: fiat tibi sicut uis. Et sanata est filia eius ex illa hora.</span>
+            <span xml:id="Mt_21_16"><title>Matthaeus 21, 16&#160;:</title> Et dixerunt ei&#160;: Audis quid isti dicunt&#160;? Iesus autem dixit eis&#160;: Vtique. Numquam legistis&#160;: Quia ex ore infantium et lactentium perfecisti laudem&#160;?</span>
+            <span xml:id="Mt_23_37"><title>Matthaeus 23, 37&#160;:</title> Ierusalem, Ierusalem, quae occidis prophetas, et lapidas eos, qui ad te missi sunt, quoties uolui congregare filios tuos, quemadmodum gallina congregat pullos suos sub alas, et noluisti&#160;?</span>
+            <span xml:id="Mt_24_48"><title>Matthaeus 24, 48&#160;:</title> Si autem dixerit malus seruus ille in corde suo&#160;: Moram fecit dominus meus uenire</span>
+            <span xml:id="Mt_25_1"><title>Matthaeus 25, 1&#160;:</title> Tunc simile erit regnum caelorum decem uirginibus&#160;: quae accipientes lampades suas exierunt obuiam sponso et sponsae.</span>
+            <span xml:id="Mt_25_2"><title>Matthaeus 25, 2&#160;:</title> Quinque autem ex eis erant fatuae, et quinque prudentes</span>
+            <span xml:id="Mt_25_3"><title>Matthaeus 25, 3&#160;:</title> Sed quinque fatuae, acceptis lampadibus, non sumpserunt oleum secum</span>
+            <span xml:id="Mt_25_4"><title>Matthaeus 25, 4&#160;:</title> Prudentes uero acceperunt oleum in uasis suis cum lampadibus.</span>
+            <span xml:id="Mt_25_5"><title>Matthaeus 25, 5&#160;:</title> Moram autem faciente sponso, dormitauerunt omnes et dormierunt.</span>
+            <span xml:id="Mt_25_6"><title>Matthaeus 25, 6&#160;:</title> Media autem nocte clamor factus est&#160;: Ecce sponsus uenit, exite obuiam ei.</span>
+            <span xml:id="Mt_25_7"><title>Matthaeus 25, 7&#160;:</title> Tunc surrexerunt omnes uirgines illae, et ornauerunt lampades suas.</span>
+            <span xml:id="Mt_25_8"><title>Matthaeus 25, 8&#160;:</title> Fatuae autem sapientibus dixerunt&#160;: Date nobis de oleo uestro, quia lampades nostrae extinguuntur.</span>
+            <span xml:id="Mt_25_9"><title>Matthaeus 25, 9&#160;:</title> Responderunt prudentes, dicentes&#160;: Ne forte non sufficiat nobis, et uobis, ite potius ad uendentes, et emite uobis.</span>
+            <span xml:id="Mt_25_10"><title>Matthaeus 25, 10&#160;:</title> Dum autem irent emere, uenit sponsus&#160;: et quae paratae erant, intrauerunt cum eo ad nuptias, et clausa est ianua.</span>
+            <span xml:id="Mt_25_11"><title>Matthaeus 25, 11&#160;:</title> Nouissime uero ueniunt et reliquae uirgines, dicentes&#160;: Domine, domine, aperi nobis.</span>
+            <span xml:id="Mt_25_12"><title>Matthaeus 25, 12&#160;:</title> At ille respondens, ait&#160;: Amen dico uobis, nescio uos.</span>
+            <span xml:id="Mt_25_13"><title>Matthaeus 25, 13&#160;:</title> Vigilate itaque, quia nescitis diem, neque horam.</span>
+            <span xml:id="Mt_25_14"><title>Matthaeus 25, 14&#160;:</title> Sicut enim homo peregre proficiscens, vocauit seruos suos, et tradidit illis bona sua.</span>
+            <span xml:id="Mt_25_15"><title>Matthaeus 25, 15&#160;:</title> Et uni dedit quinque talenta, alii autem duo, alii uero unum, unicuique secundum propriam uirtutem&#160;: et profectus est statim.</span>
+            <span xml:id="Mt_25_16"><title>Matthaeus 25, 16&#160;:</title> Abiit autem qui quinque talenta acceperat, et operatus est in eis, et lucratus est alia quinque.</span>
+            <span xml:id="Mt_25_17"><title>Matthaeus 25, 17&#160;:</title> Similiter et qui duo acceperat, lucratus est alia duo.</span>
+            <span xml:id="Mt_25_18"><title>Matthaeus 25, 18&#160;:</title> Qui autem unum acceperat, abiens fodit in terram, et abscondit pecuniam domini sui.</span>
+            <span xml:id="Mt_25_19"><title>Matthaeus 25, 19&#160;:</title> Post multum uero temporis uenit dominus seruorum illorum, et posuit rationem cum eis.</span>
+            <span xml:id="Mt_25_20"><title>Matthaeus 25, 20&#160;:</title> Et accedens qui quinque talenta acceperat, obtulit alia quinque talenta, dicens&#160;: Domine, quinque talenta tradidisti mihi, ecce alia quinque superlucratus sum.</span>
+            <span xml:id="Mt_25_21"><title>Matthaeus 25, 21&#160;:</title> Ait illi dominus eius&#160;: Euge serue bone, et fidelis&#160;: quia super pauca fuisti fidelis, super multa te constituam; intra in gaudium domini tui.</span>
+            <span xml:id="Mt_25_22"><title>Matthaeus 25, 22&#160;:</title> Accessit autem et qui duo talenta acceperat, et ait&#160;: Domine, duo talenta tradidisti mihi, ecce alia duo lucratus sum.</span>
+            <span xml:id="Mt_25_23"><title>Matthaeus 25, 23&#160;:</title> Ait illi dominus eius&#160;: Euge serue bone, et fidelis&#160;: quia super pauca fuisti fidelis, super multa te constituam; intra in gaudium domini tui.</span>
+            <span xml:id="Mt_25_24"><title>Matthaeus 25, 24&#160;:</title> Accedens autem et qui unum talentum acceperat, ait&#160;: Domine, scio quia homo durus es; metis ubi non seminasti, et congregas ubi non sparsisti</span>
+            <span xml:id="Mt_25_25"><title>Matthaeus 25, 25&#160;:</title> Et timens abii, et abscondi talentum tuum in terra&#160;: ecce habes quod tuum est.</span>
+            <span xml:id="Mt_25_26"><title>Matthaeus 25, 26&#160;:</title> Respondens autem dominus eius, dixit ei&#160;: Serue male, et piger, sciebas quia meto ubi non semino, et congrego ubi non sparsi</span>
+            <span xml:id="Mt_25_27"><title>Matthaeus 25, 27&#160;:</title> Oportuit ergo te committere pecuniam meam numulariis, et ueniens ego recepissem utique quod meum est cum usura.</span>
+            <span xml:id="Mt_25_28"><title>Matthaeus 25, 28&#160;:</title> Tollite itaque ab eo talentum, et date ei qui habet decem talenta</span>
+            <span xml:id="Mt_25_29"><title>Matthaeus 25, 29&#160;:</title> Omni enim habenti dabitur, et abundabit&#160;: ei autem qui non habet, et quod uidetur habere, auferetur ab eo.</span>
+            <span xml:id="Mt_25_30"><title>Matthaeus 25, 30&#160;:</title> Et inutilem seruum eiicite in tenebras exteriores&#160;: illic erit fletus, et stridor dentium.</span>
+            <span xml:id="Mt_25_32"><title>Matthaeus 25, 32&#160;:</title> Et congregabuntur ante eum omnes gentes, et separabit eos ab inuicem, sicut pastor segregat oues ab haedis</span>
+            <span xml:id="Mt_25_33"><title>Matthaeus 25, 33&#160;:</title> Et statuet oues quidem a dextris suis, haedos autem a sinistris.</span>
+         </div>
+         
+         <div xml:id="Mc">
+            <head>Marcus</head>
+            <span xml:id="Mc_2_21"><title>Marcus 2, 21&#160;:</title> Nemo assumentum panni rudis assuit uestimento ueteri&#160;: alioquin aufert supplementum nouum a ueteri, et maior scissura fit.</span>
+            <span xml:id="Mc_2_22"><title>Marcus 2, 22&#160;:</title> Et nemo mittit uinum nouum in utres ueteres&#160;: alioquin dirumpet uinum utres, et uinum effundetur, et utres peribunt&#160;: sed uinum nouum in utres nouos mitti debet.</span>
+            <span xml:id="Mc_4_3"><title>Marcus 4, 3&#160;:</title> Audite&#160;: ecce exiit seminans ad seminandum.</span>
+            <span xml:id="Mc_4_4"><title>Marcus 4, 4&#160;:</title> Et dum seminat, aliud cecidit circa uiam, et uenerunt uolucres caeli, et comederunt illud.</span>
+            <span xml:id="Mc_4_5"><title>Marcus 4, 5&#160;:</title> Aliud uero cecidit super petrosa, ubi non habuit terram multam&#160;: et statim exortum est, quoniam non habebat altitudinem terrae</span>
+            <span xml:id="Mc_4_6"><title>Marcus 4, 6&#160;:</title> Et quando exortus est sol, exaestuauit&#160;: et eo quod non habebat radicem, exaruit.</span>
+            <span xml:id="Mc_4_7"><title>Marcus 4, 7&#160;:</title> Et aliud cecidit in spinas&#160;: et ascenderunt spinae, et suffocauerunt illud, et fructum non dedit.</span>
+            <span xml:id="Mc_4_8"><title>Marcus 4, 8&#160;:</title> Et aliud cecidit in terram bonam&#160;: et dabat fructum ascendentem et crescentem, et afferebat unum triginta, unum sexaginta, et unum centum.</span>
+            <span xml:id="Mc_4_9"><title>Marcus 4, 9&#160;:</title> Et dicebat&#160;: Qui habet aures audiendi, audiat.</span>
+            <span xml:id="Mc_9_47"><title>Marcus 9, 47&#160;:</title> Vbi uermis eorum non moritur, et ignis non extinguitur.</span>
+            <span xml:id="Mc_12_41"><title>Marcus 12, 41&#160;:</title> Et sedens Iesus contra gazophylacium, aspiciebat quomodo turba iactaret aes in gazophylacium, et multi diuites iactabant multa.</span>
+            <span xml:id="Mc_12_42"><title>Marcus 12, 42&#160;:</title> Cum uenisset autem uidua una pauper, misit duo minuta, quod est quadrans</span>
+            <span xml:id="Mc_12_43"><title>Marcus 12, 43&#160;:</title> Et conuocans discipulos suos, ait illis&#160;: Amen dico uobis, quoniam uidua haec pauper plus omnibus misit, qui miserunt in gazophylacium.</span>
+            <span xml:id="Mc_12_44"><title>Marcus 12, 44&#160;:</title> Omnes enim ex eo, quod abundabat illis, miserunt&#160;: haec uero de penuria sua omnia quae habuit misit totum uictum suum.</span>
+            <span xml:id="Mc_13_33"><title>Marcus 13, 33&#160;:</title> Videte, uigilate, et orate&#160;: nescitis enim quando tempus sit.</span>
+         </div>
+         
+         <div xml:id="Lc">
+            <head>Lucas</head>
+            <span xml:id="Lc_1_35"><title>Lucas 1, 35&#160;:</title> Et respondens angelus dixit ei&#160;: Spiritus Sanctus superueniet in te, et uirtus Altissimi obumbrabit tibi. Ideoque et quod nascetur ex te sanctum, uocabitur Filius Dei.</span>
+            <span xml:id="Lc_1_52"><title>Lucas 1, 52&#160;:</title> Deposuit potentes de sede, et exaltauit humiles.</span>
+            <span xml:id="Lc_3_11"><title>Lucas 3, 11&#160;:</title> Respondens autem dicebat illis&#160;: Qui habet duas tunicas, det non habenti&#160;: et qui habet escas, similiter faciat.</span>
+            <span xml:id="Lc_5_36"><title>Lucas 5, 36&#160;:</title> Dicebat autem et similitudinem ad illos&#160;: Quia nemo commissuram a nouo uestimento immittit in uestimentum uetus&#160;: alioquin et nouum rumpit, et ueteri non conuenit commissura a nouo.</span>
+            <span xml:id="Lc_5_37"><title>Lucas 5, 37&#160;:</title> Et nemo mittit uinum nouum in utres ueteres&#160;: alioquin rumpet uinum nouum utres, et ipsum effundetur, et utres peribunt</span>
+            <span xml:id="Lc_5_38"><title>Lucas 5, 38&#160;:</title> Sed uinum nouum in utres nouos mittendum est, et utraque conseruantur.</span>
+            <span xml:id="Lc_5_39"><title>Lucas 5, 39&#160;:</title> Et nemo bibens uetus, statim uult nouum&#160;: dicit enim&#160;: Vetus melius est.</span>
+            <span xml:id="Lc_6_48"><title>Lucas 6, 48&#160;:</title> Similis est homini aedificanti domum, qui fodit in altum, et posuit fundamentum super petram&#160;: inundatione autem facta, illisum est flumen domui illi, et non potuit eam mouere&#160;: fundata enim erat super petram.</span>
+            <span xml:id="Lc_6_49"><title>Lucas 6, 49&#160;:</title> Qui autem audit, et non facit, similis est homini aedificanti domum suam super terram sine fundamento&#160;: in quam illisus est fluuius, et continuo cecidit&#160;: et facta est ruina domus illius magna.</span>
+            <span xml:id="Lc_8_5"><title>Lucas 8, 5&#160;:</title> Exiit qui seminat, seminare semen suum. Et dum seminat, aliud cecidit secus uiam, et conculcatum est, et uolucres caeli comederunt illud.</span>
+            <span xml:id="Lc_8_6"><title>Lucas 8, 6&#160;:</title> Et aliud cecidit supra petram&#160;: et natum aruit, quia non habebat humorem.</span>
+            <span xml:id="Lc_8_7"><title>Lucas 8, 7&#160;:</title> Et aliud cecidit inter spinas, et simul exortae spinae suffocauerunt illud. </span>
+            <span xml:id="Lc_8_8"><title>Lucas 8, 8&#160;:</title> Et aliud cecidit in terram bonam&#160;: et ortum fecit fructum centuplum. Haec dicens clamabat&#160;: Qui habet aures audiendi, audiat.</span>
+            <span xml:id="Lc_9_23"><title>Lucas 9, 23&#160;:</title> Dicebat autem ad omnes&#160;: Si quis uult post me uenire, abneget semetipsum, et tollat crucem suam quotidie, et sequatur me.</span>
+            <span xml:id="Lc_10_20"><title>Lucas 10, 20&#160;:</title> Verumtamen in hoc nolite gaudere quia spiritus uobis subiiciuntur&#160;: gaudete autem, quod nomina uestra scripta sunt in caelis.</span>
+            <span xml:id="Lc_13_24"><title>Lucas 13, 24&#160;:</title> Contendite intrare per angustam portam&#160;: quia multi, dico uobis, quaerent intrare, et non poterunt.</span>
+            <span xml:id="Lc_16_16"><title>Lucas 16, 16&#160;:</title> Lex et prophetae usque ad Ioannem&#160;: ex eo regnum Dei euangelizatur, et omnis in illud uim facit.</span>
+            <span xml:id="Lc_16_24"><title>Lucas 16, 24&#160;:</title> Et ipse clamans dixit&#160;: Pater Abraham, miserere mei, et mitte Lazarum ut intingat extremum digiti sui in aquam, ut refrigeret linguam meam, quia crucior in hac flamma.</span>
+            <span xml:id="Lc_19_46"><title>Lucas 19, 46&#160;:</title> Dicens illis&#160;: Scriptum est&#160;: Quia domus mea domus orationis est&#160;: uos autem fecistis illam speluncam latronum.</span>
+            <span xml:id="Lc_21_1"><title>Lucas 21, 1&#160;:</title> Respiciens autem, uidit eos qui mittebant munera sua in gazophylacium, diuites.</span>
+            <span xml:id="Lc_21_2"><title>Lucas 21, 2&#160;:</title> Vidit autem et quamdam uiduam pauperculam mittentem aera minuta duo.</span>
+            <span xml:id="Lc_21_3"><title>Lucas 21, 3&#160;:</title> Et dixit&#160;: Vere dico uobis, quia uidua haec pauper plus quam omnes misit.</span>
+            <span xml:id="Lc_21_4"><title>Lucas 21, 4&#160;:</title> Nam omnes hi ex abundanti sibi miserunt in munera Dei&#160;: haec autem ex eo quod deest illi, omnem uictum suum quem habuit, misit.</span>
+            <span xml:id="Lc_14_28"><title>Lucas 14, 28&#160;:</title> Quis enim ex uobis uolens turrim aedificare, non prius sedens computat sumptus, qui necessarii sunt, si habeat ad perficiendum</span>
+            <span xml:id="Lc_14_29"><title>Lucas 14, 29&#160;:</title> Ne, posteaquam posuerit fundamentum, et non potuerit perficere, omnes qui uident, incipiant illudere ei</span>
+            <span xml:id="Lc_14_30"><title>Lucas 14, 30&#160;:</title> Dicentes&#160;: Quia hic homo coepit aedificare, et non potuit consummare&#160;?</span>
+         </div>
+         
+         <div xml:id="Jn">
+            <head>Iohannes</head>
+            <span xml:id="Jn_1_3"><title>Iohannes 1, 3&#160;:</title> Omnia per ipsum facta sunt&#160;: et sine ipso factum est nihil, quod factum est.</span>
+            <span xml:id="Jn_1_17"><title>Iohannes 1, 17&#160;:</title> Quia lex per Moysen data est, gratia et ueritas per Iesum Christum facta est.</span>
+            <span xml:id="Jn_3_3"><title>Iohannes 3, 3&#160;:</title> Respondit Iesus, et dixit ei&#160;: Amen, amen dico tibi, nisi quis renatus fuerit denuo, non potest uidere regnum Dei.</span>
+            <span xml:id="Jn_3_4"><title>Iohannes 3, 4&#160;:</title> Dicit ad eum Nicodemus&#160;: Quomodo potest homo nasci, cum sit senex&#160;? numquid potest in uentrem matris suae iterato introire et renasci&#160;?</span>
+            <span xml:id="Jn_3_5"><title>Iohannes 3, 5&#160;:</title> Respondit Iesus&#160;: Amen, amen dico tibi, nisi quis renatus fuerit ex aqua, et Spiritu Sancto, non potest introire in regnum Dei.</span>
+            <span xml:id="Jn_3_6"><title>Iohannes 3, 6&#160;:</title> Quod natum est ex carne, caro est&#160;: et quod natum est ex spiritu, spiritus est.</span>
+            <span xml:id="Jn_3_7"><title>Iohannes 3, 7&#160;:</title> Non mireris quia dixi tibi&#160;: oportet uos nasci denuo.</span>
+            <span xml:id="Jn_4_13"><title>Iohannes 4, 13&#160;:</title> Respondit Iesus, et dixit ei&#160;: Omnis qui bibit ex aqua hac, sitiet iterum; qui autem biberit ex aqua quam ego dabo ei, non sitiet in aeternum</span>
+            <span xml:id="Jn_4_14"><title>Iohannes 4, 14&#160;:</title> Sed aqua quam ego dabo ei, fiet in eo fons aquae salientis in uitam aeternam.</span>
+            <span xml:id="Jn_5_2"><title>Iohannes 5, 2&#160;:</title> Est autem Ierosolymis probatica piscina, quae cognominatur hebraice Bethsaida, quinque porticus habens.</span>
+            <span xml:id="Jn_5_3"><title>Iohannes 5, 3&#160;:</title> In his iacebat multitudo magna languentium, caecorum, claudorum, aridorum, exspectantium aquae motum.</span>
+            <span xml:id="Jn_5_4"><title>Iohannes 5, 4&#160;:</title> Angelus autem Domini descendebat secundum tempus in piscinam, et mouebatur aqua. Et qui prior descendisset in piscinam post motionem aquae, sanus fiebat a quacumque detinebatur infirmitate.</span>
+            <span xml:id="Jn_5_5"><title>Iohannes 5, 5&#160;:</title> Erat autem quidam homo ibi triginta et octo annos habens in infirmitate sua.</span>
+            <span xml:id="Jn_5_6"><title>Iohannes 5, 6&#160;:</title> Hunc autem cum uidisset Iesus iacentem, et cognouisset quia iam multum tempus haberet, dicit ei&#160;: Vis sanus fieri&#160;?</span>
+            <span xml:id="Jn_5_7"><title>Iohannes 5, 7&#160;:</title> Respondit ei languidus&#160;: Domine, hominem non habeo, ut, cum turbata fuerit aqua, mittat me in piscinam&#160;: dum uenio enim ego, alius ante me descendit.</span>
+            <span xml:id="Jn_5_8"><title>Iohannes 5, 8&#160;:</title> Dicit ei Iesus&#160;: Surge, tolle grabatum tuum et ambula.</span>
+            <span xml:id="Jn_7_37"><title>Iohannes 7, 37&#160;:</title> In nouissimo autem die magno festiuitatis stabat Iesus, et clamabat dicens&#160;: Si quis sitit, ueniat ad me et bibat.</span>
+            <span xml:id="Jn_7_38"><title>Iohannes 7, 38&#160;:</title> Qui credit in me, sicut dicit Scriptura, flumina de uentre eius fluent aquae uiuae.</span>
+            <span xml:id="Jn_9_1"><title>Iohannes 9, 1&#160;:</title> Et praeteriens Iesus uidit hominem caecum a natiuitate</span>
+            <span xml:id="Jn_9_2"><title>Iohannes 9, 2&#160;:</title> Et interrogauerunt eum discipuli eius&#160;: Rabbi, quis peccauit, hic, aut parentes eius, ut caecus nasceretur&#160;?</span>
+            <span xml:id="Jn_9_3"><title>Iohannes 9, 3&#160;:</title> Respondit Iesus&#160;: Neque hic peccauit, neque parentes eius&#160;: sed ut manifestentur opera Dei in illo.</span>
+            <span xml:id="Jn_9_4"><title>Iohannes 9, 4&#160;:</title> Me oportet operari opera eius qui misit me, donec dies est&#160;: uenit nox, quando nemo potest operari</span>
+            <span xml:id="Jn_9_5"><title>Iohannes 9, 5&#160;:</title> Quamdiu sum in mundo, lux sum mundi.</span>
+            <span xml:id="Jn_9_6"><title>Iohannes 9, 6&#160;:</title> Haec cum dixisset, exspuit in terram, et fecit lutum ex sputo, et liniuit lutum super oculos eius</span>
+            <span xml:id="Jn_9_7"><title>Iohannes 9, 7&#160;:</title> Et dixit ei&#160;: Vade, laua in natatoria Siloe (quod interpretatur Missus). Abiit ergo, et lauit, et uenit uidens.</span>
+            <span xml:id="Jn_10_11"><title>Iohannes 10, 11&#160;:</title> Ego sum pastor bonus. Bonus pastor animam suam dat pro ouibus suis.</span>
+            <span xml:id="Jn_10_14"><title>Iohannes 10, 14&#160;:</title> Ego sum pastor bonus&#160;: et cognosco meas, et cognoscunt me meae.</span>
+            <span xml:id="Jn_10_15"><title>Iohannes 10, 15&#160;:</title> Sicut nouit me Pater, et ego agnosco Patrem&#160;: et animam meam pono pro ouibus meis.</span>
+            <span xml:id="Jn_10_16"><title>Iohannes 10, 16&#160;:</title> Et alias oues habeo, quae non sunt ex hoc ouili&#160;: et illas oportet me adducere, et uocem meam audient, et fiet unum ouile et unus pastor.</span>
+            <span xml:id="Jn_13_23"><title>Iohannes 13, 23&#160;:</title> Erat ergo recumbens unus ex discipulis eius in sinu Iesu, quem diligebat Iesus.</span>
+            <span xml:id="Jn_13_25"><title>Iohannes 13, 25&#160;:</title> Itaque cum recubuisset ille supra pectus Iesu, dicit ei&#160;: Domine, quis est&#160;?</span>
+            <span xml:id="Jn_19_37"><title>Iohannes 19, 37&#160;:</title> Et iterum alia Scriptura dicit&#160;: Videbunt in quem transfixerunt.</span>
+            <span xml:id="Jn_20_24"><title>Iohannes 20, 24&#160;:</title> Thomas autem unus ex duodecim, qui dicitur Didymus, non erat cum eis quando uenit Iesus.</span>
+            <span xml:id="Jn_20_25"><title>Iohannes 20, 25&#160;:</title> Dixerunt ergo ei alii discipuli&#160;: Vidimus Dominum. Ille autem dixit eis&#160;: Nisi uidero in manibus eius fixuram clauorum, et mittam digitum meum in locum clauorum, et mittam manum meam in latus eius, non credam.</span>
+            <span xml:id="Jn_20_26"><title>Iohannes 20, 26&#160;:</title> Et post dies octo, iterum erant discipuli eius intus, et Thomas cum eis. Venit Iesus ianuis clausis, et stetit in medio, et dixit&#160;: Pax uobis.</span>
+            <span xml:id="Jn_20_27"><title>Iohannes 20, 27&#160;:</title> Deinde dicit Thomae&#160;: Infer digitum tuum huc, et uide manus meas, et affer manum tuam, et mitte in latus meum&#160;: et noli esse incredulus, sed fidelis.</span>
+            <span xml:id="Jn_20_28"><title>Iohannes 20, 28&#160;:</title> Respondit Thomas, et dixit ei&#160;: Dominus meus et Deus meus.</span>
+            <span xml:id="Jn_20_29"><title>Iohannes 20, 29&#160;:</title> Dixit ei Iesus&#160;: Quia uidisti me, Thoma, credidisti&#160;: beati qui non uiderunt, et crediderunt.</span>
+            <span xml:id="Jn_21_17"><title>Iohannes 21, 17&#160;:</title> Dicit ei tertio&#160;: Simon Ioannis, amas me&#160;? Contristatus est Petrus, quia dixit ei tertio&#160;: Amas me&#160;? et dixit ei&#160;: Domine, tu omnia nosti, tu scis quia amo te. Dixit ei&#160;: Pasce oues meas.</span>
+            <span xml:id="Jn_21_25"><title>Iohannes 21, 25&#160;:</title> Sunt autem et alia multa quae fecit Iesus&#160;: quae si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.</span>
+         </div>
+         
+         <div xml:id="Ac">
+            <head>Actus Apostolorum</head>
+            <span xml:id="Ac_1_9"><title>Actus Apostolorum 1, 9&#160;:</title> Et cum haec dixisset, uidentibus illis, eleuatus est&#160;: et nubes suscepit eum ab oculis eorum.</span>
+            <span xml:id="Ac_1_10"><title>Actus Apostolorum 1, 10&#160;:</title> Cumque intuerentur in caelum euntem illum, ecce duo uiri astiterunt iuxta illos in uestibus albis</span>
+            <span xml:id="Ac_1_11"><title>Actus Apostolorum 1, 11&#160;:</title> Qui et dixerunt&#160;: Viri Galilaei, quid statis aspicientes in caelum&#160;? Hic Iesus, qui assumptus est a uobis in caelum, sic ueniet quemadmodum uidistis eum euntem in caelum.</span>
+            <span xml:id="Ac_2_1"><title>Actus Apostolorum 2, 1&#160;:</title> Et cum complerentur dies Pentecostes, erant omnes pariter in eodem loco</span>
+            <span xml:id="Ac_2_2"><title>Actus Apostolorum 2, 2&#160;:</title> Et factus est repente de caelo sonus, tamquam aduenientis spiritus uehementis, et repleuit totam domum ubi erant sedentes.</span>
+            <span xml:id="Ac_2_3"><title>Actus Apostolorum 2, 3&#160;:</title> Et apparuerunt illis dispertitae linguae tamquam ignis, seditque supra singulos eorum</span>
+            <span xml:id="Ac_2_4"><title>Actus Apostolorum 2, 4&#160;:</title> Et repleti sunt omnes Spiritu Sancto, et coeperunt loqui uariis linguis, prout Spiritus Sanctus dabat eloqui illis.</span>
+            <span xml:id="Ac_2_5"><title>Actus Apostolorum 2, 5&#160;:</title> Erant autem in Ierusalem habitantes Iudaei, uiri religiosi ex omni natione quae sub caelo est.</span>
+            <span xml:id="Ac_2_6"><title>Actus Apostolorum 2, 6&#160;:</title> Facta autem hac uoce, conuenit multitudo, et mente confusa est, quoniam audiebat unusquisque lingua sua illos loquentes.</span>
+            <span xml:id="Ac_2_7"><title>Actus Apostolorum 2, 7&#160;:</title> Stupebant autem omnes, et mirabantur, dicentes&#160;: Nonne ecce omnes isti qui loquuntur, Galilaei sunt&#160;?</span>
+            <span xml:id="Ac_2_8"><title>Actus Apostolorum 2, 8&#160;:</title> Et quomodo nos audiuimus unusquisque linguam nostram in qua nati sumus&#160;?</span>
+            <span xml:id="Ac_2_9"><title>Actus Apostolorum 2, 9&#160;:</title> Parthi, et Medi, et AElamitae, et qui habitant Mespotamiam, Iudaeam, et Cappadociam, Pontum, et Asiam</span>
+            <span xml:id="Ac_2_10"><title>Actus Apostolorum 2, 10&#160;:</title> Phrygiam, et Pamphyliam, AEgyptum, et partes Libyae quae est circa Cyrenen&#160;: et aduenae Romani</span>
+            <span xml:id="Ac_2_11"><title>Actus Apostolorum 2, 11&#160;:</title> Iudaei quoque, et Proselyti, Cretes, et Arabes&#160;: audiuimus eos loquentes nostris linguis magnalia Dei.</span>
+            <span xml:id="Ac_2_12"><title>Actus Apostolorum 2, 12&#160;:</title> Stupebant autem omnes, et mirabantur ad inuicem, dicentes&#160;: Quidnam uult hoc esse&#160;?</span>
+            <span xml:id="Ac_2_13"><title>Actus Apostolorum 2, 13&#160;:</title> Alii autem irridentes dicebant&#160;: Quia musto pleni sunt isti.</span>
+            <span xml:id="Ac_3_1"><title>Actus Apostolorum 3, 1&#160;:</title> Petrus autem et Ioannes ascendebant in templum ad horam orationis nonam.</span>
+            <span xml:id="Ac_3_2"><title>Actus Apostolorum 3, 2&#160;:</title> Et quidam uir, qui erat claudus ex utero matris suae, baiulabatur&#160;: quem ponebant quotidie ad portam templi, quae dicitur Speciosa, ut peteret eleemosynam ab introeuntibus in templum.</span>
+            <span xml:id="Ac_3_3"><title>Actus Apostolorum 3, 3&#160;:</title> Is cum uidisset Petrum et Ioannem incipientes introire in templum, rogabat ut eleemosynam acciperet.</span>
+            <span xml:id="Ac_3_4"><title>Actus Apostolorum 3, 4&#160;:</title> Intuens autem in eum Petrus cum Ioanne, dixit&#160;: Respice in nos.</span>
+            <span xml:id="Ac_3_5"><title>Actus Apostolorum 3, 5&#160;:</title> At ille intendebat in eos, sperans se aliquid accepturum ab eis.</span>
+            <span xml:id="Ac_3_6"><title>Actus Apostolorum 3, 6&#160;:</title> Petrus autem dixit&#160;: Argentum et aurum non est mihi&#160;: quod autem habeo, hoc tibi do&#160;: in nomine Iesu Christi Nazareni surge, et ambula.</span>
+            <span xml:id="Ac_3_7"><title>Actus Apostolorum 3, 7&#160;:</title> Et apprehensa manu eius dextera, alleuauit eum, et protinus consolidatae sunt bases eius et plantae.</span>
+            <span xml:id="Ac_3_8"><title>Actus Apostolorum 3, 8&#160;:</title> Et exiliens stetit, et ambulabat&#160;: et intrauit cum illis in templum ambulans, et exiliens, et laudans Deum.</span>
+            <span xml:id="Ac_3_9"><title>Actus Apostolorum 3, 9&#160;:</title> Et uidit omnis populus eum ambulantem et laudantem Deum.</span>
+            <span xml:id="Ac_3_10"><title>Actus Apostolorum 3, 10&#160;:</title> Cognoscebant autem illum, quod ipse erat qui ad eleemosynam sedebat ad Speciosam portam templi&#160;: et impleti sunt stupore et extasi in eo quod contigerat illi.</span>
+            <span xml:id="Ac_3_11"><title>Actus Apostolorum 3, 11&#160;:</title> Cum teneret autem Petrum et Ioannem, cucurrit omnis populus ad eos ad porticum quae appellatur Salomonis, stupentes.</span>
+            <span xml:id="Ac_12_6"><title>Actus Apostolorum 12, 6&#160;:</title> Cum autem producturus eum esset Herodes, in ipsa nocte erat Petrus dormiens inter duos milites, uinctus catenis duabus&#160;: et custodes ante ostium custodiebant carcerem.</span>
+            <span xml:id="Ac_12_7"><title>Actus Apostolorum 12, 7&#160;:</title> Et ecce angelus Domini astitit, et lumen refulsit in habitaculo&#160;: percussoque latere Petri, excitauit eum, dicens&#160;: Surge uelociter. Et ceciderunt catenae de manibus eius.</span>
+            <span xml:id="Ac_12_8"><title>Actus Apostolorum 12, 8&#160;:</title> Dixit autem angelus ad eum&#160;: Praecingere, et calcea te caligas tuas. Et fecit sic. Et dixit illi&#160;: Circumda tibi uestimentum tuum, et sequere me.</span>
+            <span xml:id="Ac_12_9"><title>Actus Apostolorum 12, 9&#160;:</title> Et exiens sequebatur eum, et nesciebat quia uerum est, quod fiebat per angelum&#160;: existimabat autem se uisum uidere.</span>
+            <span xml:id="Ac_12_10"><title>Actus Apostolorum 12, 10&#160;:</title> Transeuntes autem primam et secundam custodiam, uenerunt ad portam ferream, quae ducit ad ciuitatem&#160;: quae ultro aperta est eis. Et exeuntes processerunt uicum unum&#160;: et continuo discessit angelus ab eo.</span>
+            <span xml:id="Ac_16_16"><title>Actus Apostolorum 16, 16&#160;:</title> Factum est autem euntibus nobis ad orationem, puellam quamdam habentem spiritum pythonem obuiare nobis, quae quaestum magnum praestabat dominis suis diuinando.</span>
+            <span xml:id="Ac_16_17"><title>Actus Apostolorum 16, 17&#160;:</title> Haec subsecuta Paulum et nos, clamabat dicens&#160;: Isti homines serui Dei excelsi sunt, qui annuntiant uobis uiam salutis.</span>
+            <span xml:id="Ac_16_18"><title>Actus Apostolorum 16, 18&#160;:</title> Hoc autem faciebat multis diebus. Dolens autem Paulus, et conuersus, spiritui dixit&#160;: Praecipio tibi in nomine Iesu Christi exire ab ea. Et exiit eadem hora.</span>
+         </div>
+         
+         <div xml:id="Rm">
+            <head>Ad Romanos</head>
+            <span xml:id="Rm_5_8"><title>Romanos 5, 8&#160;:</title> Commendat autem caritatem suam Deus in nobis&#160;: quoniam cum adhuc peccatores essemus, secundum tempus</span>
+            <span xml:id="Rm_5_9"><title>Romanos 5, 9&#160;:</title> Christus pro nobis mortuus est&#160;: multo igitur magis nunc iustificati in sanguine ipsius, salui erimus ab ira per ipsum.</span>
+            <span xml:id="Rm_5_20"><title>Romanos 5, 20&#160;:</title> Lex autem subintrauit ut abundaret delictum. Vbi autem abundauit delictum, superabundauit gratia</span>
+            <span xml:id="Rm_6_6"><title>Romanos 6, 6&#160;:</title> Hoc scientes, quia uetus homo noster simul crucifixus est, ut destruatur corpus peccati, et ultra non seruiamus peccato.</span>
+            <span xml:id="Rm_8_17"><title>Romanos 8, 17&#160;:</title> Si autem filii, et haeredes&#160;: haeredes, quidem Dei, cohaeredes autem Christi&#160;: si tamen compatimur ut et conglorificemur.</span>
+            <span xml:id="Rm_8_29"><title>Romanos 8, 29&#160;:</title> Nam quos praesciuit, et praedestinauit conformes fieri imaginis Filii sui, ut sit ipse primogenitus in multis fratribus.</span>
+            <span xml:id="Rm_8_38"><title>Romanos 8, 38&#160;:</title> Certus sum enim quia neque mors, neque uita, neque angeli, neque principatus, neque uirtutes, neque instantia, neque futura, neque fortitudo</span>
+            <span xml:id="Rm_10_18"><title>Romanos 10, 18&#160;:</title> Sed dico&#160;: Numquid non audierunt&#160;? Et quidem in omnem terram exiuit sonus eorum, et in fines orbis terrae uerba eorum.</span>
+            <span xml:id="Rm_12_1"><title>Romanos 12, 1&#160;:</title> Obsecro itaque uos fratres per misericordiam Dei, ut exhibeatis corpora uestra hostiam uiuentem, sanctam, Deo placentem, rationabile obsequium uestrum.</span>
+            <span xml:id="Rm_12_2"><title>Romanos 12, 2&#160;:</title> Et nolite conformari huic saeculo, sed reformamini in nouitate sensus uestri&#160;: ut probetis quae sit uoluntas Dei bona, et beneplacens, et perfecta.</span>
+            <span xml:id="Rm_12_4"><title>Romanos 12, 4&#160;:</title> Sicut enim in uno corpore multa membra habemus, omnia autem membra non eumdem actum habent</span>
+            <span xml:id="Rm_12_5"><title>Romanos 12, 5&#160;:</title> Ita multi unum corpus sumus in Christo, singuli autem alter alterius membra.</span>
+            <span xml:id="Rm_13_11"><title>Romanos 13, 11&#160;:</title> Et hoc scientes tempus&#160;: quia hora est iam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus.</span>
+            <span xml:id="Rm_13_14"><title>Romanos 13, 14&#160;:</title> Sed induimini Dominum Iesum Christum, et carnis curam ne feceritis in desideriis.</span>
+         </div>
+         
+         <div xml:id="Co1">
+           <head>I ad Corinthios</head>
+            <span xml:id="Co1_1_18"><title>1 Corinthios 1, 18&#160;:</title> Verbum enim crucis pereuntibus quidem stultitia est&#160;: iis autem qui salui fiunt, id est nobis, Dei uirtus est.</span>
+            <span xml:id="Co1_1_24"><title>1 Corinthios 1, 24&#160;:</title> Ipsis autem uocatis Iudaeis, atque Graecis Christum Dei uirtutem, et Dei sapientiam</span>
+            <span xml:id="Co1_1_27"><title>1 Corinthios 1, 27&#160;:</title> Sed quae stulta sunt mundi elegit Deus, ut confundat sapientes&#160;: et infirma mundi elegit Deus, ut confundat fortia</span>
+            <span xml:id="Co1_5_7"><title>1 Corinthios 5, 7&#160;:</title> Expurgate uetus fermentum, ut sitis noua conspersio, sicut estis azymi. Etenim Pascha nostrum immolatus est Christus.</span>
+            <span xml:id="Co1_6_12"><title>1 Corinthios 6, 12&#160;:</title> Omnia mihi licent, sed non omnia expediunt&#160;: omnia mihi licent, sed ego sub nullis redigar potestate.</span>
+            <span xml:id="Co1_6_20"><title>1 Corinthios 6, 20&#160;:</title> Empti enim estis pretio magno. Glorificate, et portate Deum in corpore uestro.</span>
+            <span xml:id="Co1_9_9"><title>1 Corinthios 9, 9&#160;:</title> Scriptum est enim in lege Moysi&#160;: Non alligabis os boui trituranti. Numquid de bobus cura est Deo&#160;?</span>
+            <span xml:id="Co1_10_4"><title>1 Corinthios 10, 4&#160;:</title> Et omnes eumdem potum spiritalem biberunt (bibebant autem de spiritali, consequente eos, petra&#160;: petra autem erat Christus)</span>
+            <span xml:id="Co1_10_22"><title>1 Corinthios 10, 22&#160;:</title> An aemulamur Dominum&#160;? numquid fortiores illo sumus&#160;? Omnia mihi licent, sed non omnia expediunt.</span>
+            <span xml:id="Co1_10_23"><title>1 Corinthios 10, 23&#160;:</title> Omnia mihi licent, sed non omnia aedificat.</span> 
+            <span xml:id="Co1_12_3"><title>1 Corinthios 12, 3&#160;:</title> Ideo notum uobis facio, quod nemo in Spiritu Dei loquens, dicit anathema Iesu. Et nemo potest dicere, Dominus Iesus, nisi in Spiritu Sancto.</span>
+            <span xml:id="Co1_12_12"><title>1 Corinthios 12, 12&#160;:</title> Sicut enim corpus unum est, et membra habet multa, omnia autem membra corporis cum sint multa, unum tamen corpus sunt&#160;: ita et Christus.</span>
+            <span xml:id="Co1_12_13"><title>1 Corinthios 12, 13&#160;:</title> Etenim in uno Spiritu omnes nos in unum corpus baptizati sumus, siue Iudaei, siue gentiles, siue serui, siue liberi&#160;: et omnes in uno Spiritu potati sumus.</span>
+            <span xml:id="Co1_13_3"><title>1 Corinthios 13, 3&#160;:</title> Et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest.</span>
+            <span xml:id="Co1_15_3"><title>1 Corinthios 15, 3&#160;:</title> Tradidi enim uobis in primis quod et accepi&#160;: quoniam Christus mortuus est pro peccatis nostris secundum Scripturas</span>
+            <span xml:id="Co1_15_22"><title>1 Corinthios 15, 22&#160;:</title> Et sicut in Adam omnes moriuntur, ita et in Christo omnes uiuificabuntur.</span>
+            <span xml:id="Co1_15_23"><title>1 Corinthios 15, 23&#160;:</title> Vnusquisque autem in suo ordine, primitiae Christus&#160;: deinde ii qui sunt Christi, qui in aduentu eius crediderunt.</span>
+         </div>
+         
+         <div xml:id="Co2">
+            <head>II ad Corinthios</head>
+            <span xml:id="Co2_6_2"><title>2 Corinthios 6, 2&#160;:</title> Ait enim&#160;: Tempore accepto exaudiui te, et in die salutis adiuui te. Ecce nunc tempus acceptabile, ecce nunc dies salutis.</span>
+            <span xml:id="Co2_2_15"><title>2 Corinthios 2, 15&#160;:</title> Quia Christi bonus odor sumus Deo in iis qui salui fiunt, et in iis qui pereunt</span>
+         </div>
+         
+         <div xml:id="Ga">
+            <head>Ad Galatas</head>
+            <span xml:id="Ga_3_28"><title>Galatas 3, 28&#160;:</title> Non est Iudaeus, neque Graecus&#160;: non est seruus, neque liber&#160;: non est masculus, neque femina. Omnes enim uos unum estis in Christo Iesu.</span>
+            <span xml:id="Ga_5_16"><title>Galatas 5, 16&#160;:</title> Dico autem&#160;: Spiritu ambulate, et desideria carnis non perficietis.</span>
+         </div>
+         
+         <div xml:id="Ep">
+            <head>Ad Ephesios</head>
+            <span xml:id="Ep_2_2"><title>Ephesios 2, 2&#160;:</title> In quibus aliquando ambulastis secundum saeculum mundi huius, secundum principem potestatis aeris huius, spiritus, qui nunc operatur in filios diffidentiae</span>
+            <span xml:id="Ep_2_14"><title>Ephesios 2, 14&#160;:</title> Ipse enim est pax nostra, qui fecit utraque unum, et medium parietem maceriae soluens, inimicitias in carne sua</span>
+            <span xml:id="Ep_4_15"><title>Ephesios 4, 15&#160;:</title> Veritatem autem facientes in caritate, crescamus in illo per omnia, qui est caput Christus</span>
+            <span xml:id="Ep_4_16"><title>Ephesios 4, 16&#160;:</title> Ex quo totum corpus compactum et connexum per omnem iuncturam subministrationis, secundum operationem in mensuram uniuscuiusque membri, augmentum corporis facit in aedificationem sui in caritate.</span>
+            <span xml:id="Ep_4_22"><title>Ephesios 4, 22&#160;:</title> Deponere uos secundum pristinam conuersationem ueterem hominem, qui corrumpitur secundum desideria erroris.</span>
+            <span xml:id="Ep_4_23"><title>Ephesios 4, 23&#160;:</title> Renouamini autem spiritu mentis uestrae</span>
+            <span xml:id="Ep_4_24"><title>Ephesios 4, 24&#160;:</title> Et induite nouum hominem, qui secundum Deum creatus est in iustitia, et sanctitate ueritatis</span>
+            <span xml:id="Ep_6_12"><title>Ephesios 6, 12&#160;:</title> Quoniam non est nobis colluctatio aduersus carnem et sanguinem, sed aduersus principes, et potestates, aduersus mundi rectores tenebrarum harum, contra spiritualia nequitiae, in caelestibus.</span>
+            <span xml:id="Ep_6_16"><title>Ephesios 6, 16&#160;:</title> In omnibus sumentes scutum fidei, in quo possitis omnia tela nequissimi ignea extinguere</span>
+            <span xml:id="Ep_6_17"><title>Ephesios 6, 17&#160;:</title> Et galeam salutis assumite, et gladium spiritus (quod est uerbum Dei)</span>
+         </div>
+         
+         <div xml:id="Ph">
+            <head>Ad Philippenses</head>
+            <span xml:id="Ph_2_6"><title>Philippenses 2, 6&#160;:</title> Qui cum in forma Dei esset, non rapinam arbitratus est esse se aequalem Deo</span>
+            <span xml:id="Ph_2_7"><title>Philippenses 2, 7&#160;:</title> Sed semetipsum exinaniuit, formam serui accipiens, in similitudinem hominum factus, et habitu inuentus ut homo.</span>
+            <span xml:id="Ph_2_8"><title>Philippenses 2, 8&#160;:</title> Humiliauit semetipsum factus obediens usque ad mortem, mortem autem crucis.</span>
+            <span xml:id="Ph_2_9"><title>Philippenses 2, 9&#160;:</title> Propter quod et Deus exaltauit illum, et donauit illi nomen, quod est super omne nomen</span>
+            <span xml:id="Ph_3_7"><title>Philippenses 3, 7&#160;:</title> Sed quae mihi fuerunt lucra, haec arbitratus sum propter Christum detrimenta.</span>
+            <span xml:id="Ph_3_8"><title>Philippenses 3, 8&#160;:</title> Verumtamen existimo omnia detrimentum esse propter eminentem scientiam Iesu Christi Domini mei&#160;: propter quem omnia detrimentum feci, et arbitror ut stercora, ut Christum lucrifaciam</span>
+            <span xml:id="Ph_3_19"><title>Philippenses 3, 19&#160;:</title> Quorum finis interitus&#160;: quorum Deus uenter est&#160;: et gloria in confusione ipsorum, qui terrena sapiunt.</span>
+         </div>
+         
+         <div xml:id="Col">
+            <head>Ad Colossenses</head>
+            <span xml:id="Col_1_16"><title>Colossenses 1, 16&#160;:</title> Quoniam in ipso condita sunt uniuersa in caelis, et in terra, uisibilia, et inuisibilia, siue throni, siue dominationes, siue principatus, siue potestates&#160;: omnia per ipsum et in ipso creata sunt</span>
+            <span xml:id="Col_1_17"><title>Colossenses 1, 17&#160;:</title> Et ipse est ante omnes, et omnia in ipso constant.</span>
+            <span xml:id="Col_1_20"><title>Colossenses 1, 20&#160;:</title> Et per eum reconciliare omnia in ipsum, pacificans per sanguinem crucis eius, siue quae in terris, siue quae in caelis sunt.</span>
+            <span xml:id="Col_3_9"><title>Colossenses 3, 9&#160;:</title> Nolite mentiri inuicem, expoliantes uos ueterem hominem cum actibus suis</span>
+            <span xml:id="Col_3_10"><title>Colossenses 3, 10&#160;:</title> Et induentes nouum eum, qui renouatur in agnitionem secundum imaginem eius qui creauit illum</span>
+            <span xml:id="Col_3_11"><title>Colossenses 3, 11&#160;:</title> Vbi non est gentilis et Iudaeus, circumcisio et praeputium, Barbarus et Scytha, seruus et liber&#160;: sed omnia, et in omnibus Christus.</span>
+         </div>
+         
+         <div xml:id="Th1">
+            <head>I ad Thessalonicenses</head>
+            <span xml:id="Th1_1_9"><title>1 Thessalonicenses 1, 9&#160;:</title> Ipsi enim de nobis annuntiant qualem introitum habuerimus ad uos&#160;: et quomodo conuersi estis ad Deum a simulacris, seruire Deo uiuo, et uero</span>
+            <span xml:id="Th1_5_2"><title>1 Thessalonicenses 5, 2&#160;:</title> Ipsi enim diligenter scitis quia dies Domini, sicut fur in nocte, ita ueniet</span>
+         </div>
+         
+         <div xml:id="Th2">
+            <head>II ad Thessalonicenses</head>
+            <span xml:id="Th2_1_10"><title>2 Thessalonicenses 1, 10&#160;:</title> Cum uenerit glorificari in sanctis suis, et admirabilis fieri in omnibus, qui crediderunt, quia creditum est testimonium nostrum super uos in die illo.</span>
+         </div>
+         
+         <div xml:id="Ti1">
+            <head>I ad Timotheum</head>
+            <span xml:id="Ti1_1_14"><title>1 Timotheum 1, 14&#160;:</title> Superabundauit autem gratia Domini nostri cum fide, et dilectione, quae est in Christo Iesu.</span>
+         </div>
+         
+         <div xml:id="Ti2">
+            <head>II ad Timotheum</head>
+            <span xml:id="Ti2_2_9"><title>2 Timotheum 2, 9&#160;:</title> In quo laboro usque ad uincula, quasi male operans&#160;: sed uerbum Dei non est alligatum.</span>
+         </div>
+         
+         <div xml:id="Tt">
+            <head>Ad Titum</head>
+            <span xml:id="Tt_3_5"><title>Titum 3, 5&#160;:</title> Non ex operibus iustitiae, quae fecimus nos, sed secundum suam misericordiam saluos nos fecit per lauacrum regenerationis et renouationis Spiritus Sancti</span>
+         </div>
+         
+         <div xml:id="Phm">
+            <head>Ad Philemonem</head>
+            <span xml:id="Phm_1_2"><title>Philemonem 1, 2&#160;:</title> Et Appiae sorori carissimae, et Archippo commilitoni nostro, et ecclesiae, quae in domo tua est.</span>
+         </div>
+         
+         <div xml:id="He">
+            <head>Ad Hebraeos</head>
+            <span xml:id="He_4_14"><title>Hebraeos 4, 14&#160;:</title> Habentes ergo pontificem magnum qui penetrauit caelos, Iesum Filium Dei, teneamus confessionem.</span>
+            <span xml:id="He_7_24"><title>Hebraeos 7, 24&#160;:</title> Hic autem eo quod maneat in aeternum, sempiternum habet sacerdotium.</span>
+            <span xml:id="He_9_14"><title>Hebraeos 9, 14&#160;:</title> Quanto magis sanguis Christi, qui per Spiritum Sanctum semetipsum obtulit immaculatum Deo, emundabit conscientiam nostram ab operibus mortuis, ad seruiendum Deo uiuenti&#160;?</span>
+            <span xml:id="He_13_15"><title>Hebraeos 13, 15&#160;:</title> Per ipsum ergo offeramus hostiam laudis semper Deo, id est, fructum labiorum confitentium nomini eius.</span>
+         </div>
+         
+         <div xml:id="P1">
+            <head>I Petri</head>
+            <span xml:id="P1_1_19"><title>1 Petri 1, 19&#160;:</title> Sed pretioso sanguine quasi agni immaculati Christi, et incontaminati</span>
+            <span xml:id="P1_4_3"><title>1 Petri 4, 3&#160;:</title> Sufficit enim praeteritum tempus ad uoluntatem gentium consummandam his qui ambulauerunt in luxuriis, desideriis, vinolentiis, comessationibus, potationibus, et illicitis idolorum cultibus.</span>
+            <span xml:id="P1_5_4"><title>1 Petri 5, 4&#160;:</title> Et cum apparuerit princeps pastorum, percipietis immarcescibilem gloriae coronam.</span>
+            <span xml:id="P1_5_5"><title>1 Petri 5, 5&#160;:</title> Similiter adolescentes subditi estote senioribus. Omnes autem inuicem humilitatem insinuate, quia Deus superbis resistit, humilibus autem dat gratiam.</span>
+            <span xml:id="P1_5_8"><title>1 Petri 5, 8&#160;:</title> Sobrii estote, et uigilate&#160;: quia aduersarius uester diabolus tamquam leo rugiens circuit, quaerens quem deuoret</span>
+         </div>
+         
+         <div xml:id="P2">
+            <head>II Petri</head>
+            <span xml:id="P2_1_4"><title>2 Petri 1, 4&#160;:</title> Per quem maxima, et pretiosa nobis promissa donauit&#160;: ut per haec efficiamini diuinae consortes naturae&#160;: fugientes eius, quae in mundo est, concupiscentiae corruptionem.</span>
+         </div>
+         
+         <div xml:id="Ap">
+            <head>Apocalypsis</head>
+            <span xml:id="Ap_1_8"><title>Apocalypsis 1, 8&#160;:</title> Ego sum alpha et omega, principium et finis, dicit Dominus Deus&#160;: qui est, et qui erat, et qui uenturus est, omnipotens.</span>
+            <span xml:id="Ap_1_16"><title>Apocalypsis 1, 16&#160;:</title> Et habebat in dextera sua stellas septem&#160;: et de ore eius gladius utraque parte acutus exibat&#160;: et facies eius sicut sol lucet in uirtute sua.</span>
+            <span xml:id="Ap_5_6"><title>Apocalypsis 5, 6&#160;:</title> Et uidi&#160;: et ecce in medio throni et quatuor animalium, et in medio seniorum, Agnum stantem tamquam occisum, habentem cornua septem, et oculos septem&#160;: qui sunt septem spiritus Dei, missi in omnem terram.</span>
+            <span xml:id="Ap_5_12"><title>Apocalypsis 5, 12&#160;:</title> Dicentium uoce magna&#160;: Dignus est Agnus, qui occisus est, accipere uirtutem, et diuinitatem, et sapientiam, et fortitudinem, et honorem, et gloriam, et benedictionem.</span>
+            <span xml:id="Ap_12_9"><title>Apocalypsis 12, 9&#160;:</title> Et proiectus est draco ille magnus, serpens antiquus, qui uocatur diabolus, et Satanas, qui seducit uniuersum orbem&#160;: et proiectus est in terram, et angeli eius cum illo missi sunt.</span>
+            <span xml:id="Ap_14_4"><title>Apocalypsis 14, 4&#160;:</title> Hi sunt, qui cum mulieribus non sunt coinquinati&#160;: uirgines enim sunt. Hi sequuntur Agnum quocumque ierit. Hi empti sunt ex hominibus primitiae Deo, et Agno</span>
+            <span xml:id="Ap_14_14"><title>Apocalypsis 14, 14&#160;:</title> Et uidi&#160;: et ecce nubem candidam, et super nubem sedentem similem Filio hominis, habentem in capite suo coronam auream, et in manu sua falcem acutam.</span>
+            <span xml:id="Ap_20_2"><title>Apocalypsis 20, 2&#160;:</title> Et apprehendit draconem, serpentem antiquum, qui est diabolus, et Satanas, et ligauit eum per annos mille</span>
+            <span xml:id="Ap_21_5"><title>Apocalypsis 21, 5&#160;:</title> Et dixit qui sedebat in throno&#160;: Ecce noua facio omnia. Et dixit mihi&#160;: Scribe, quia haec uerba fidelissima sunt, et uera.</span>
+            <span xml:id="Ap_21_6"><title>Apocalypsis 21, 6&#160;:</title> Et dixit mihi&#160;: Factum est&#160;: ego sum alpha et omega, initium et finis. Ego sitienti dabo de fonte aquae uitae, gratis.</span>
+            <span xml:id="Ap_22_13"><title>Apocalypsis 22, 13&#160;:</title> Ego sum alpha et omega, primus et nouissimus, principium et finis.</span>
+         </div>
+      </body>
+  </text>
+</TEI>
