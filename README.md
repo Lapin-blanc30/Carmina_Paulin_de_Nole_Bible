@@ -7,7 +7,7 @@ Le projet sur les _Carmina_ de Paulin de Nole et la Bible contient deux volets :
 
 Pour l'instant, seuls les _Natalicia_, les poèmes composés chaque année pour l'anniversaire de la mort de saint Félix de Nole, ont été encodés et sont présents sur le site. Ils seront complétés ultérieurement par les _Carmina uaria_.
 
-Ce dépôt contient l'ensemble des fichiers du projet. Le site internet, hébergé par GitHub pages, est disponible [ici] (https://lapin-blanc30.github.io/).
+Ce dépôt contient l'ensemble des fichiers du projet. Le site internet, hébergé par GitHub pages, est disponible à l'adresse suivante : <https://lapin-blanc30.github.io/>.
 
 ## Données
 Le texte latin des _Carmina_, sans l'apparat critique, et la numérotation des poèmes sont ceux de l'édition de Franz Dolveck au _Corpus christianorum_ (Turnhout, Brepols, 2015). Les réminiscences bibliques indiquées comportent les références indiquées par F. Dolveck et les fruits d'une recherche personnelle. Le texte de la Vulgate a été repris sur le site [BibleGateway](https://www.biblegateway.com/versions/Biblia-Sacra-Vulgata-VULGATE/#booklist).
